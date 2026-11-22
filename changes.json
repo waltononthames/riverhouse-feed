@@ -1,0 +1,633 @@
+{
+ "generated_at": "2026-11-22T19:05:05+00:00",
+ "compared_with": null,
+ "complete": true,
+ "new": [
+  {
+   "id": 178407,
+   "name": "Introduction to Jewellery Making (Monday or Friday)",
+   "start_datetime": "2026-11-23 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178603,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2026-11-23 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 171424,
+   "name": "Riverhouse Barn Choir  (MD: Johnny Kilhams)",
+   "start_datetime": "2026-11-24 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 177309,
+   "name": "RC Sherriff Trust - Sherriff Talk and Silver Screen - November",
+   "start_datetime": "2026-11-24 11:30:00",
+   "change": "new"
+  },
+  {
+   "id": 171262,
+   "name": "Dance Happy - Adult Ballet Classes at 5.30pm and 6.40pm",
+   "start_datetime": "2026-11-24 17:30:00",
+   "change": "new"
+  },
+  {
+   "id": 173008,
+   "name": "Learn to Crochet course",
+   "start_datetime": "2026-11-24 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178549,
+   "name": "Alter Ego - Drama for Adults",
+   "start_datetime": "2026-11-24 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 175079,
+   "name": "Threads of Time, a textile exhibition",
+   "start_datetime": "2026-11-25 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 183261,
+   "name": "Live Poetry At Riverhouse - November",
+   "start_datetime": "2026-11-25 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 169337,
+   "name": "Thursday Creative Stitch Autumn term 2026",
+   "start_datetime": "2026-11-26 10:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180843,
+   "name": "Xmas Special - Enamelling Beginners and Improvers Workshops",
+   "start_datetime": "2026-11-26 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 172245,
+   "name": "Our ArtClub (Years 1-6)",
+   "start_datetime": "2026-11-26 16:45:00",
+   "change": "new"
+  },
+  {
+   "id": 178585,
+   "name": "Art for Beginners and Continuers Autumn term 2026",
+   "start_datetime": "2026-11-26 18:15:00",
+   "change": "new"
+  },
+  {
+   "id": 178597,
+   "name": "NEW Mixed Media Art Class - 10 week course",
+   "start_datetime": "2026-11-27 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 175165,
+   "name": "The Red Stripe Band",
+   "start_datetime": "2026-11-27 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 162802,
+   "name": "GreenMatthews: Midwinter Revels",
+   "start_datetime": "2026-11-29 14:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178408,
+   "name": "Introduction to Jewellery Making (Monday or Friday)",
+   "start_datetime": "2026-11-30 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178604,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2026-11-30 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 171425,
+   "name": "Riverhouse Barn Choir  (MD: Johnny Kilhams)",
+   "start_datetime": "2026-12-01 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 171263,
+   "name": "Dance Happy - Adult Ballet Classes at 5.30pm and 6.40pm",
+   "start_datetime": "2026-12-01 17:30:00",
+   "change": "new"
+  },
+  {
+   "id": 176943,
+   "name": "Hummingbird Harmony and Wellbeing Sound Baths",
+   "start_datetime": "2026-12-01 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178550,
+   "name": "Alter Ego - Drama for Adults",
+   "start_datetime": "2026-12-01 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 169318,
+   "name": "Creative Stitch morning class Autumn Term 2026",
+   "start_datetime": "2026-12-02 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 169328,
+   "name": "Creative Stitch afternoon class Autumn term 2026",
+   "start_datetime": "2026-12-02 12:30:00",
+   "change": "new"
+  },
+  {
+   "id": 169338,
+   "name": "Thursday Creative Stitch Autumn term 2026",
+   "start_datetime": "2026-12-03 10:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180845,
+   "name": "Enamelling Beginners and Improvers Workshops",
+   "start_datetime": "2026-12-03 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 173654,
+   "name": "Riverhouse Poets - Poetry writing workshop with Katie Griffiths",
+   "start_datetime": "2026-12-03 13:30:00",
+   "change": "new"
+  },
+  {
+   "id": 172246,
+   "name": "Our ArtClub (Years 1-6)",
+   "start_datetime": "2026-12-03 16:45:00",
+   "change": "new"
+  },
+  {
+   "id": 178586,
+   "name": "Art for Beginners and Continuers Autumn term 2026",
+   "start_datetime": "2026-12-03 18:15:00",
+   "change": "new"
+  },
+  {
+   "id": 178598,
+   "name": "NEW Mixed Media Art Class - 10 week course",
+   "start_datetime": "2026-12-04 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 180868,
+   "name": "Woodcarvers Autumn term -  in the Toshiba Studio",
+   "start_datetime": "2026-12-05 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 156474,
+   "name": "A Merry Swingin' Christmas With Sing That Swing!",
+   "start_datetime": "2026-12-05 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 180971,
+   "name": "Jazz & Beer - Enrico Tomasso's Riverboat Shufflers",
+   "start_datetime": "2026-12-06 12:15:00",
+   "change": "new"
+  },
+  {
+   "id": 178427,
+   "name": "Introduction to Jewellery Making (Monday or Friday)",
+   "start_datetime": "2026-12-07 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178605,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2026-12-07 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 171264,
+   "name": "Dance Happy - Adult Ballet Classes at 5.30pm and 6.40pm",
+   "start_datetime": "2026-12-08 17:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178551,
+   "name": "Alter Ego - Drama for Adults",
+   "start_datetime": "2026-12-08 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 179359,
+   "name": "Bell Farm Primary School Exhibition",
+   "start_datetime": "2026-12-09 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 175294,
+   "name": "CHRISTMAS Lunchtime Concert - A Christmas Carol: a musical drama (‘melodrama’) for narrator, violin and piano",
+   "start_datetime": "2026-12-09 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 180846,
+   "name": "Enamelling Beginners and Improvers Workshops",
+   "start_datetime": "2026-12-10 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 172247,
+   "name": "Our ArtClub (Years 1-6)",
+   "start_datetime": "2026-12-10 16:45:00",
+   "change": "new"
+  },
+  {
+   "id": 173950,
+   "name": "Mock Tudor Comedy Club - December",
+   "start_datetime": "2026-12-11 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 184768,
+   "name": "WHIMSICAL WONKI CHRISTMAS VILLAGE",
+   "start_datetime": "2026-12-12 13:30:00",
+   "change": "new"
+  },
+  {
+   "id": 179644,
+   "name": "Riverhouse Christmas Cheer - A Special Fundraising Evening",
+   "start_datetime": "2026-12-12 19:00:00",
+   "change": "new"
+  },
+  {
+   "id": 180219,
+   "name": "Edgelarks - Walton Folk",
+   "start_datetime": "2026-12-13 12:15:00",
+   "change": "new"
+  },
+  {
+   "id": 178606,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2026-12-14 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180497,
+   "name": "Bell Farm Choir at Riverhouse Barn",
+   "start_datetime": "2026-12-16 10:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180967,
+   "name": "Simply at Christmas (a Celebration of the Great American Songbook and the Stories Behind Them)",
+   "start_datetime": "2026-12-18 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180464,
+   "name": "Tim's History Talk- From Saturnalia to Santa: The Pagan Roots of Christmas",
+   "start_datetime": "2026-12-19 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 184077,
+   "name": "The Snowman and Festive Family Favourites  - A Harmony's Music Club Christmas Concert",
+   "start_datetime": "2026-12-20 11:00:00",
+   "change": "new"
+  },
+  {
+   "id": 179714,
+   "name": "The Snowman and Festive Family Favourites  - A Harmony's Music Club Christmas Concert",
+   "start_datetime": "2026-12-20 14:00:00",
+   "change": "new"
+  },
+  {
+   "id": 172378,
+   "name": "Ghost Stories For Christmas by Edwyrdian Tales",
+   "start_datetime": "2026-12-21 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180474,
+   "name": "RC Sherriff Trust - Sherriff Talk and Silver Screen - December",
+   "start_datetime": "2026-12-22 11:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178609,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-01-04 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180449,
+   "name": "'We Are Like That Only!'",
+   "start_datetime": "2027-01-06 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 184580,
+   "name": "Gilmore & Roberts - Walton Folk",
+   "start_datetime": "2027-01-10 12:15:00",
+   "change": "new"
+  },
+  {
+   "id": 178610,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-01-11 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180450,
+   "name": "Storytelling of dreams, by Konstantinos: A retrospective of 20 years in 30 paintings",
+   "start_datetime": "2027-01-13 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 174695,
+   "name": "Lunchtime concert - Duality, Four Hands on One Keyboard Emma Abbate & Julian Perkins",
+   "start_datetime": "2027-01-13 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 181717,
+   "name": "Royston Pike Lectures- Musical Encounters: Of Humans and Machines with Milton Mermikides (Jan 2027)",
+   "start_datetime": "2027-01-13 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178611,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-01-18 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180452,
+   "name": "The Nude + The Mind",
+   "start_datetime": "2027-01-20 10:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178612,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-01-25 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178613,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-02-01 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 181267,
+   "name": "Lunchtime Concert - Elmore Quartet",
+   "start_datetime": "2027-02-03 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 181101,
+   "name": "PINOCCHIO",
+   "start_datetime": "2027-02-07 14:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178614,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-02-08 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 184586,
+   "name": "Tobias Ben Jacob: Icons and Influences; The NEIL YOUNG Acoustic Songbook. - Walton Folk",
+   "start_datetime": "2027-02-14 12:15:00",
+   "change": "new"
+  },
+  {
+   "id": 178615,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-02-15 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 181718,
+   "name": "Royston Pike Lectures: County Herb Committees with Our Plant Stories (Feb 2027)",
+   "start_datetime": "2027-02-18 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 184993,
+   "name": "Jazz & Beer - The Forest Hill Owls",
+   "start_datetime": "2027-02-21 12:15:00",
+   "change": "new"
+  },
+  {
+   "id": 178616,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-02-22 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178617,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-03-01 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 181719,
+   "name": "Royston Pike Lectures: The Library: a brief history of books and the buildings that house them  (Mar 2027)",
+   "start_datetime": "2027-03-03 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 181814,
+   "name": "Mother's Day Concert -Violetta Suvini (Violin), Salome Jordania (Piano)",
+   "start_datetime": "2027-03-07 16:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178618,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-03-08 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180936,
+   "name": "Jon Boden – ‘A Folk Song A Day’ Solo Tour - Walton Folk",
+   "start_datetime": "2027-03-09 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 183501,
+   "name": "Lunchtime Concert -  Wren Piano Trio",
+   "start_datetime": "2027-03-10 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178619,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-03-15 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178620,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-03-22 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178621,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-03-29 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 153118,
+   "name": "Andrew Ryan: Honest Capacity",
+   "start_datetime": "2027-04-03 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 184584,
+   "name": "Harbottle & Jonas",
+   "start_datetime": "2027-04-04 12:15:00",
+   "change": "new"
+  },
+  {
+   "id": 181905,
+   "name": "Jazz Sabbath",
+   "start_datetime": "2027-04-04 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178622,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-04-05 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 181105,
+   "name": "DU IZ TAK?  (Age 3+)",
+   "start_datetime": "2027-04-11 14:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178623,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-04-12 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 183949,
+   "name": "Lunchtime Concert -  Anthony Friend  (clarinet), Joseph Spooner (cello), Pavel Timofeyevsky (piano)",
+   "start_datetime": "2027-04-14 13:00:00",
+   "change": "new"
+  },
+  {
+   "id": 153114,
+   "name": "Charlie Baker: Go Get It",
+   "start_datetime": "2027-04-16 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178624,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-04-19 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178625,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-04-26 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 181597,
+   "name": "Emily Saunders - INTERNATIONAL JAZZ DAY",
+   "start_datetime": "2027-04-30 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178626,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-05-03 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 182346,
+   "name": "DUO DESTINO -   Flamenco Fusion",
+   "start_datetime": "2027-05-07 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 182347,
+   "name": "DUO DESTINO - Flamenco Fusion",
+   "start_datetime": "2027-05-08 20:00:00",
+   "change": "new"
+  },
+  {
+   "id": 181104,
+   "name": "The Brain Bending Science Illusion Show",
+   "start_datetime": "2027-05-09 14:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178627,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-05-10 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 181804,
+   "name": "Teatime Concert - Oliver Nelson (Violin), Vasilis Rakitzis (Piano)",
+   "start_datetime": "2027-05-16 17:00:00",
+   "change": "new"
+  },
+  {
+   "id": 178628,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-05-17 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 184114,
+   "name": "Red Hot Strings - Back By Popular Demand!",
+   "start_datetime": "2027-05-21 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178629,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-05-24 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 178630,
+   "name": "Life Drawing Classes",
+   "start_datetime": "2027-05-31 18:30:00",
+   "change": "new"
+  },
+  {
+   "id": 180052,
+   "name": "Andy Parsons: Work In Progress",
+   "start_datetime": "2027-07-01 19:30:00",
+   "change": "new"
+  },
+  {
+   "id": 182105,
+   "name": "Marcus Brigstocke: Work In Progress",
+   "start_datetime": "2027-07-14 19:30:00",
+   "change": "new"
+  }
+ ],
+ "changed": [],
+ "removed": []
+}
