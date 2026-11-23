@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-22T19:05:05+00:00",
+ "generated_at": "2026-11-23T03:36:18+00:00",
  "source": "https://www.riverhousebarn.co.uk/browse",
  "complete": true,
  "pages_read": 9,
@@ -40,6 +40,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5932484/conversions/zk2D0ovLWgWjmMOY-thumb.jpg",
    "description_text": "Come and learn the basic traditional skills of silver jewellery making and complete your very own design. Under Sarah’s guidance each student will have the opportunity to design and create a unique piece of jewellery.\nTo enrol, email: sarahlevy37@yahoo.com\nTools provided, but materials will be extra.\nTutor: Sarah Levy\nClasses\nMonday 10am – 12noon\nMonday 4pm - 6pm\nFriday 10am – 12noon"
   },
@@ -78,6 +79,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954568/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -116,6 +118,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5440501/conversions/HqeYoUt9hD82EOOP-thumb.jpg",
    "description_text": "The Autumn term will start on Tuesday 15 September. There will be 10 sessions of rehearsals:\nSeptember 15, 22 , 29\nOctober 6, 13\nNovember 3, 10, 17, 24\nDecember 1\nShorter rehearsal from 10:00 to 11:00am on 22 September and 24 November\nTerm Subs: £80 (for 10 sessions)\n--------------------------------------------------\nSpring 2027!\nThe choir will resume on Tuesday 12 January 2027.\nThe 10 rehearsal dates are:\nJan 12 19* 26\nFeb 2 9 23*\nMar 2 9 16* 23\n10 am to 11:30 am\nShorter session on 19 Jan, 23 Feb and 16 March : 10 am to 11:00am\nTo find out more about the choir, email Music Director Johnny Kilhams at jonathan.kilhams@gmail.com"
   },
@@ -154,6 +157,20 @@
    "price_min": 5.0,
    "price_max": 8.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Talk only",
+     "price": 5.0
+    },
+    {
+     "name": "Silver Screen Screening (Film only)",
+     "price": 5.0
+    },
+    {
+     "name": "Talk and Film Combo",
+     "price": 8.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5838073/conversions/N8fZNJS079SzrO0J-thumb.jpg",
    "description_text": "Sherriff Talk - A Story So Elementary – Sherlock Holmes on Screen\nLess than 20 years after his first appearance in 1887’s ‘The Study in Scarlet’, Sherlock Holmes was gracing the Silver Screen. This Talk looks at those directors and actors, from across the world, who have attempted successfully…and occasionally not quite so…to bring Arthur Conan Doyle’s most famous creation to the screen.\nSilver Screen - Hamnet - 2025 ‧ Drama ‧ 2h 6m rated 12y\nBased on Maggie O’Farrell’s 2020 novel , the film dramatises the family life of William Shakespeare and his wife Agnes Hathaway as they cope with the death of their 11-year-old son Hamnet . Featuring an Oscar-winning performance by Jessie Buckley as Agnes alongside Paul Mescal as William.\nDate: Tuesday 24 November 2026\nTalk : 11:30am\nFilm: 1:30pm\nTicket: £5 for talk or screening/ £8 for both talk and screening (Cash at the doors)"
   },
@@ -192,6 +209,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5428311/conversions/51H8FR8aHcbn5jEC-thumb.jpg",
    "description_text": "Excellent for improving core strength, posture and confidence. The classes begin with a barre workout and whilst some technique is tackled, the main focus is on the joy of movement and musicality.\nJo runs two ballet classes on Tuesdays during term time:\n5.30pm - 6.30pm\n6.40pm - 7.40pm\nEmail jo_haley@hotmail.com for more info."
   },
@@ -229,6 +247,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5561320/conversions/Ft2sWqlLw3dqCn2I-thumb.jpg",
    "description_text": "Learn to Crochet Course\nThis learn to crochet course is for you if you are :\nA complete beginner and you’ve never even picked up a hook.\nSomeone that has dabbled in crochet but never really got to grips with it.\nSomeone that may have crocheted many years ago but need refreshing on the basic techniques. Self-taught from the internet but want to make sure you’re not picking up any bad habits.\nTimes & Dates:\nWeek 1: Tuesday 3 November 2026, 7:30-9:30pm\nWeek 2: Tuesday 10 November 2026, 7:30-9:30pm\nWeek 3: Tuesday 17 November 2026, 7:30-9:30pm\nWeek 4: Tuesday 24 November 2026, 7:30-9:30pm\nCost : £96 for 4 x 2 hour sessions - all materials included.\nPlease book here: https://mezzacraft.com/learn-to-crochet-surrey-2/"
   },
@@ -267,6 +286,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5952704/conversions/ylmYh6VYXkEvJwGp-thumb.jpg",
    "description_text": "Alter Ego, Adult Drama Classes\nDevelop acting and performance skills, tap into your dramatic creativity and unleash your alter ego!\nThrough drama games and acting exercises our fun workshop-style sessions will give you the freedom to explore the process of making drama without the pressure of being in a production. Come along for a creative workout!\nNo experience necessary, new members can join at any stage of the term following a free taster session.\nTo book, contact Caroline Dooley:\nEmail: enquiries@drama4adults.com\nWebsite: www.drama4adults.com\nDays : Tuesdays: 8 – 9.30pm\nCost: Dependent on how many weeks in the term"
   },
@@ -304,6 +324,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5698324/conversions/iOnmylxLPgmN0kVh-thumb.jpg",
    "description_text": "Thames Valley Contemporary Textiles is a group of interesting and diverse members, who combined - have an immense range of experience and talents from traditional crafts to contemporary textiles. Our mission as a group is to learn from each other, be progressive and forward thinking but most importantly keeping the traditional crafts alive and passing these amazing skills and techniques onto the next generation.\n‘Threads of Time’ is an intimate exhibition of mixed media and textile work inspired by the personal, symbolic and cultural connections to an artefact resulting in a modern interpretation. Artefacts can be powerful non-verbal storytellers, to educate and express personal experiences to a place, a time and society thus inspiring a diverse range of ideas and outcomes.\nOpen daily, 10am - 4pm\nFree admission"
   },
@@ -342,6 +363,16 @@
    "price_min": 5.0,
    "price_max": 5.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 5.0
+    },
+    {
+     "name": "Disabled",
+     "price": 5.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6404641/conversions/UNI5TGRgqjOkG1qs-thumb.jpg",
    "description_text": "Live Poetry at Riverhouse, our monthly series bringing the spoken word to the warm, intimate setting of the Barn stage, returns with more guest poets of national standing who’ll read and discuss their work, plus the ever popular Open Mic spots, where you have the chance to read your own work to a friendly, appreciative audience! The evenings are once again hosted by Riverhouse Poets tutor Katie Griffiths.\nIn this month’s event, Katie will be in conversation with headliners Jacqueline Saphra and John McCullough , both prize-winning poets whose work fearlessly embraces vital modern themes.\nJacqueline Saphra is a poet, playwright, librettist and activist. She is the author of nine plays, five chapbooks and five poetry collections. Her second collection, All My Mad Mothers (Nine Arches Press) was shortlisted for the TS Eliot Prize. Her fifth, Velvel’s Violin , a Poetry Book Society Recommendation and Radio 4 Poetry Book of the month, was published by Nine Arches Press in July 2023 and her sixth collection will be out in 2027. She teaches for The Poetry School and is a founder member of Poets for The Planet.\nJohn McCullough lives in Hove. His book of poems, Reckless Paper Birds (Penned in the Margins) won the 2020 Hawthornden Prize for Literature as well as being shortlisted for the Costa Poetry Award. John’s collections have been Books of the Year for publications including The Guardian, The Times, The Independent and The Telegraph and he also won the Polari First Book Prize. The poem ‘Flower of Sulphur’, from his fourth collection Panic Response (Penned in the Margins), was shortlisted for the 2021 Forward Prize for Best Single Poem. His fifth collection, Crowd Voltage , was published in March 2026 by Bloodaxe.\nKatie Griffiths is author of The Attitudes and Mindset Mindrise (Nine Arches Press) and the prize-winning My Shrink is Pregnant (Live Canon). She came second in 2018’s National Poetry Competition, and in 2024 won the Gregory O’Donoghue International Poetry Prize. She regularly mentors, and leads poetry workshops including here at Riverhouse."
   },
@@ -379,6 +410,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5283037/conversions/OLKRUlK8uY4lOP7J-thumb.jpg",
    "description_text": "A stitch and textile class run by Janet McDonagh who is a qualified embroiderer. Janet's forte is creating backgrounds to stitch on and she will be exploring a wide range of stichwork techniques both by hand and machine.\nClasses start on Thursday 24 September 10.30am to 12.30pm and run for 10 weeks with 1 week half term."
   },
@@ -416,6 +448,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6155923/conversions/qwRhzu8SoY06BESk-thumb.jpg",
    "description_text": "Enamel skills for beginners & improvers - Christmas Decorations workshops\nEnamelling is heating powder or liquid glass onto copper metal shapes to create jewellery, keyring or pictures and much more. 3 week courses covering introductory and improvers enamelling skills. New students will learn the initial basics of enamelling. Returning students can improve their skills or explore a new technique.\nTo enrol or ask questions contact learn.enamel@gmail.com\nThursday 1pm to 4pm\nCost: 3 sessions x 3hrs £88 6 sessions x 3hrs £170 9 sessions x 3hrs £255 12 sessions x 3 hours £340 (works out under £10 per hour). Loyalty discount also available to people attending all terms.\nCost includes RHB facilities, teaching, kiln & tool usage. Copper metal and enamel material are paid for separately in class. Typical pendant cost £5 to £10 depending on materials used.Beginners skills cover: scraffito, masking, screens, sifting, brushing, colour layering & design, finishing skills for creating smooth surface finish + bubbling or cracking issue resolution.Improvers skills covers: transparent/opaque colour layering and effects, wet process, 3 dimensional thin copper shim, wire work & cloisonné, small bowls and much more. You must be 18 or over and be prepared to adhere to safety procedures. No previous experience is needed."
   },
@@ -454,6 +487,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5487850/conversions/iOHIkJZIUjT1ESOY-thumb.jpg",
    "description_text": "Limited spaces but lots and lots of fun.\nWeekly on Thursdays\nBook your place: ourartclub4fun@gmail.com\n'Our ArtClub' looks to develop and build on the basic understanding that the arts are all around us.\nStudents will work with a variety of techniques, experimenting with different formats, whilst building a personal portfolio of work for each child and capturing an invaluable record of their creativity!\nAUTUMN TERM 2026 at the Riverhouse Barn\nPart 1THURSDAYS 4.45pm - 5.45pm (YEARS 1 - 6)\nDATES: 17 SEP / 24 SEP / 01 OCT / 08 OCT / 15 OCT Price: £75 for 5 sessions\nOur ArtClub is run by design professional Margarita Ligda Campbell."
   },
@@ -491,6 +525,12 @@
    "price_min": 120.0,
    "price_max": 120.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "10 Week Course",
+     "price": 120.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5954443/conversions/JxRqOEzjaAiTRIox-thumb.jpg",
    "description_text": "Our creative ten week drawing course for adults is open to all levels of experience and will encourage you to release your creative energy.\nTutor : Janet McDonagh www.janetmcdonagh.co.uk\nCost (10 week course): £120*\nDuring the course we will look at working in different mediums, watercolour, pastels, acrylics as well as pencil and charcoal drawings. Some of the work will be observational and some will be looking at other artists' styles.\n*basic materials only provided\nThere are a few materials that can be used from the cupboards in the art room: pencils, charcoal, scissors, sharpeners and rubbers. Janet will bring a selection of paints for you try before you buy for yourself. She will also bring relevant paper for people to purchase if they don’t have any.\nEducational Course Refund Policy\nWe will process refund requests as follows:\nIf the request is made more than eight weeks before the course starts, a full refund will be returned, net of online booking charges, if any.\nIf the request is made less than eight weeks and more than one week before the course starts, a full refund, net of online booking charges, if any and minus a £25 administration fee will be returned.\nNo refunds will be made if you withdraw from a course less than seven days before the commencement date of the course.\nOnce a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse."
   },
@@ -528,6 +568,12 @@
    "price_min": 120.0,
    "price_max": 120.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Mixed Media 10 week course",
+     "price": 120.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5954476/conversions/Q3iAWSRwp2AYEqCI-thumb.jpg",
    "description_text": "A 10 week course starting in September 2026 with Janet McDonagh. Term starts on Friday 25 September 2026 and runs for ten weeks with one week off at half term. 1pm to 3pm\nLet’s release that inner creative energy!\nOur mixed media art class is open to all levels of experience and will encourage you to experiment with various art techniques and mediums. A relaxed and friendly course that focus’s on working in different mediums, watercolour, pastels, acrylics, alcohol inks, oils, as well as pencil and charcoal drawings. Some work will be observational and some will be looking at other artists’ styles.\nCourse plan provided at the beginning of each term.\nBasic materials only provided. Janet will bring a selection of paints for you to try before you buy for yourself. She will also bring relevant paper for people to purchase if they don’t have any.\nwww.janetmcdonagh.co.uk"
   },
@@ -566,6 +612,20 @@
    "price_min": 22.0,
    "price_max": 24.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 24.0
+    },
+    {
+     "name": "Concessions",
+     "price": 22.0
+    },
+    {
+     "name": "Disabled",
+     "price": 24.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5715243/conversions/TkzxTFxgVQQN86Br-thumb.jpg",
    "description_text": "Formed way back in 1994 by (in the words of NME) “Eccentric raconteur and Boogie Woogie front man Red Stripe” (aka Neil Drinkwater!), The Red Stripe Band return to the Barn stage for their annual shindig!\nExpect a high energy and entertaining mix of classic Rock n roll, swing, jazz and boogie woogie alongside their own compositions selected from their four studio albums...\n“Imagine a smaller version of the Jools Holland Orchestra without the annoying front man” - Time Out"
   },
@@ -605,6 +665,20 @@
    "price_min": 12.5,
    "price_max": 18.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 18.0
+    },
+    {
+     "name": "Disabled",
+     "price": 18.0
+    },
+    {
+     "name": "Under 25s",
+     "price": 12.5
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/4866428/conversions/B7kshAbsuKVkRkfx-thumb.jpg",
    "description_text": "Following on from A Christmas Carol: In Concert and A Brief History of Christmas , GreenMatthews present their new festive show.\nSpanning several centuries, GreenMatthews’ Midwinter Revels is a celebration of Yuletide Past guaranteed to warm the cockles of the most Scrooge-like heart. Featuring Christmas carols, winter folk songs, toe-tapping tunes and a plethora of weird and wonderful instruments, the show is brought to life with GreenMatthews’ trademark wit and humour.\n2x 50 minutes with 20-minute interval\n“You guys are awesome!” Bill Barclay, Director of Music at Shakespeare’s Globe"
   },
@@ -642,6 +716,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5932486/conversions/zk2D0ovLWgWjmMOY-thumb.jpg",
    "description_text": "Come and learn the basic traditional skills of silver jewellery making and complete your very own design. Under Sarah’s guidance each student will have the opportunity to design and create a unique piece of jewellery.\nTo enrol, email: sarahlevy37@yahoo.com\nTools provided, but materials will be extra.\nTutor: Sarah Levy\nClasses\nMonday 10am – 12noon\nMonday 4pm - 6pm\nFriday 10am – 12noon"
   },
@@ -680,6 +755,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954571/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -718,6 +794,12 @@
    "price_min": 10.0,
    "price_max": 10.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Day ticket (for one session only)",
+     "price": 10.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5440502/conversions/HqeYoUt9hD82EOOP-thumb.jpg",
    "description_text": "The Autumn term will start on Tuesday 15 September. There will be 10 sessions of rehearsals:\nSeptember 15, 22 , 29\nOctober 6, 13\nNovember 3, 10, 17, 24\nDecember 1\nShorter rehearsal from 10:00 to 11:00am on 22 September and 24 November\nTerm Subs: £80 (for 10 sessions)\n--------------------------------------------------\nSpring 2027!\nThe choir will resume on Tuesday 12 January 2027.\nThe 10 rehearsal dates are:\nJan 12 19* 26\nFeb 2 9 23*\nMar 2 9 16* 23\n10 am to 11:30 am\nShorter session on 19 Jan, 23 Feb and 16 March : 10 am to 11:00am\nTo find out more about the choir, email Music Director Johnny Kilhams at jonathan.kilhams@gmail.com"
   },
@@ -756,6 +838,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5428315/conversions/51H8FR8aHcbn5jEC-thumb.jpg",
    "description_text": "Excellent for improving core strength, posture and confidence. The classes begin with a barre workout and whilst some technique is tackled, the main focus is on the joy of movement and musicality.\nJo runs two ballet classes on Tuesdays during term time:\n5.30pm - 6.30pm\n6.40pm - 7.40pm\nEmail jo_haley@hotmail.com for more info."
   },
@@ -794,6 +877,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5823150/conversions/ZTQwnkLWvb6WwaAV-thumb.jpg",
    "description_text": "A sound bath is a soothing experience that uses vibrational sound waves to enhance wellbeing and promote self-healing. For centuries, sound has been a practice for releasing stress and calming the mind and body. In these sessions, you will be invited to lie down, close your eyes and immerse yourself in the healing tones of Himalayan and crystal singing bowls and percussive sound, to achieve deep relaxation and harmony.\nAutumn term: Oct 6, Nov 3 and 17, Dec 1 2026 6:30pm to 7:30pm\nBOOK via email hummingbirdhandw@gmail.com\nDM on insta@hummingbirdharmonyandwellbeing or call/message Claire on 07930 461441"
   },
@@ -832,6 +916,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5952707/conversions/ylmYh6VYXkEvJwGp-thumb.jpg",
    "description_text": "Alter Ego, Adult Drama Classes\nDevelop acting and performance skills, tap into your dramatic creativity and unleash your alter ego!\nThrough drama games and acting exercises our fun workshop-style sessions will give you the freedom to explore the process of making drama without the pressure of being in a production. Come along for a creative workout!\nNo experience necessary, new members can join at any stage of the term following a free taster session.\nTo book, contact Caroline Dooley:\nEmail: enquiries@drama4adults.com\nWebsite: www.drama4adults.com\nDays : Tuesdays: 8 – 9.30pm\nCost: Dependent on how many weeks in the term"
   },
@@ -869,6 +954,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5282895/conversions/Wm1fGV4DiUAPRMiW-thumb.jpg",
    "description_text": "This is a relaxed and friendly course. It offers a combination of techniques such as batik, felting and machine sewing along with more traditional hand embroidery.\nOn the first day students will only need a pen or pencil to make notes. Janet will have a printed copy of the project to hand out, as the first class is normally a lot of discussion about ways to approach the project.\nRiverhouse doesn’t supply materials for the class but Janet can always bring something for people who don’t have relevant bits and bobs at home.\nTutor : Janet McDonagh\nCost : £115 (ten weeks)\nEducational Course Refund Policy\nWe will process refund requests as follows:\nIf the request is made more than eight weeks before the course starts, a full refund will be returned, net of online booking charges, if any.\nIf the request is made less than eight weeks and more than one week before the course starts, a full refund, net of online booking charges, if any and minus a £25 administration fee will be returned.\nNo refunds will be made if you withdraw from a course less than seven days before the commencement date of the course.\nOnce a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse."
   },
@@ -906,6 +992,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5282984/conversions/5CqvjkH8QFwVnvts-thumb.jpg",
    "description_text": "This is a relaxed and friendly course. It offers a combination of techniques such as batik, felting and machine sewing along with more traditional hand embroidery.\nOn the first day students will only need a pen or pencil to make notes. Janet will have a printed copy of the project to hand out, as the first class is normally a lot of discussion about ways to approach the project.\nRiverhouse doesn’t supply materials for the class but Janet can always bring something for people who don’t have relevant bits and bobs at home.\nTutor : Janet McDonagh\nCost : £115 (ten weeks)\nEducational Course Refund Policy\nWe will process refund requests as follows:\nIf the request is made more than eight weeks before the course starts, a full refund will be returned, net of online booking charges, if any.\nIf the request is made less than eight weeks and more than one week before the course starts, a full refund, net of online booking charges, if any and minus a £25 administration fee will be returned.\nNo refunds will be made if you withdraw from a course less than seven days before the commencement date of the course.\nOnce a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse."
   },
@@ -943,6 +1030,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5283039/conversions/OLKRUlK8uY4lOP7J-thumb.jpg",
    "description_text": "A stitch and textile class run by Janet McDonagh who is a qualified embroiderer. Janet's forte is creating backgrounds to stitch on and she will be exploring a wide range of stichwork techniques both by hand and machine.\nClasses start on Thursday 24 September 10.30am to 12.30pm and run for 10 weeks with 1 week half term."
   },
@@ -980,6 +1068,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6156077/conversions/qwRhzu8SoY06BESk-thumb.jpg",
    "description_text": "Enamel skills for beginners & improvers\nEnamelling is heating powder or liquid glass onto copper metal shapes to create jewellery, keyring or pictures and much more. 3 week courses covering introductory and improvers enamelling skills. New students will learn the initial basics of enamelling. Returning students can improve their skills or explore a new technique.\nTo enrol or ask questions contact learn.enamel@gmail.com\nThursday 1pm to 4pm\nCost: 3 sessions x 3hrs £88 6 sessions x 3hrs £170 9 sessions x 3hrs £255 12 sessions x 3 hours £340 (works out under £10 per hour). Loyalty discount also available to people attending all terms.\nContact learn.enamel@gmail.co.uk for details and availability\nCost includes RHB facilities, teaching, kiln & tool usage. Copper metal and enamel material are paid for separately in class. Typical pendant cost £5 to £10 depending on materials used.Beginners skills cover: scraffito, masking, screens, sifting, brushing, colour layering & design, finishing skills for creating smooth surface finish + bubbling or cracking issue resolution.Improvers skills covers: transparent/opaque colour layering and effects, wet process, 3 dimensional thin copper shim, wire work & cloisonné, small bowls and much more. You must be 18 or over and be prepared to adhere to safety procedures. No previous experience is needed."
   },
@@ -1019,6 +1108,16 @@
    "price_min": 10.0,
    "price_max": 10.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 10.0
+    },
+    {
+     "name": "Disabled",
+     "price": 10.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5611610/conversions/joZwEc4otCQujYNj-thumb.jpg",
    "description_text": "Whether you’ve got experience in writing poems, or you’re simply curious to see what will happen when your pen meets paper, this workshop with its lively prompts, stimulating suggestions and fun exercises will help you unleash your inner poet. Although this is part of a series of six workshops (the last one will be a feedback session), each one is also stand-alone. Sessions are led by prize-winning poet Katie Griffiths, whose passion is the mischief and magic of words.\nNew dates are\nThursday 24 September\nThursday 8 October\nThursday 22 October\nThursday 5 November\nThursday 19 November\nThursday 3 December (feedback session)\n£50 for the term/\nDrop in: £10 per session. Booking recommended."
   },
@@ -1057,6 +1156,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5487855/conversions/iOHIkJZIUjT1ESOY-thumb.jpg",
    "description_text": "Limited spaces but lots and lots of fun.\nWeekly on Thursdays\nBook your place: ourartclub4fun@gmail.com\n'Our ArtClub' looks to develop and build on the basic understanding that the arts are all around us.\nStudents will work with a variety of techniques, experimenting with different formats, whilst building a personal portfolio of work for each child and capturing an invaluable record of their creativity!\nAUTUMN TERM 2026 at the Riverhouse Barn\nPart 1THURSDAYS 4.45pm - 5.45pm (YEARS 1 - 6)\nDATES: 17 SEP / 24 SEP / 01 OCT / 08 OCT / 15 OCT Price: £75 for 5 sessions\nOur ArtClub is run by design professional Margarita Ligda Campbell."
   },
@@ -1094,6 +1194,12 @@
    "price_min": 120.0,
    "price_max": 120.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "10 Week Course",
+     "price": 120.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5954446/conversions/JxRqOEzjaAiTRIox-thumb.jpg",
    "description_text": "Our creative ten week drawing course for adults is open to all levels of experience and will encourage you to release your creative energy.\nTutor : Janet McDonagh www.janetmcdonagh.co.uk\nCost (10 week course): £120*\nDuring the course we will look at working in different mediums, watercolour, pastels, acrylics as well as pencil and charcoal drawings. Some of the work will be observational and some will be looking at other artists' styles.\n*basic materials only provided\nThere are a few materials that can be used from the cupboards in the art room: pencils, charcoal, scissors, sharpeners and rubbers. Janet will bring a selection of paints for you try before you buy for yourself. She will also bring relevant paper for people to purchase if they don’t have any.\nEducational Course Refund Policy\nWe will process refund requests as follows:\nIf the request is made more than eight weeks before the course starts, a full refund will be returned, net of online booking charges, if any.\nIf the request is made less than eight weeks and more than one week before the course starts, a full refund, net of online booking charges, if any and minus a £25 administration fee will be returned.\nNo refunds will be made if you withdraw from a course less than seven days before the commencement date of the course.\nOnce a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse."
   },
@@ -1131,6 +1237,12 @@
    "price_min": 120.0,
    "price_max": 120.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Mixed Media 10 week course",
+     "price": 120.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5954477/conversions/Q3iAWSRwp2AYEqCI-thumb.jpg",
    "description_text": "A 10 week course starting in September 2026 with Janet McDonagh. Term starts on Friday 25 September 2026 and runs for ten weeks with one week off at half term. 1pm to 3pm\nLet’s release that inner creative energy!\nOur mixed media art class is open to all levels of experience and will encourage you to experiment with various art techniques and mediums. A relaxed and friendly course that focus’s on working in different mediums, watercolour, pastels, acrylics, alcohol inks, oils, as well as pencil and charcoal drawings. Some work will be observational and some will be looking at other artists’ styles.\nCourse plan provided at the beginning of each term.\nBasic materials only provided. Janet will bring a selection of paints for you to try before you buy for yourself. She will also bring relevant paper for people to purchase if they don’t have any.\nwww.janetmcdonagh.co.uk"
   },
@@ -1168,6 +1280,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6167178/conversions/gkDhCMS8lqhBmzHi-thumb.jpg",
    "description_text": "Join our friendly, informal group of woodcarvers where we don't have a tutor so we all 'chip' in to help each other. You can attempt any project you wish - the only limitation are the tools we have, size of wood and your imagination!\nSome wood is available but it would be better if you brought your own. Lime is an excellent wood to carve but an old post can be just as good.\n£8 per session - tools available but feel free to bring your own.\nAutumn TERM DATES 2026\nSaturday 26 Sept | 10 Oct | 24 Oct| 7 Nov | 21 Nov | 5 Dec (fortnightly during term time)"
   },
@@ -1206,6 +1319,16 @@
    "price_min": 18.0,
    "price_max": 18.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 18.0
+    },
+    {
+     "name": "Disabled",
+     "price": 18.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/4553904/conversions/2ejKSWRSyRwgrMyZ-thumb.jpg",
    "description_text": "Sing That Swing! are back for Christmas, bringing vintage festive magic to the Riverhouse Barn with smooth Sinatra style, Darin swagger and Garland sparkle.\nKitty Malone, Ruby Francis and Johnny Mack deliver sizzling vocals, cheeky charm and all your favourite Christmas classics for a feel‑good festive night out!"
   },
@@ -1244,6 +1367,16 @@
    "price_min": 15.0,
    "price_max": 15.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 15.0
+    },
+    {
+     "name": "Disabled",
+     "price": 15.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6182663/conversions/w1p8UYyVEVLUNZ3f-thumb.jpg",
    "description_text": "Here’s a band that breathes new life into the golden era of jazz, with the cream of the classic jazz players around today. All masters of their craft creating new versions of old gems, lead by the incomparable Enrico Tomasso on trumpet.."
   },
@@ -1281,6 +1414,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5934897/conversions/zk2D0ovLWgWjmMOY-thumb.jpg",
    "description_text": "Come and learn the basic traditional skills of silver jewellery making and complete your very own design. Under Sarah’s guidance each student will have the opportunity to design and create a unique piece of jewellery.\nTo enrol, email: sarahlevy37@yahoo.com\nTools provided, but materials will be extra.\nTutor: Sarah Levy\nClasses\nMonday 10am – 12noon\nMonday 4pm - 6pm\nFriday 10am – 12noon"
   },
@@ -1319,6 +1453,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954574/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -1357,6 +1492,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5428318/conversions/51H8FR8aHcbn5jEC-thumb.jpg",
    "description_text": "Excellent for improving core strength, posture and confidence. The classes begin with a barre workout and whilst some technique is tackled, the main focus is on the joy of movement and musicality.\nJo runs two ballet classes on Tuesdays during term time:\n5.30pm - 6.30pm\n6.40pm - 7.40pm\nEmail jo_haley@hotmail.com for more info."
   },
@@ -1395,6 +1531,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5952710/conversions/ylmYh6VYXkEvJwGp-thumb.jpg",
    "description_text": "Alter Ego, Adult Drama Classes\nDevelop acting and performance skills, tap into your dramatic creativity and unleash your alter ego!\nThrough drama games and acting exercises our fun workshop-style sessions will give you the freedom to explore the process of making drama without the pressure of being in a production. Come along for a creative workout!\nNo experience necessary, new members can join at any stage of the term following a free taster session.\nTo book, contact Caroline Dooley:\nEmail: enquiries@drama4adults.com\nWebsite: www.drama4adults.com\nDays : Tuesdays: 8 – 9.30pm\nCost: Dependent on how many weeks in the term"
   },
@@ -1434,6 +1571,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6041035/conversions/MyBmwt2QyzGmDlpa-thumb.jpg",
    "description_text": "This festive season, join us at the Robert Phillips Gallery for a landmark celebration of young creativity as Bell Farm Primary School hosts its very first public art exhibition at Riverhouse Barn. Showcasing an inspiring array of original work created by pupils across all year groups, this special display highlights the imagination, talent, and vibrant expression of our budding local artists. Pop in to experience the wonder through children’s eyes and support Walton's next generation of creative minds.\nFree admission, open daily 10am-4pm"
   },
@@ -1472,6 +1610,24 @@
    "price_min": 16.0,
    "price_max": 18.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Admission",
+     "price": 18.0
+    },
+    {
+     "name": "Disabled",
+     "price": 18.0
+    },
+    {
+     "name": "Concert Lunch at 11:30am (in the café)",
+     "price": 16.0
+    },
+    {
+     "name": "Concert Lunch at 14:00 (in the café)",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5716653/conversions/s1nMF5ijRaLpe7IA-thumb.jpg",
    "description_text": "Join us for a special lunchtime narrated concert as A Christmas Carol is brought to life through words and music by Leora Cohen on violin, Paul Wingfield on piano and narrator Sophie Max. This spell-binding performance combines story and music in a unique way.\nA Christmas Carol: a musical drama (‘melodrama’) for narrator, violin and piano\nCharles Dickens ’ beloved Ghost story of Christmas is recreated as a musical drama, in which the narrative is spoken to the accompaniment of music for violin and piano. This genre, called ‘melodrama’ in the nineteenth century, was immensely popular throughout Europe when Dickens was alive. The show, lasting about seventy minutes, has a script abridged from the original 1843 novella and a score by Paul Wingfield, composer of the hugely successful melodrama Einstein’s Violin, which tells the story of the great scientist’s life as a musician.\nThe score incorporates references to Victorian Christmas music and is immersed in Dickens’ own musical world: Dickens was a great devotee of nineteenth-century supernatural operas, of which his particular favourite was Gounod’s Faust. This vibrant re-imagining of Dickens’ novella thus both transports to the listener to the author’s own cultural surroundings and provides an original perspective on a timeless literary classic.\nPerformers:\nLeora Cohen (violin)\nLeora Cohen, alumna of Channing School, Cambridge University and the Royal College of Music, enjoys a diverse career as a recitalist, soloist, and ensemble musician around the world. Having led concerts in major halls globally, and concert series such as the BBC Proms, she now plays as a regular soloist with professional orchestras as well as recitals across the UK and Germany.\nPaul Wingfield (piano)\nPaul Wingfield was trained at Chetham's School of Music, where he studied the oboe, piano and composition. After an active performing career, Paul pursued a career as an academic at Trinity College, Cambridge where he is the Director of Studies in Music and Secretary of the Council. He has come out of semi-retirement as a musician to accompany Leora Cohen as part of a duo giving concerts around the UK.\nSophie Max (narrator)\nSophie Max is a British-Austrian actor and writer who trained at the American Academy of Dramatic Arts in New York and the Royal Central School of Speech and Drama. Screen includes: We Were The Lucky Ones (Hulu/Disney+), Silent Witness (BBC) and The Whole Truth. Stage includes: Jessica in The Merchant of Venice, Phebe in As You Like It (New York), Helena in A Midsummer Night's Dream (off-Broadway) and Michelle in Nowhere Man (off-Broadway, originated role). As a screenwriter, Sophie is developing a variety of original television and film projects. As a playwright: her debut play, Til It Stops, was Longlisted for the Women's Prize for Playwriting & RSC’s 37 Plays Project and Shortlisted for Bold Playwrights; Banned was part of a showcase of new women writers at the Bush Theatre and subsequently premiered at the Hope Theatre. She is a participant of the Royal Court Writers’ Group. Sophie is represented as an actor by the Narrow Road Company and as a screenwriter by Casarotto Ramsay & Associates.\nReviews\n“It was a lovely evening... engagingly presented and put together with a real sense of creative partnership between the performers. It kept everyone’s attention throughout and as they left the audience had clearly really enjoyed it.” Katherine Ives, Director of Lauderdale House, London\n“It was absolutely delightful. The costumes, the dazzling performances, the stunning originality of the whole idea. I've never before been present at any performance of anything where the entire audience smiled the whole way through.” Vivienne Brown, audience\n“What a wonderful way to spend a summer evening. The charming trio totally looked the part and played their roles with conviction, humour and great musicality. I almost felt as if I were in Mrs Bennett’s drawing room, spellbound by those familiar words and captivated by the superb musical performances” Mary Blackman, audience\n“It is a charming programme - a perfect evening’s entertainment” Andrew McRobb, costume designer\n“The three performers...each with impressive bios, were certainly in possession of talent and didn’t want for a more appreciative audience. A delight from start to finish. Sophie Max beautifully narrating Gill Hornby’s abridged version of the original text... accompanied by Leora and Paul expertly playing Carl Davis’ score on violin and piano respectively. An inspired coming together of the performing arts. The Regency costumes and mini-staging... were an extra bonus” Shelley-Anne Salisbury, review in the ‘Suburb News’\nConcert Only: £18 (Standard)\nChristmas Concert Lunch: £16 per person\nSpecial 2-course lunch served at 11:30 am or 2 pm. Capacity is limited.\nWe appreciate your pre-payment for lunch so we can manage the capacity accordingly."
   },
@@ -1509,6 +1665,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6156850/conversions/qwRhzu8SoY06BESk-thumb.jpg",
    "description_text": "Enamel skills for beginners & improvers\nEnamelling is heating powder or liquid glass onto copper metal shapes to create jewellery, keyring or pictures and much more. 3 week courses covering introductory and improvers enamelling skills. New students will learn the initial basics of enamelling. Returning students can improve their skills or explore a new technique.\nTo enrol or ask questions contact learn.enamel@gmail.com\nThursday 1pm to 4pm\nCost: 3 sessions x 3hrs £88 6 sessions x 3hrs £170 9 sessions x 3hrs £255 12 sessions x 3 hours £340 (works out under £10 per hour). Loyalty discount also available to people attending all terms.\nContact learn.enamel@gmail.co.uk for details and availability\nCost includes RHB facilities, teaching, kiln & tool usage. Copper metal and enamel material are paid for separately in class. Typical pendant cost £5 to £10 depending on materials used.Beginners skills cover: scraffito, masking, screens, sifting, brushing, colour layering & design, finishing skills for creating smooth surface finish + bubbling or cracking issue resolution.Improvers skills covers: transparent/opaque colour layering and effects, wet process, 3 dimensional thin copper shim, wire work & cloisonné, small bowls and much more. You must be 18 or over and be prepared to adhere to safety procedures. No previous experience is needed."
   },
@@ -1547,6 +1704,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5487858/conversions/iOHIkJZIUjT1ESOY-thumb.jpg",
    "description_text": "Limited spaces but lots and lots of fun.\nWeekly on Thursdays\nBook your place: ourartclub4fun@gmail.com\n'Our ArtClub' looks to develop and build on the basic understanding that the arts are all around us.\nStudents will work with a variety of techniques, experimenting with different formats, whilst building a personal portfolio of work for each child and capturing an invaluable record of their creativity!\nOur ArtClub is run by design professional Margarita Ligda Campbell."
   },
@@ -1584,6 +1742,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5624665/conversions/rxfFCMwXhPC4kncE-thumb.jpg",
    "description_text": "With headliner DOMINIC HOLLAND , plus the return of the fantastic MC, CERYS NELMES along with the very funny ALEX MITCHELL and introducing FREYA MALLARD !\nAward-winning comedian, author, and broadcaster DOMINIC HOLLAND is one of the UK’s most respected and versatile comic talents. With a career spanning stand-up, television, radio, and writing, Dominic has built a reputation for sharp observational humour delivered with intelligence, warmth, and impeccable timing. Dominic first rose to prominence after winning the prestigious Perrier Best Newcomer Award at the Edinburgh Festival Fringe, marking him out as a major force on the UK comedy circuit. Since then, he has become a regular headliner at leading comedy venues across the country and internationally, known for his polished performances and effortlessly engaging stage presence.\nA familiar voice and face across British media, Dominic has appeared on numerous television and radio programmes, as well as writing and performing his own critically acclaimed shows. His work combines wit and insight, often drawing on family life, modern relationships, and the absurdities of everyday living.\nTV credits include Have I Got News For You, The Royal Variety Performance, Never Mind the Buzzcocks, The Stand Up Show (BBC), They Think It’s All Over, plus appearances on Richard & Judy, This Morning, and The One Show.\nDespite his considerable efforts and many successes in comedy, Dominic admits that his greatest achievement in life is being a father to 4 boys — most notably to his eldest son, actor Tom Holland — a reality that inspired his bestselling non-fiction book Eclipsed.\nOur MC, CERYS NELMES , returns by popular demand having stormed her last two appearances with us! Cerys is a highly entertaining British stand-up comedian, award-winning MC, actress, and TV warm-up artist originating from the Cotswolds. Known for her cheerful West Country charm, sharp storytelling, and flawless audience interaction.\nAlso featuring on the bill is ALEX MITCHELL - an award-winning stand-up comedian, writer, actor and podcaster who has become one of the most exciting and distinctive new voices on the UK comedy circuit. Just eighteen months after his first open mic, Alex reached the final of Britain’s Got Talent. The following year he was a finalist in the prestigious Leicester Square Theatre New Comedian of the Year competition. Since then he has become a regular at many of the UK’s biggest comedy venues, performing in clubs and theatres including The Stand, Glee, Up the Creek, Backyard and Komedia Brighton, and, now, Mock Tudor Comedy! Alex is queer, autistic and disabled, and much of his work draws on these experiences. He has written and performed two critically acclaimed solo shows which sold out at the Edinburgh Festival Fringe in 2024 and 2025, toured across the UK, appeared on Rosie Jones’ Disability Comedy Extravaganza, Good Morning Britain, Lorraine, NextUp Comedy and Heart Radio, and provided tour support for Hal Cruttenden. Alex has fast become a favourite with audiences across the UK.\nAnd introducing FREYA MALLARD - an English stand-up comedian, actor and writer known for her silly, smart and slightly absurd take on modern life. A regular performer across the UK comedy circuit, Freya has appeared at the Edinburgh Fringe, Glastonbury and Brighton Fringe, as well as on ITV2’s The Stand Up Sketch Show and BBC radio and comedy programming. Her work has also built a significant online following, with millions of likes across social media platforms. Freya was shortlisted for the BBC New Comedy Award and named a Funny Women Awards One to Watch, alongside being a Leicester Square New Comedian finalist. Her debut Edinburgh show received critical acclaim, including a four-star for ‘ The Bounce Back’ .\nAges 18+ - adult themes and language\n*Please respect the performers and fellow audience members by refraining from heckling, chatting or speaking out of turn while the acts are on stage. It can be distracting and negatively affect everyone's enjoyment of the show. Thank you for your co-operation.*\nNo outside drinks to be consumed on the premises. No pets allowed in the auditorium during the show. Sorry but smoking or vaping is not permitted anywhere on the premises, including our courtyard.\nWhile we do try to ensure that our advertised line-ups remain as listed, changes may occasionally be necessary due to circumstances beyond our control. Line-ups are therefore subject to change without notice."
   },
@@ -1623,6 +1791,12 @@
    "price_min": 45.0,
    "price_max": 45.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Christmas painting workshop",
+     "price": 45.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6566663/conversions/mu5GXitJvoRTosbY-thumb.jpg",
    "description_text": "12 December from 1:30pm - 4pm\nInstructor- Margie Haslewood\nJoin us for a fun filled afternoon as Margie shows us on how to paint this delightful winter scene. We will work in watercolour and pen on watercolour paper. You will leave with a beautiful version of your own to frame as a gift for a friend. You can also use the painting to produce Christmas cards All materials supplied but bring an apron"
   },
@@ -1661,6 +1835,16 @@
    "price_min": 22.0,
    "price_max": 22.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 22.0
+    },
+    {
+     "name": "Disabled",
+     "price": 22.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6059325/conversions/cFokKqt122NuQ2Nv-thumb.jpg",
    "description_text": "Our much-loved annual Christmas entertainment of words and music with an enchanting mix of new and familiar material capturing the joy, humour, fun and magic of Christmas.\nWith Riverhouse favourites – Carole Boyd, Martin Jenkins, David Rowan and Maddie Smith, Catherine Cayman, and Jon Miseldine.\nA feast of delights and surprises with mulled wine and mince pie during the interval.\nThis is always sold out so please do book early to avoid disappointment."
   },
@@ -1699,6 +1883,16 @@
    "price_min": 18.0,
    "price_max": 18.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 18.0
+    },
+    {
+     "name": "Disabled",
+     "price": 18.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6126873/conversions/CxhhEdqvVDGbc6lP-thumb.jpg",
    "description_text": "BBC Folk Award winners EDGELARKS ( Phillip Henry and Hannah Martin ) combine British folk roots with diverse influences from blues to Indian ragas. They have toured from Canada to South Africa, Australia to Japan.\nSoulful songwriting, fiddle and banjo meets dobro virtuosity and party-starting beatbox harmonica, producing a sound like no other.\n“Virtuosity, intensity and charisma...Bravely original” - The Guardian\n\"Extraordinary\" - BBC6 Music"
   },
@@ -1737,6 +1931,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954577/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -1777,6 +1972,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6144456/conversions/yMuVJVC5dH4WDxN7-thumb.jpg",
    "description_text": "Join us for a heart warming morning as Bell Farm school choir fills Riverhouse Barn with festive carols and beautifully recited poetry. Expect joyful voices, seasonal favourites, and the spirit of the holidays.\nThis special occasion is perfect for families, friends, and anyone who loves the magic of community celebration.\nAdmission is free, and all are welcome to share in the festive cheer."
   },
@@ -1815,6 +2011,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6182472/conversions/GvZxyK2bi19C4yFX-thumb.jpg",
    "description_text": "Join Oliver Darley and Chad LeLong (the team that brought you Simply Bowie, Simply George Michael and Simply Freddie), for an intimate evening of timeless songs from the Great American Songbook , brought to life with nothing more than voice, piano and a shared love of great music.\nDescribed by Tony Bennett as \" America’s classical music ”, we roam from the wit and sophistication of Cole Porter to the romance of Gershwin, Berlin and Rodgers & Hart . Enduring classics, such as ‘Moon River’, ‘Summertime’ and ‘White Christmas’ are given fresh, personal interpretations.\nExpect beautiful melodies, sparkling lyrics, swinging rhythms and extraordinary back stories that still resonate today. Stripped back to their essence, these timeless little moments in musical history reveal just why they have captivated audiences for generations. A warm, elegant and seasonal celebration of some of the greatest songs ever written."
   },
@@ -1853,6 +2059,16 @@
    "price_min": 10.0,
    "price_max": 10.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 10.0
+    },
+    {
+     "name": "Disabled",
+     "price": 10.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6143365/conversions/kkNDrvVBCMi3pnHd-thumb.jpg",
    "description_text": "Tim's History Talk- From Saturnalia to Santa: The Pagan Roots of Christmas .\nFrom gift-giving and pine trees to Santa Claus and reindeer, Christmas is one of the most ubiquitously celebrated holidays on earth. And yet its origins and its millennia-long journey to become the holiday season we know today may surprise you. To learn more about how Indian bull deities, Roman decadence and Christian controversies shaped the holiday of Christmas, join Tim Hazell, Riverhouse’s Historian in Residence, and unwrap the ancient history behind the festive season!"
   },
@@ -1892,6 +2108,24 @@
    "price_min": 0.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Adult",
+     "price": 16.0
+    },
+    {
+     "name": "Child (Ages 2 to 12)",
+     "price": 12.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    },
+    {
+     "name": "Under 2 goes free",
+     "price": 0.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6495700/conversions/xKTCjXjj5weu2fKY-thumb.jpg",
    "description_text": "Back by popular demand!\nJoin us for a heart-warming festive concert featuring a live performance of The Snowman . This enchanting story will be brought to life by popular children’s narrator Alexander Campbell , together with violin, cello, piano .\nIn the second half, we will fill the barn with beautiful Christmas music — including In the Bleak Midwinter , O Holy Night , and favourite family carols and songs for everyone to enjoy and join in.\nA magical afternoon of storytelling and song — perfect for all ages to celebrate the Christmas season in style!\nBook early as this concert was an instant sell-out last year.\nPerformers:\nNarrator: Alexander Campbell\nSoloist: Iris Turnbull\nViolinist: Hannah Saucedo\nCellist: Rebecca Hepplewhite\nPianist: Caroline Page\nSoprano Soloist: Hannah\nSuitable for the whole family from 2 to 102+"
   },
@@ -1931,6 +2165,24 @@
    "price_min": 0.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Adult",
+     "price": 16.0
+    },
+    {
+     "name": "Child (Ages 2 to 12)",
+     "price": 12.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    },
+    {
+     "name": "Under 2 goes free",
+     "price": 0.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6069924/conversions/xKTCjXjj5weu2fKY-thumb.jpg",
    "description_text": "Back by popular demand!\nJoin us for a heart-warming festive concert featuring a live performance of The Snowman . This enchanting story will be brought to life by popular children’s narrator Alexander Campbell , together with violin, cello, piano .\nIn the second half, we will fill the barn with beautiful Christmas music — including In the Bleak Midwinter , O Holy Night , and favourite family carols and songs for everyone to enjoy and join in.\nA magical afternoon of storytelling and song — perfect for all ages to celebrate the Christmas season in style!\nBook early as this concert was an instant sell-out last year.\nPerformers:\nNarrator: Alexander Campbell\nSoloist: Iris Turnbull\nViolinist: Hannah Saucedo\nCellist: Rebecca Hepplewhite\nPianist: Caroline Page\nSoprano Soloist: Hannah\nSuitable for the whole family from 2 to 102+"
   },
@@ -1968,6 +2220,16 @@
    "price_min": 17.0,
    "price_max": 17.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 17.0
+    },
+    {
+     "name": "Disabled",
+     "price": 17.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5507660/conversions/h226dJp5bJcpJ8b8-thumb.jpg",
    "description_text": "Join Edwyrdian Tales beside the glittering lights of the Christmas Tree for three haunting ghost stories of the season!\nThis year our night of festive spirits features terrors from classic authors of the age..... 'Lucky's Grove' by H.R. Wakefield , 'The Wendigo' by Algernon Blackwood and 'The Elder Son' , an original tale from the pen of our storyteller..\n\"A standout is Matthew Wood... My enthralled friend and I found ourselves grinning from ear to ear...\" - The Guardian - from The key of Dreams"
   },
@@ -2006,6 +2268,12 @@
    "price_min": 8.0,
    "price_max": 8.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Talk and Film Combo",
+     "price": 8.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6143659/conversions/I8R5SKksZPP9QcD9-thumb.jpg",
    "description_text": "Sherriff Talk - The Christmas Schedule: A Celebration of Great British Festive TV\nFrom time-travelling adventures to classic comic duos, Royal speeches to soap opera divorces and a Peckham Batman and Robin to chilling ghost stories, Christmas TV was a time for all the family to gather and enjoy some of the best entertainment British TV had to offer. This Talk celebrates the golden age of Festive viewing.\nSilver Screen - Mary Poppins: PG ‧ 1964 ‧ Family/Musical ‧ 2h 19m\nSome films are so associated with Christmas that they are as much part of the Festive season as turkey, tinsel and mince-pies...even if they have nothing to do with snow, presents or Santa Claus! Some come and join Julie Andrews, the most famous Nanny in cinema, as we celebrate Christmas by feeding birds, flying kites and taking our medicine with a spoonful of sugar.\nThis film launches a series of Julie Andrews films that will be screened in 2027 as part of The R C Sherriff Trust’s Silver Screen.\nDate: Tuesday 22 December 2026\nTalk : 11:30am\nFilm: 1:30pm\nTicket: £5 for talk or screening. £8 for both talk and screening. (Cash payment at the doors)"
   },
@@ -2044,6 +2312,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954586/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2081,6 +2350,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6142817/conversions/8MdIWGcMZbzVgB6H-thumb.jpg",
    "description_text": "A photographic journey of 14 years through the streets of Mumbai by Constantine\n'For more than a decade, I have roamed many Indian streets and markets. Unlike my fellow westerners, I fell in love with everything but the Taj, yoga retreats, or majestic Rajasthan. I left beautiful India to the tourists without imagination, for I find the beauty of India in the everydayness of city life. In its contradictions, I find the harsh realities of daily toil, the kindness, the cruelty, the endeavour, and the willingness to embrace tomorrow's unknowns, as a motive for overcoming today's struggles. Nothing stops me from venturing into the orchestrated chaos of India's city streets because that that is where life Is. So this is what I try to capture... We are like that only!’\nFor some, photography is a hobby. For others a profession. Some love the tech, some enjoy the outdoors. Others record stuff, like babies being born, and people getting married. Some document crime scenes and dissect the pixel to discover who did what to whom. Some do surveys... too many if you ask me.\nSome use it as a form of expression with artistic endeavours, I shoot people.\nIt feeds my Curiosity, and my Passion to see the world around me in a frame.\nTaking every day and giving it importance. It brings me a sense of Intimacy through the immersion into the lives of people and it is a vehicle of discovery and understanding without words.\nA street photograph is a conversation with a friend.\nOpen daily 10am-4pm\nFree admission"
   },
@@ -2119,6 +2389,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6548900/conversions/17xYpetaHgsDAmo6-thumb.jpg",
    "description_text": "Contemporary folk/acoustic duo Gilmore & Roberts combine award- winning songwriting with astounding musicianship and their trademark harmonies to create a powerful wall of sound.\nNominated three times at the BBC Radio 2 Folk Awards, Katriona Gilmore (fiddle, mandolin) and Jamie Roberts (guitar) met while studying at Leeds College of Music and released their debut album in 2008. Since then, the duo have toured Canada and mainland Europe, played some of the UK’s biggest acoustic festivals, toured with folk rock legends Fairport Convention and won countless accolades for their genre-spanning work.\nGilmore & Roberts will celebrate two decades of music in 2026 with an album of newly recorded career highlights in ‘pure duo format’, confirming their place on the UK folk roots scene as purveyors of ‘music to make you dance, cry and think…a masterclass in songwriting’ (Folk Radio UK) since 2006.\n\"Gilmore & Roberts take English folk and scuff it up with indie rock drama.\" - Q MAGAZINE\n\"Capable of making you dance, cry and think… a masterclass in songwriting and a lesson in how to present songs.\" - FOLK RADIO UK"
   },
@@ -2157,6 +2437,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954589/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2192,6 +2473,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6142926/conversions/3OpIARq6EhQbj7Pv-thumb.jpg",
    "description_text": "The artist is self-taught. He works in oil on canvas-lined board, mostly around 60 × 100 cm.\nGreece, India and England are where he grew up, lived and worked. He knows how each place smells and tastes. They meet on canvas because they have already mingled in his mind. He paints intuitively. Deliberation comes later and is fitted in where it will go. His work is allegorical figuration in the metaphysical tradition. For him, metaphysical means that everything happens at once: the now sits inside the then, and the then is built from what the now knows. His main influences are Giorgio de Chirico, Alberto Savinio, Engonopoulos, Óscar Domínguez, Fritz Kahn and Gautier d'Agoty for his anatomical references.\nHe uses distorted space and deliberately unresolved perspective to create unease, tension and intrigue. He says he regularly gets bored doing one kind of painting. When that happens, he pushes into styles outside his comfort zone. He wants the work to be a conversation with the viewer, a discussion, even an argument. For him, it is the only way to discover the new, the fresh, the different.\nOpen daily 10am - 4pm\nFree admission"
   },
@@ -2230,6 +2512,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5674871/conversions/B7KbmMFTDA92nvRP-thumb.jpg",
    "description_text": "As passionate advocates for the rich repertory for Four Hands on One Keyboard, Emma Abbate and Julian Perkins perform widely, with appearances for the Mozart's Society of America and at many UK venues, including the Royal Opera House Covent Garden, St George's Bristol, Sinfonia Smith Square, Hatchlands Park and St Cecilia's hall in Edinburgh.\nPraised for their 'impressive sensitivity' ( Early Music reviews ) and for telling a 'totally convincing stoory with every piece' ( The Arts Desk ), their recordings have received 5-star reviews in BBC Music Magazine and Het Nieuwsblad.\nTheir varied discography include Mozart's complete sonatas for keyboard duet on period instruments, Weber's Complete Keyboard Duets on an original Viennese fortepiano, as well as Tournamant for Twenty Fingers featuring works by British composers from the twentieth century.\nTheir latest disc is Summer Dreams , which brings together the complete works for piano duet by 3 American composers: Edward MacDowell, Amy Beach and Samuel Barber. This was Album of the Week at Radio 3 Berlin-Brandenburg.\nEmma & Julian have been each elected Associates of the Royal Academy of Music in recognition for their 'significant contribution' thus far to the music profession.\nProgramme:\nWilhelm Friederich Ernst Bach, Duet no. 2 in G Major\nWolfgang Amadeus Mozart, Sonata for piano four hands in C Major, K. 521\nFranz Schubert, Allegro in A Minor for piano four hands, D. 947, Op. 144, Lebenssturme\nPeter Warlock, Capriol Suite"
   },
@@ -2267,6 +2559,12 @@
    "price_min": 5.0,
    "price_max": 5.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 5.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6419388/conversions/7yqlkyhWqbJelOMI-thumb.jpg",
    "description_text": "From ninth-century musical automata in Baghdad and the first recorded human voice to the 200-ton electrically powered synthesizers of the 1890s, the history of machines making music is far older than we might imagine.\nIn this engaging, richly illustrated lecture, Milton Mermikides explores the fascinating relationship between human creativity and technology. From mechanical musicians and early sound recordings to electronic instruments, digital revolutions and artificial intelligence, discover how each innovation has transformed the way we create, perform and experience music.\nThrough stories, demonstrations and musical examples, Milton explores our growing relationship with technology, asking where human creativity ends and machine collaboration begins – and what this might mean for the future of music.\nMilton Mermikides is a composer, guitarist and academic whose work explores the connections between music, science and technology. The son of a CERN nuclear physicist, he has collaborated with leading musicians and scientists, with his work featured in major academic publications and international media. He is Professor of Music at the University of Surrey, Professor of Jazz Guitar at the Royal College of Music, and the 37th Gresham Professor of Music, a historic public lectureship founded in 1597.\nPresented by Elmbridge Borough Council in association with Riverhouse Barn Arts Centre\nListing photos credits:\n- Clara Rockmore performing on the theremin, c. 1932. Photograph by Renato Toppo (Public domain)\n- Banū Mūsā, A Musical Automaton, from a manuscript dated 1621. From The New York Public Library, Spencer Collection.\n- Jean-Michel Jarre playing the laser harp (2016), photo by Steve Knight\n- Luigi Russolo and Ugo Piatti with the Intonarumori, Milan, 1913. Public domain, via Wikimedia Commons."
   },
@@ -2305,6 +2603,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954592/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2340,6 +2639,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6143031/conversions/9zwq57dxAAMryKSO-thumb.jpg",
    "description_text": "This is an exhibition by two artists Suzanne and Constantine, wife and husband. They each looks at the female figure through two very different mediums.\nLife Drawing and Art Nude Photography.\nThe exhibition can be taken at face value and can be appreciated or rejected at its aesthetic level or competence of skill.\nIts true purpose however is to offer a challenge, which the visitor may wish to consider and it is this,\nIs one objectifying and the other celebrating?\nIs one emancipation and the other servitude?\nIs one the result of observation and the other of voyeurism?\nAm I appreciating or am I consuming?\nThe answers are with the viewer. You are invited to consider, contemplate and debate.\nOpen daily 10am - 4pm\nFree admission\n16+ at parental discretion"
   },
@@ -2378,6 +2678,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954595/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2416,6 +2717,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954598/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2454,6 +2756,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6217001/conversions/PhNeE6xx21nHnY2B-thumb.jpg",
    "description_text": "Winners of the 74th Royal Over-Seas League Annual Music Competition, the Elmore Quartet is a young British Quartet based in London.\nOver the past two years, the Elmore Quartet have recorded multiple times for BBC Radio 3 and performed at esteemed venues throughout the UK and Europe, including Wigmore Hall, Kings Place London, Brighton Dome and Bridgewater Hall. In 2024, they were awarded Third Prize at the 13th edition of the Premio Paolo Borciani International String Quartet Competition in Reggio Emilia, Italy.\nTheir successes include awards from the Tunnell Trust and the Kirckman Concert Society Award, opportunities which brought the Quartet to audiences across the UK, including the beautiful Scottish Highlands. In 2025, they joined the prestigious network of Italy's Le Dimore del Quartetto upon invitation and in 2026 were invited to join the roster of Philip and Dorothy Green Young Artist, in addition to being appointed Chamber Studio Fellows.\nIn 2024, the Elmores were selected as Penzance MusicAbility Foundation's first resident String Quartet in partnership with the Frost Trust. This four-year position allows the Quartet to integrate themselves into West Cornwall's unique community by performing regularly as part of the Concerts Penzance concert series, working with local schools, and utilising their passion for sharing classical music with new audiences.\nPreviously, the Quartet held the position of Hans Keller Chamber Fellows at the Guildhall School of Music and Drama, following a Fellowship position at the Royal Northern College of Music where they taught chamber music to Undergraduate and Postgraduate students in Manchester, where the Quartet was formed.\nProgramme:\nBeethoven Op. 18 No. 2 (23’)\nGrieg Quartet No. 1 (35’)"
   },
@@ -2492,6 +2804,28 @@
    "price_min": 0.0,
    "price_max": 14.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Adult",
+     "price": 14.0
+    },
+    {
+     "name": "Disabled Adult",
+     "price": 14.0
+    },
+    {
+     "name": "Disabled Child under 12",
+     "price": 10.0
+    },
+    {
+     "name": "Child under 12",
+     "price": 10.0
+    },
+    {
+     "name": "Under 2 years old not taking a seat",
+     "price": 0.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6193912/conversions/jxGNyI7LgDMyjG3g-thumb.jpg",
    "description_text": "Steve Tiplady, as Geppetto, uses the objects of a carpenter’s workshop to tell the tale of the puppet that wants to be a real boy, and the puppet-maker who wants to be a real father.\nPinocchio is carved on stage, brushes become a fox and the shadow of two saws transforms into a giant shark. An element of improvisation makes each performance unique to its audience.\nPuppetry, shadows, illusion and especially composed music combine to create a show with something for all ages; it’s inventive, visually and verbally witty with a big heart.\n“Wonderful work that celebrates the possibilities of theatre” Lyn Gardner, The Guardian\n“Truly magical...captivating...hauntingly real” The Scotsman\nSuitable for ages 4 and up. Young siblings under 2 years old not taking a seat go FREE.\nShow Duration: 60 mins. No interval."
   },
@@ -2530,6 +2864,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954601/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2568,6 +2903,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6549979/conversions/ikZD52G24v0QEq4t-thumb.jpg",
    "description_text": "Tobias ben Jacob continues his Icons & Influences series bringing a solo show of Neil Young songs, on acoustic guitar and harmonica.\nExpect lots of well known songs from fan favourite albums ‘ After The Goldrush’ and ‘ Harvest’’ , plus music from across his 50 year plus career : Heart of Gold, Like A Hurricane, Out on The Weekend, Mellow My Mind, Birds, Helpless, Hey Hey My My, Old Man and more..\nTobias is a respected singer songwriter and performer, releasing several acclaimed albums both solo and with duo Jacob & Drinkwater. He has toured extensively including several appearances at Glastonbury Festival , live for the BBC at Maida Vale and has been championed by BBC6 Music and BBC Introducing."
   },
@@ -2606,6 +2951,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954604/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2643,6 +2989,12 @@
    "price_min": 5.0,
    "price_max": 5.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 5.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6429353/conversions/oCRMt3xuHRAJ50Mq-thumb.jpg",
    "description_text": "During the Second World War, trade restrictions meant that medical supplies were in short supply, so the British government set up County Herb Committees to coordinate the gathering, drying and processing of wild medicinal herbs. Volunteers from the Women’s Institute as well as Scouts and school children were enlisted to help. In Surrey, collectors were paid 2d per oz for foxglove seeds and 3d per lb for rose hips, and Surrey History Centre holds records of the local campaign and people who contributed. This is a fascinating and perhaps forgotten story of the war effort. In a panel conversation, we’ll learn what was being collected and why, including how the Royal Botanic Gardens, Kew, were also involved.\nChairing the panel will be Sally Flatman, a former BBC Radio 4 producer. In her podcast, Our Plant Stories, she digs into the stories that plants tell us about people and places. The Times described it as “pick of the gardening podcasts”. Other guest panellists will include Kayleigh Sinclair, ‘The Historical Herbologist’, who frequently gives talks at RHS Wisley. This discussion will be recorded for a future podcast episode.\nPresented by Elmbridge Borough Council in association with Riverhouse Barn Arts Centre\nPhoto credits:\n- Rose Hips Poster. Reproduced by permission of Surrey History Centre"
   },
@@ -2681,6 +3033,16 @@
    "price_min": 15.0,
    "price_max": 15.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 15.0
+    },
+    {
+     "name": "Disabled",
+     "price": 15.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6596591/conversions/AK6RuHV2HZDDjIj7-thumb.jpg",
    "description_text": "The Owls are a stellar new group bringing together some of London's finest early jazz musicians, playing authentic transcriptions and arrangements of original hot jazz and popular music of the 1920s and early 30s.\nResplendent in either period suits or evening dress the Owls not only sound the part but also look the part.\nLine up:\nTom Dennis or Harry Evans: Trumpet\nMichael McQuaid: Alto Saxophone & Clarinet\nChris Lowe: Trombone\nMartin Wheatley: Banjo & Guitar\nDavid Horniblow: Bass Saxophone\nNicholas D Ball: Drums"
   },
@@ -2719,6 +3081,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954607/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2757,6 +3120,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954610/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2794,6 +3158,12 @@
    "price_min": 5.0,
    "price_max": 5.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 5.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6432556/conversions/eqzG9hyRMav8ubL1-thumb.jpg",
    "description_text": "The Library: a brief history of books and the buildings that house them with James W.P. Campbell\nLibrary architecture has often served as a striking symbol of a society’s creativity, means, and ambition for learning. Drawing from the landmark book The Library: A World History, this talk explores how cultures from ancient Mesopotamia to modern China have reinvented these sacred spaces across the globe. Join us to discover how the design and atmosphere of some of the world’s iconic libraries reflect human priorities and mirror the story of civilization itself.\nJames W.P. Campbell is an architect and architectural historian with a particular passion for books and libraries. He is a Professor in the University of Cambridge where he has taught for the last twenty years and is the Seear Fellow in Architecture and History of Art of Queens’ College. He is author of The Library: A World History, available in 12 languages.\nThis talk is arranged as a special tribute to Edgar Royston Pike! Author, historian and former Chairman of Esher Council, Edgar launched this series in the late 1960s, then known as the 'Esher Library Lectures’. Elmbridge Borough Council later re-named it to celebrate his 20 dedicated years on the Library Committee. His work made knowledge accessible by championing community library education, illuminating everyday human experiences and exploring economic history, world faiths, ancient civilisations and rational thought.\nPresented by Elmbridge Borough Council in association with Riverhouse Barn Arts Centre\nPhoto credits:\nAdmont Abbey Library, Austria © Will Pryce; National Library of China © Will Pryce"
   },
@@ -2832,6 +3202,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6278149/conversions/wiI1dUeZJgRZQuuL-thumb.jpg",
    "description_text": "Programme:\nRavel Sonate Posthume\nLili Boulanger D'un Matin de Printemps\nDvorak Songs My Mother Taught Me\nDora Pejačević ' Spring' sonata\nIrish-Italian violinist Violetta Suvini is acclaimed as “an artist of great originality and vision”. A versatile recitalist and chamber musician, she is a City Music Foundation Artist for 2025–27 and winner of the Royal Philharmonic Society’s Emily Anderson Prize in 2024.\nVioletta has performed at prestigious venues and festivals including Wigmore Hall, the Barbican, Aldeburgh and the Venice Biennale. A passionate advocate for contemporary music, she has given 16 world premieres and commissioned works by emerging composers. She is a founding member of the innovative Komuna Collective, and was also a Britten Pears Young Artist in 2024–25.\nVioletta graduated with distinction from the Guildhall School of Music and Drama in 2023, having previously achieved First Class Honours at Oxford.\nGeorgian pianist Salome Jordania has performed internationally as a recitalist, chamber musician and concerto soloist, appearing at prestigious venues and festivals across Europe, the United States and beyond. A prize winner in more than thirty international competitions, she was the sole winner of the New York Concert Artists Competition, leading to her acclaimed debut at Berlin’s Philharmonie in 2023.\nA passionate collaborator, Salome has worked with leading contemporary composers, including Pulitzer Prize winners John Corigliano and Jennifer Higdon. Recent highlights include her debut at Amsterdam’s Concertgebouw Grand Hall with the trio The Graces, and a duo recital at Wigmore Hall with bassist Strahinja Mitrović.\nSalome holds degrees from The Juilliard School and Yale School of Music and recently completed the Artist Diploma programme at London’s Guildhall School of Music and Drama, where she was a Steinway & Sons Scholar."
   },
@@ -2870,6 +3250,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954613/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -2908,6 +3289,16 @@
    "price_min": 21.0,
    "price_max": 21.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 21.0
+    },
+    {
+     "name": "Disabled",
+     "price": 21.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6180312/conversions/oYTecv0d2WV9fdig-thumb.jpg",
    "description_text": "After several years focusing on his various bands, Bellowhead lead-singer Jon Boden returns to solo touring to launch his new book, ‘A Folk Song A Day’ , published by Faber Music. The show will include a song from each month of the book and, through them, whisk the audience away on a whistle-stop tour through the history of English folk song. Rarities and curiosities from 300 years of folk song will keep company with established folk classics from his award-winning back catalogue."
   },
@@ -2946,6 +3337,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6418983/conversions/c3spXPyCXEOj3PFd-thumb.jpg",
    "description_text": "Wren Piano Trio with Richard Uttley (piano), Nathaniel Anderson-Frank (violin) and Ella Rundle (cello)\nHaving performed together in various chamber music collaborations over many years—including recitals at Wigmore Hall—these three distinguished musicians have now come together as the Wren Piano Trio. The trio draws on extensive experience as soloists and chamber musicians, combining technical assurance with expressive depth and musical spontaneity. Their performances have been praised for their “unfazed expertise” (Classical Source), “assiduous clarity, lyrical poise” and “dashing” playing (The Times). Recent engagements include performances across the UK and at the Fête Musicale de la Forêt in Argonne, France.\nLeader of the BBC Concert Orchestra, Nathaniel Anderson-Frank’s playing has been praised for its “suaveness and depth of tone” (The Arts Desk). He is frequently featured as soloist with the Concert Orchestra and was previously a member of the prize-winning Piatti Quartet. Noted for her “infectious passion” (Ottawa Citizen), Ella Rundle is an accomplished soloist and chamber musician. A member of the Philharmonia Orchestra, she regularly plays as guest principal with leading UK orchestras. Richard Uttley has given solo and chamber recitals at many of the most prestigious venues and festivals internationally, and is a piano professor at the Royal College of Music in London.\nProgramme:\nTurina - Circulo\nTailleferre - Piano Trio\nMendelssohn - Piano Trio No.2 in C minor, op.66\nPhotos by Pablo Strong."
   },
@@ -2984,6 +3385,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954616/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3022,6 +3424,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954619/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3060,6 +3463,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954622/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3097,6 +3501,16 @@
    "price_min": 18.0,
    "price_max": 18.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 18.0
+    },
+    {
+     "name": "Disabled",
+     "price": 18.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/4408321/conversions/9gM0Tsnp20JCAyIi-thumb.jpg",
    "description_text": "Off the back of a total sell-out tour in 2024, Andrew Ryan is back with a brand-new show. Everyone’s favourite Cork in the North returns in good faith and in an honest capacity with what promises to be his biggest and most hilarious show to date.\nOn the face of it Andrew is utterly delighted with himself these days; he’s happy, confident, can drive a golf ball 300 yards and is excited for the future as a newlywed. Barely touch that surface and the reality is he cannot get out of his own way and continues to make utterly bewildering decisions with hilarious consequences. Join him for his new show with tales of pet ownership, constant inability to read a room, and his unrelenting frustration and annoyance with the world around him. Everything is fine, until it’s not!\nHost of the Q Radio Breakfast Show and Star of The Two Jonnies Late Night Lock In (RTE), The Blame Game (BBC), Comedy Central Live, along with hit appearances on some of the biggest comedy podcasts in the UK and Ireland. He is a frequent viral hit with over 50 million views amassed across social media.\n“Charming, Hilarious with some really powerful thinking underneath” - The Metro\n“Well paced, well written, delivers plenty of laughs” - The Mirror\n“Ferociously intelligent, Ryan is a great writer. Charming, hilarious and accessible with some really powerful thinking underneath it all.” - The Skinny"
   },
@@ -3135,6 +3549,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6549358/conversions/H42xFZOLwfri303t-thumb.jpg",
    "description_text": "Partners in life and music, dynamic Devon-based duo Harbottle & Jonas are one of the most exciting acts on the UK folk circuit today. They seamlessly blend the richness of traditional folk with their own original and powerful songwriting, creating a distinct and compelling signature sound.\nBlending concertina, harmonium, banjo, stomp box, acoustic guitar, and cittern – and their beautiful, closely intertwined vocal harmonies, Dave and Freya captivate audiences with every performance.\nTheir songs explore historical tales and personal narratives, weaving stories into their live shows that are as engaging as they are moving. Through their intimate and timeless music, Harbottle & Jonas bring people, places, and events vividly to life.\n\"The legendary Harbottle and Jonas... incredible\" – BBC 6 Music\n\"… like a cosmic, contemporary Fairport Convention\" – The Guardian"
   },
@@ -3173,6 +3597,16 @@
    "price_min": 32.5,
    "price_max": 32.5,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 32.5
+    },
+    {
+     "name": "Disabled",
+     "price": 32.5
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6293471/conversions/sUIvltdb1SokTnFX-thumb.jpg",
    "description_text": "Jazz Sabbath are back at Riverhouse!\nLed by 2026 Grammy-winning pianist Adam Wakeman (keys for Black Sabbath and Ozzy Osbourne since 2004), Jazz Sabbath is a jazz trio from Great Britain that plays new jazz arrangements of Black Sabbath songs, although the band presents itself as a jazz trio founded in 1968 and the original authors of the tracks later made famous by Black Sabbath.\nJazz Sabbath explores the boundaries between jazz and the songs that defined heavy metal, revisiting existing jazz riffs and discovering new ones. Whether or not you choose to believe their wild backstory, with three albums high in the Billboard Jazz Charts, sold-out shows worldwide, and rave reviews in both jazz and rock media, Jazz Sabbath is quickly making its way (back) to the top of the jazz scene.\n'Surprisingly superb' - Jazz Journal\n'Absolutely terrific' - Jazzwise\n'Never has heavy metal been so groovy' - MetalTalk\n'Spectacular renditions' - Metal Injection\n'Amazing interpretations' - Tony Iommi"
   },
@@ -3211,6 +3645,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954625/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3249,6 +3684,28 @@
    "price_min": 0.0,
    "price_max": 10.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Adult",
+     "price": 10.0
+    },
+    {
+     "name": "Disabled Adult",
+     "price": 10.0
+    },
+    {
+     "name": "Disabled Child under 12",
+     "price": 8.0
+    },
+    {
+     "name": "Child under 12",
+     "price": 8.0
+    },
+    {
+     "name": "Under 2 years old not taking a seat",
+     "price": 0.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6195081/conversions/A9PHAUSrDDRTaCPA-thumb.jpg",
    "description_text": "\"A tiny tale told by tiny creatures about BIG ideas.''\nTold entirely through the secret language of insects, Du Iz Tak? is a magical, miniature puppetry show for young children and families.\nAdapted from the award-winning picture book by Carson Ellis, this enchanting production follows a delightful group of bug friends as they explore their ever-changing world, build secret hideaways, and watch the seasons unfold.\nFeaturing tiny puppets crafted from vintage remnants, exquisite props built inside a suitcase set, and a charming, music-box-filled aesthetic, Du Iz Tak? is a gloriously visual feast about growth, change, and the cycle of life.\nA show for all the family - recommended ages 3-9\nBased on the beautiful book by Carson Ellis.\nPresented by: Tiny Pickles\nRunning Time: 30 minutes with no interval.\nMore show photos:\nhttps://www.instagram.com/thetinypickles/\nhttps://www.tiny-pickles.com/"
   },
@@ -3287,6 +3744,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954628/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3325,6 +3783,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6477122/conversions/pinyl4vYvoz5ruBC-thumb.jpg",
    "description_text": "This concert brings together artists who have appeared previously at the Riverhouse Barn to present cornerstones of the clarinet trio repertoire by Beethoven and Brahms.\nPianist and composer Pavel Timofeyevsky is a distinctive musical voice praised for his &quot;shimmering undertones&quot; (Pulse UK). He has performed globally at major venues across the UK, Shanghai, Mumbai, and Los Angeles. An award-winning composer for film and orchestra, Pavel serves as Music Director of Devon Opera and Artistic Director of Notable. Since 2024, he has also been Artistic Director of Fêtes Musicales Sainte Maxime on the Côte d’Azur, and he teaches at Finchcocks Piano Courses.\nClarinettist Anthony Friend has been praised for his 'liquid tone' (Seen and Heard International) and the 'vision and intensity' of his playing (The Observer). He balances a diverse career in orchestral, solo, and chamber performance with his role as Artistic Director of the Wimbledon International Music Festival. His prominent chamber music collaborators include the Sacconi, Allegri, and Solem string quartets, cellist Laura van der Heijden, and pianist Leon McCawley.\nCellist Joseph Spooner (ARAM) has pursued a widespread career as a soloist and chamber musician across Europe, New York, Russia, and New Zealand. Praised by Gramophone for his 'expressive power', Joseph is celebrated for standard classics and his dedication to rediscovering unjustly neglected repertoire. His highly acclaimed recordings have been broadcast on BBC Radio 3. Joseph performs on a Nicolas Vuillaume cello from c.1865.\nProgramme:\nLudwig van BEETHOVEN (1770–1827)\nTrio for Clarinet, Cello, and Piano in B-flat major, Op. 11\n'Gassenhauer' (1797–1798)\n• I. Allegro con brio\n• II. Adagio\n• III. Tema con variazioni: Pria ch'io l'impegno (Allegretto)\nJohannes BRAHMS (1833–1897)\nTrio for Clarinet, Cello, and Piano in A minor, Op. 114 (1891)\n• I. Allegro\n• II. Adagio\n• III. Andantino grazioso\n• IV. Allegro"
   },
@@ -3362,6 +3830,16 @@
    "price_min": 17.0,
    "price_max": 17.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 17.0
+    },
+    {
+     "name": "Disabled",
+     "price": 17.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/4408233/conversions/kUJgSbXFpQ2ATa1e-thumb.jpg",
    "description_text": "Award-winning radio host, stand-up powerhouse and entertainment machine Charlie Baker returns to the stage with his brand new show: GO GET IT.\nYou may know him from his roles in Eastenders and Dr Who, or indeed from The Last Leg, Parenting Hell and winning on House of Games. He’s perhaps best known as a presenter on talkSPORT and Virgin Radio, but onstage Baker shifts into a different gear entirely. Expect a full-throttle entertainment experience, packed with sharp observations, infectious energy and a performance that barely pauses for breath.\nYou’ve heard the voice. Now see the chaos.GO GET IT.\n'In a world that sometimes feels like it’s short on good-natured humour, Charlie Baker is a true master of his craft' - ★★★★★ Reviews Hub"
   },
@@ -3400,6 +3878,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954632/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3438,6 +3917,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954635/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3476,6 +3956,20 @@
    "price_min": 5.0,
    "price_max": 18.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 18.0
+    },
+    {
+     "name": "Student / Under 25",
+     "price": 5.0
+    },
+    {
+     "name": "Disabled",
+     "price": 18.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6263884/conversions/WlCXYDBS0wdNMYAC-thumb.jpg",
    "description_text": "EMILY SAUNDERS - INTERNATIONAL JAZZ DAY\n★★★★ The Guardian,\n★★★★ The Evening Standard,\n★★★★ The Independent,\n★★★★ The Arts Desk,\n★★★★ Jazzwise\nDubbed “UK’s queen of jazz-fusion”, critically acclaimed vocalist, songwriter, and producer Emily Saunders’ returns to Riverhouse Barn, taking the stage by storm with her stellar band, presenting her most powerful work to date for International Jazz Day 2027.\n“Absolutely Brilliant” BBC Radio 2\nExpect Emily’s jaw-dropping vocals of exceptional artistry, irresistible grooves and bold music production, as she launches her year of new songs with her sparkling new single “Can I Land With You”. Emily keeps you hooked from the first track - every note is a reminder to reach for the sunshine. Her music serves as an uplifting, resilient, and unmissably magnetic soundtrack to life.\nEmily’s rich, alluring voice wraps around melodies with effortless grace and virtuosity, set against beautiful immersive animated visuals. Jazz-fusion, soul, and pop with Brazilian grooves and broken beats. Emily is the composer, arranger, and producer of all her music, creating a cinematic and globally resonant signature sound.\nEmily’s music has hit the Top 10 on international Amazon and iTunes charts (UK, USA, Germany, France, Indonesia), with widespread global radio play on BBC Radio 1/2/3/4/6, Jazz FM, and national stations across the US, Japan, Australia, Europe, South America, South Korea, UAE, South Africa, and more.\nShow run time: 2 x 45 mins - with 30min interval.\nReviews:\n“Fascinating artist on stage.” – Jazz FM\n“Truly a UK sound. A future classic.” – Jazz FM\n★★★★ “Saunders is the real deal” – The Guardian\n★★★★ “Next big thing.” – The Evening Standard\n★★★★ “Utterly original.” – Jazzwise\n★★★★ “Highly impressive.\n“Intoxicating” – The Arts Desk\n“She’s the Queen of Jazz Fusion, a real powerhouse!” – Simon Phillips, Jazz FM\n“A stunning tour de force.” – Record Collector\n“Emily Saunders stands out as a beacon of musical breadth, quality and intensity.” – Jazz Journal Magazine\n“She really is absolutely brilliant.” – John Osborne, Jazz FM"
   },
@@ -3514,6 +4008,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954639/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3551,6 +4046,24 @@
    "price_min": 0.0,
    "price_max": 19.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 19.0
+    },
+    {
+     "name": "Disabled",
+     "price": 19.0
+    },
+    {
+     "name": "Complimentary",
+     "price": 0.0
+    },
+    {
+     "name": "Under 25s",
+     "price": 15.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6350435/conversions/1rBr3XBCIDvaMdER-thumb.jpg",
    "description_text": "DUO DESTINO – THE VIRTUOSO GUITAR DUO THAT ALWAYS LEAVES YOU WANTING MORE\nBack at Riverhouse Barn by popular demand! And two shows this time!\nFollowing a hugely successful previous appearance, Duo Destino return to Riverhouse Barn with their electrifying blend of flamenco, classical, Latin and contemporary music.\nFollowing the release of their latest album, Classical Corner, and the ongoing success of their original composition Heartbeat, virtuoso guitarists Ben Bruant and Will Cashel bring an evening of passion, virtuosity and exhilarating musical storytelling to Walton-on-Thames.\nRenowned for creating a sound far bigger than two guitars, the internationally acclaimed Duo Destino combine dazzling virtuosity, rhythmic flair and infectious stage chemistry. Their performances seamlessly weave together original compositions, fiery flamenco-inspired arrangements and fresh interpretations of beloved classics, taking audiences on a musical journey from Albéniz and Piazzolla to contemporary favourites.\nHaving met at the Royal Academy of Music, Ben and Will have built a reputation for captivating audiences around the world. During the pandemic they performed more than 70 free concerts for NHS workers, and since then have appeared for distinguished audiences including the King of Spain and Prince William, as well as performing at venues and events including Glastonbury, the Liverpool Philharmonic and the Bahrain Grand Prix. Their music has also been featured on BBC Radio 2, Scala Radio and Sky News.\nWhether you're discovering Duo Destino for the first time or welcoming them back to Riverhouse Barn, expect an unforgettable evening of virtuosity, passion and musical storytelling.\nExpect passion. Expect virtuosity. Expect to be surprised.\nShow duration: 2 hours, including a 20 mins interval\nTwo show dates: Friday 7 May 2027 & Saturday 8 May 2027"
   },
@@ -3588,6 +4101,24 @@
    "price_min": 0.0,
    "price_max": 19.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 19.0
+    },
+    {
+     "name": "Disabled",
+     "price": 19.0
+    },
+    {
+     "name": "Complimentary",
+     "price": 0.0
+    },
+    {
+     "name": "Under 25s",
+     "price": 15.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6350548/conversions/q6sZO7NnIcmHTnBs-thumb.jpg",
    "description_text": "DUO DESTINO – THE VIRTUOSO GUITAR DUO THAT ALWAYS LEAVES YOU WANTING MORE\nBack at Riverhouse Barn by popular demand! And two show this time!\nFollowing a hugely successful previous appearance, Duo Destino return to Riverhouse Barn with their electrifying blend of flamenco, classical, Latin and contemporary music.\nFollowing the release of their latest album, Classical Corner, and the ongoing success of their original composition Heartbeat, virtuoso guitarists Ben Bruant and Will Cashel bring an evening of passion, virtuosity and exhilarating musical storytelling to Walton-on-Thames.\nRenowned for creating a sound far bigger than two guitars, the internationally acclaimed Duo Destino combine dazzling virtuosity, rhythmic flair and infectious stage chemistry. Their performances seamlessly weave together original compositions, fiery flamenco-inspired arrangements and fresh interpretations of beloved classics, taking audiences on a musical journey from Albéniz and Piazzolla to contemporary favourites.\nHaving met at the Royal Academy of Music, Ben and Will have built a reputation for captivating audiences around the world. During the pandemic they performed more than 70 free concerts for NHS workers, and since then have appeared for distinguished audiences including the King of Spain and Prince William, as well as performing at venues and events including Glastonbury, the Liverpool Philharmonic and the Bahrain Grand Prix. Their music has also been featured on BBC Radio 2, Scala Radio and Sky News.\nWhether you're discovering Duo Destino for the first time or welcoming them back to Riverhouse Barn, expect an unforgettable evening of virtuosity, passion and musical storytelling.\nExpect passion. Expect virtuosity. Expect to be surprised.\nShow duration: 2 hours, including a 20 mins interval\nTwo show dates: Friday 7 May 2027 & Saturday 8 May 2027"
   },
@@ -3626,6 +4157,28 @@
    "price_min": 0.0,
    "price_max": 14.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Adult",
+     "price": 14.0
+    },
+    {
+     "name": "Disabled Adult",
+     "price": 14.0
+    },
+    {
+     "name": "Disabled Child under 12",
+     "price": 10.0
+    },
+    {
+     "name": "Child under 12",
+     "price": 10.0
+    },
+    {
+     "name": "Under 2 years old not taking a seat",
+     "price": 0.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6194036/conversions/59GqPYnYKDHmd8bV-thumb.jpg",
    "description_text": "Join The Magical Mr West and his corvid companion Crowbert on a journey into the brain bending world of science illusions!\nPrepare to be astounded by cognitive conundrums, mind melting mysteries and spectacular surreal psychology.\nAlongside impossible optical illusions and baffling tricks you can try at home, discover the devious deceptions and wily wordplay used to sell us ideas. Can you believe your eyes? Can you trust your own brain? Can Crowbert use the tricks he learns to start a new career in advertising?\nFollowing the success of “Adventures in Science” The Magical Mr West returns to Riverhouse with another spectacular science show for all the family.\nSuitable for ages 6 and up. Young siblings under 2 years old not taking a seat go FREE.\nShow Duration: 60 mins. No interval.\nRob Tay (Performer/Writer)\nRob Tay grew up in North London and was a member of the The Bull Youth Theatre Group. He continued performing at university while studying Chemistry, and appeared in a number of plays as well as being a member of the renowned improv group Oxford Imps.\nAt university he discovered an interest in magic and in 2009 formed the time-travelling magic double act Morgan & West, who went on to tour to theatres around the UK and across the world. He has appeared on Penn & Teller: Fool Us (ITV1/CW Network), The Next Great Magician (ITV1), and The Slammer (CBBC). He has been a magic consultant for a number of venues including Bristol Old Vic, Wilton’s Music Hall, and Stafford Gatehouse Theatre.\nHe now performs as The Magical Mr West as part of the theatre company Crafty Fools, and has combined his scientific interests with his love of the theatrical to create family friendly shows that have delighted audiences across the UK.\n“Entertaining and entrancing” – The Stage\n“Pure magic comedy” – Primary Times\n“Fun family entertainment with mind-boggling trickery” British Comedy Guide"
   },
@@ -3664,6 +4217,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954642/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3702,6 +4256,16 @@
    "price_min": 16.0,
    "price_max": 16.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6278173/conversions/T9VsRpoiGhXAtYGI-thumb.jpg",
    "description_text": "Oliver Nelson (Violin), Vasilis Rakitzis (Piano)\nProgramme to Include\nSonata for Violin and Piano in E flat, Op 18 Richard Strauss\nAllegro ma non troppo\nImprovisation: Andante cantabile\nFinale: Andate - Allegro\nOliver Nelson, born in Glasgow, began learning the violin at the age of six, later gaining scholarships to both Canford School and the Royal Academy of Music. At the latter, he studied the violin with Xue-Wei, winning the Academy concerto competition and appearing as soloist with its string orchestra. He later graduated with distinctions in both a master’s degree and the Fellowship diploma, followed by a doctorate in music at City St George’s, University of London. His performances have included recitals at St Martin-in-the-Fields, chamber music at Jamie Walton’s North York Moors Chamber Music Festival and concertos ranging from those with the Dorset Chamber Orchestra and Rebecca Gilliver, to the Royal Oman Symphony Orchestra. He has long been a busy recitalist with some of Britain’s finest pianists, including Nigel Hutchison, Julian Jacobson, and Vasilis Rakitzis. Oliver’s violin playing appears in film, both in Francois Girard’s The Song of Names collaborating with Howard Shore and Clive Owen, and Bruce Webb's award-winning Rare Books and Manuscripts.\nVasilis Rakitzis , is a Doctor of Musical Arts from City University London, and a graduate of the Royal Academy of Music and the Conservatories of Athens and Amsterdam. A pupil of among others Martin Roscoe, Naum Grubert, and Caroline Palmer, he also participated in masterclasses with Paul Badura-Skoda, Boris Berman, and Leonidas Kavakos. Vasilis has performed as a soloist with the leading Greek orchestras, and he regularly appears in solo and chamber music concerts in Greece and England. He was a prizewinner in international competitions, and he was awarded the prestigious ‘Eleni Tim. Mykoniou’ prize by the Academy of Athens. He currently resides in London and is a piano teacher at The Royal School and the Hindhead Music Centre in Haslemere (Surrey).\n__________________________________________________"
   },
@@ -3740,6 +4304,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954645/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3778,6 +4343,16 @@
    "price_min": 20.0,
    "price_max": 20.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 20.0
+    },
+    {
+     "name": "Disabled",
+     "price": 20.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6498729/conversions/DflXZ7RyuUiCBYAm-thumb.jpg",
    "description_text": "Three consecutive sell-out shows. One sensational violin duo. And now they're back!\nFollowing three years of sell-out performances at Riverhouse Barn, the sensational Red Hot Strings are back for another unforgettable evening of electrifying music and dazzling entertainment!\nBlending the beauty and elegance of classical music with the energy of contemporary pop, rock and dance, this dynamic female duo perform on both classical violins and spectacular LED electric violins, delivering a thrilling musical and visual experience.\nFresh from their appearance on the hit TV series The Real Housewives of London , performances aboard Saga cruise ships and BBC Radio airplay, Red Hot Strings continue to captivate audiences with their unique sound, infectious energy and stunning musicianship.\nHaving performed alongside some of the biggest names in music, including Adele, Beyoncé, Madonna, Rod Stewart, George Michael and Andrea Bocelli, the duo bring an extraordinary wealth of experience to the stage. Expect a fabulous mix of classical favourites with a twist, iconic pop and rock anthems, uplifting dance beats and original tracks from their debut album Crystal .\nThe dynamic duo will be joined on stage by special guests, adding even more excitement and surprises to this much-loved show!\nDescribed by BBC Radio as \"exciting, uplifting and beautiful\" , Red Hot Strings promise another sensational evening of musical magic, dazzling performances and unforgettable entertainment.\nEarly booking is strongly recommended. Don't miss their return!"
   },
@@ -3816,6 +4391,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954648/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3854,6 +4430,7 @@
    "price_min": null,
    "price_max": null,
    "is_free": false,
+   "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954651/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
   },
@@ -3891,6 +4468,12 @@
    "price_min": 15.0,
    "price_max": 15.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Disabled",
+     "price": 15.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6113160/conversions/Ih3GHLQRN6x6praf-thumb.jpg",
    "description_text": "After his 100+ date sellout & critical smash ‘Please #@!$ Off To Mars’ Tour 2025/26 and his ITVX comedy special, Andy is back at Mock Tudor Comedy Club with a brand new work-in-progress show.\nTime Out Comedy Award Winner / Winner Silver Dolphin Cannes / Montreal Just For Laughs Comedy Award Winner / New Zealand International Comedy Award Winner As seen on Netflix, Amazon Prime, BBC iPlayer, Live At The Apollo, Mock The Week & ITVX\nAGE GUIDANCE:\nSTRICTLY 14+\nLikely to be swearing and adult content. Children younger than this will not be admitted, even if accompanied by an adult ."
   },
@@ -3928,6 +4511,16 @@
    "price_min": 15.0,
    "price_max": 15.0,
    "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 15.0
+    },
+    {
+     "name": "Disabled",
+     "price": 15.0
+    }
+   ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6311292/conversions/feaUOeDrR2PAF7oA-thumb.jpg",
    "description_text": "MARCUS BRIGSTOCKE returns to Mock Tudor Comedy Club as he prepares for an upcoming UK tour in 2027.\nOne of Britain’s most recognisable and versatile comedy talents, star of stage screen and radio, As seen on The Graham Norton Show (BBC One) , and host of The Late Edition and I’ve Never Seen Star Wars (BBC4) . Live at the Apollo (BBC One), Have I Got News for You (BBC One), Mock the Week (BBC Two), QI (BBC Two), and regular on I’m sorry I haven't a Clue (Radio4) ‘...\n'charming, hilarious and utterly refreshing…’ - The Sunday Mirror\n‘Sharpest one-liner merchant’ - The Sunday Times\n‘If you haven’t seen him live, then you haven’t seen him at his very best’ - The Mirror"
   }
