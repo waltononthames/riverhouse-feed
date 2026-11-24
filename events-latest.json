@@ -1,88 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T03:36:18+00:00",
+ "generated_at": "2026-11-24T03:36:37+00:00",
  "source": "https://www.riverhousebarn.co.uk/browse",
  "complete": true,
  "pages_read": 9,
- "event_count": 104,
+ "event_count": 103,
  "events": [
-  {
-   "id": 178407,
-   "name": "Introduction to Jewellery Making (Monday or Friday)",
-   "url": "https://www.riverhousebarn.co.uk/events/178407",
-   "start_datetime": "2026-11-23 10:00:00",
-   "end_datetime": "2026-11-23 12:30:00",
-   "start_date": "Monday November 23, 2026",
-   "start_time": "10:00 AM",
-   "timezone": "Europe/London",
-   "description": "<p>Come and learn the basic traditional skills of silver jewellery making and complete your very own design.&nbsp;Under Sarah&rsquo;s guidance each student will have the opportunity to design and create a unique piece of jewellery.<br><br>To enrol, email: sarahlevy37@yahoo.com<br><br><strong><em>Tools provided, but materials will be extra.</em> </strong><br><br><strong>Tutor: Sarah Levy&#8203;<br><br><u>Classes</u></strong></p><ul><li><p><strong>Monday 10am &ndash; 12noon</strong></p></li><li><p><strong>Monday 4pm - 6pm</strong></p></li><li><p><strong>Friday 10am &ndash; 12noon</strong></p><p></p></li></ul>",
-   "tags": [
-    "Classes"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5932484/conversions/zk2D0ovLWgWjmMOY-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": true,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": 9908,
-   "schedule_name": "Introduction to Jewellery Making (Monday or Friday)",
-   "booking_url": "https://www.riverhousebarn.co.uk/events/178407",
-   "price_min": null,
-   "price_max": null,
-   "is_free": false,
-   "tickets": null,
-   "image": "https://assets.nuwebgroup.com/public/media/production/5932484/conversions/zk2D0ovLWgWjmMOY-thumb.jpg",
-   "description_text": "Come and learn the basic traditional skills of silver jewellery making and complete your very own design. Under Sarah’s guidance each student will have the opportunity to design and create a unique piece of jewellery.\nTo enrol, email: sarahlevy37@yahoo.com\nTools provided, but materials will be extra.\nTutor: Sarah Levy\nClasses\nMonday 10am – 12noon\nMonday 4pm - 6pm\nFriday 10am – 12noon"
-  },
-  {
-   "id": 178603,
-   "name": "Life Drawing Classes",
-   "url": "https://www.riverhousebarn.co.uk/events/178603",
-   "start_datetime": "2026-11-23 18:30:00",
-   "end_datetime": "2026-11-23 20:30:00",
-   "start_date": "Monday November 23, 2026",
-   "start_time": "6:30 PM",
-   "timezone": "Europe/London",
-   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
-   "tags": [
-    "Classes",
-    "Special Events"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954568/conversions/UvqArrjbP90L4aPp-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": true,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": 9001,
-   "schedule_name": "Life Drawing Classes",
-   "booking_url": "https://www.riverhousebarn.co.uk/events/178603",
-   "price_min": null,
-   "price_max": null,
-   "is_free": false,
-   "tickets": null,
-   "image": "https://assets.nuwebgroup.com/public/media/production/5954568/conversions/UvqArrjbP90L4aPp-thumb.jpg",
-   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
-  },
   {
    "id": 171424,
    "name": "Riverhouse Barn Choir  (MD: Johnny Kilhams)",
@@ -329,6 +252,44 @@
    "description_text": "Thames Valley Contemporary Textiles is a group of interesting and diverse members, who combined - have an immense range of experience and talents from traditional crafts to contemporary textiles. Our mission as a group is to learn from each other, be progressive and forward thinking but most importantly keeping the traditional crafts alive and passing these amazing skills and techniques onto the next generation.\n‘Threads of Time’ is an intimate exhibition of mixed media and textile work inspired by the personal, symbolic and cultural connections to an artefact resulting in a modern interpretation. Artefacts can be powerful non-verbal storytellers, to educate and express personal experiences to a place, a time and society thus inspiring a diverse range of ideas and outcomes.\nOpen daily, 10am - 4pm\nFree admission"
   },
   {
+   "id": 169327,
+   "name": "Creative Stitch afternoon class Autumn term 2026",
+   "url": "https://www.riverhousebarn.co.uk/events/169327",
+   "start_datetime": "2026-11-25 12:30:00",
+   "end_datetime": "2026-11-25 14:30:00",
+   "start_date": "Wednesday November 25, 2026",
+   "start_time": "12:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p>This is a relaxed and friendly course. It offers a combination of techniques such as batik, felting and machine sewing along with more traditional hand embroidery.&nbsp;<br><br>On the first day students will only need a pen or pencil to make notes. Janet will have a printed copy of the project to hand out, as the first class is normally a lot of discussion about ways to approach the project.<br>Riverhouse doesn&rsquo;t supply materials for the class but Janet can always bring something for people who don&rsquo;t have relevant bits and bobs at home.<br><br><strong>Tutor</strong>: Janet McDonagh<br><strong>Cost</strong>: &pound;115 (ten weeks)<br><br><strong><em>Educational Course Refund Policy</em></strong><br><em>We will process refund&nbsp;requests as follows:</em></p><ul><li><p><em>If the request is&nbsp;made more than eight weeks before the course starts, a full refund will be&nbsp;returned, net of online booking charges, if any.</em></p></li><li><p><em>If the request is&nbsp;made less than eight weeks and more than one week before the course starts, a&nbsp;full refund, net of online booking charges, if any and minus a &pound;25 administration fee will be returned.</em></p></li><li><p><em>No refunds will be&nbsp;made if you withdraw from a course less&nbsp;than seven days before the commencement date of the course.</em></p></li><li><p><em>Once a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse.</em></p></li></ul>",
+   "tags": [
+    "Classes"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6615601/conversions/WU0R6E65KoB2Ju1s-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/169327",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/6615601/conversions/WU0R6E65KoB2Ju1s-thumb.jpg",
+   "description_text": "This is a relaxed and friendly course. It offers a combination of techniques such as batik, felting and machine sewing along with more traditional hand embroidery.\nOn the first day students will only need a pen or pencil to make notes. Janet will have a printed copy of the project to hand out, as the first class is normally a lot of discussion about ways to approach the project.\nRiverhouse doesn’t supply materials for the class but Janet can always bring something for people who don’t have relevant bits and bobs at home.\nTutor : Janet McDonagh\nCost : £115 (ten weeks)\nEducational Course Refund Policy\nWe will process refund requests as follows:\nIf the request is made more than eight weeks before the course starts, a full refund will be returned, net of online booking charges, if any.\nIf the request is made less than eight weeks and more than one week before the course starts, a full refund, net of online booking charges, if any and minus a £25 administration fee will be returned.\nNo refunds will be made if you withdraw from a course less than seven days before the commencement date of the course.\nOnce a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse."
+  },
+  {
    "id": 183261,
    "name": "Live Poetry At Riverhouse - November",
    "url": "https://www.riverhousebarn.co.uk/events/183261",
@@ -559,7 +520,7 @@
     "longitude": "-0.42155900"
    },
    "status": "Published",
-   "is_on_sale": false,
+   "is_on_sale": true,
    "is_out_of_stock": false,
    "is_cancelled": false,
    "schedule_id": 9926,
@@ -1764,7 +1725,7 @@
    "start_date": "Saturday December 12, 2026",
    "start_time": "1:30 PM",
    "timezone": "Europe/London",
-   "description": "<p><strong>12 December from 1:30pm - 4pm</strong></p><p><strong>Instructor- Margie Haslewood</strong></p><p><strong>&nbsp;</strong>Join us for a fun filled afternoon as Margie shows us on how to paint this delightful winter scene. We will work in watercolour and pen on watercolour paper. You will leave with a beautiful version of your own to frame as a gift for a friend.&nbsp;You can also use the painting to produce Christmas cards &nbsp;All materials supplied but bring an apron&nbsp;</p><p></p>",
+   "description": "<p><strong>12 December from 1:30pm - 4pm</strong></p><p><strong>Instructor- Margie Haslewood</strong></p><p><strong>&nbsp;</strong>Join us for a fun filled afternoon as Margie shows us on how to paint this delightful winter scene. We will work in watercolour and pen on watercolour paper. You will leave with a beautiful version of your own to frame as a gift for a friend.&nbsp;You can also use the painting to produce Christmas cards.</p><p> &nbsp;All materials supplied but bring an apron.</p><p></p>",
    "tags": [
     "Classes",
     "Family",
@@ -1798,7 +1759,7 @@
     }
    ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6566663/conversions/mu5GXitJvoRTosbY-thumb.jpg",
-   "description_text": "12 December from 1:30pm - 4pm\nInstructor- Margie Haslewood\nJoin us for a fun filled afternoon as Margie shows us on how to paint this delightful winter scene. We will work in watercolour and pen on watercolour paper. You will leave with a beautiful version of your own to frame as a gift for a friend. You can also use the painting to produce Christmas cards All materials supplied but bring an apron"
+   "description_text": "12 December from 1:30pm - 4pm\nInstructor- Margie Haslewood\nJoin us for a fun filled afternoon as Margie shows us on how to paint this delightful winter scene. We will work in watercolour and pen on watercolour paper. You will leave with a beautiful version of your own to frame as a gift for a friend. You can also use the painting to produce Christmas cards.\nAll materials supplied but bring an apron."
   },
   {
    "id": 179644,

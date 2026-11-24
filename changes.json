@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-23T03:36:18+00:00",
+ "generated_at": "2026-11-24T03:36:37+00:00",
  "compared_with": "previous events-latest.json",
  "complete": true,
- "new": [],
- "changed": [],
+ "new": [
+  {
+   "id": 169327,
+   "name": "Creative Stitch afternoon class Autumn term 2026",
+   "start_datetime": "2026-11-25 12:30:00",
+   "change": "new"
+  }
+ ],
+ "changed": [
+  {
+   "id": 178597,
+   "name": "NEW Mixed Media Art Class - 10 week course",
+   "start_datetime": "2026-11-27 13:00:00",
+   "changes": {
+    "is_on_sale": {
+     "from": false,
+     "to": true
+    }
+   }
+  }
+ ],
  "removed": []
 }
