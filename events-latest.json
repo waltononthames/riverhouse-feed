@@ -1,11 +1,10 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T03:33:54+00:00",
+ "generated_at": "2026-11-25T03:42:58+00:00",
  "source": "https://www.riverhousebarn.co.uk/browse",
- "complete": false,
- "pages_read": 7,
- "event_count": 84,
- "note": "Partial scrape: listing page 8 failed: <urlopen error _ssl.c:1012: The handshake operation timed out>",
+ "complete": true,
+ "pages_read": 9,
+ "event_count": 104,
  "events": [
   {
    "id": 175079,
@@ -3627,6 +3626,920 @@
    ],
    "image": "https://assets.nuwebgroup.com/public/media/production/6293471/conversions/sUIvltdb1SokTnFX-thumb.jpg",
    "description_text": "Jazz Sabbath are back at Riverhouse!\nLed by 2026 Grammy-winning pianist Adam Wakeman (keys for Black Sabbath and Ozzy Osbourne since 2004), Jazz Sabbath is a jazz trio from Great Britain that plays new jazz arrangements of Black Sabbath songs, although the band presents itself as a jazz trio founded in 1968 and the original authors of the tracks later made famous by Black Sabbath.\nJazz Sabbath explores the boundaries between jazz and the songs that defined heavy metal, revisiting existing jazz riffs and discovering new ones. Whether or not you choose to believe their wild backstory, with three albums high in the Billboard Jazz Charts, sold-out shows worldwide, and rave reviews in both jazz and rock media, Jazz Sabbath is quickly making its way (back) to the top of the jazz scene.\n'Surprisingly superb' - Jazz Journal\n'Absolutely terrific' - Jazzwise\n'Never has heavy metal been so groovy' - MetalTalk\n'Spectacular renditions' - Metal Injection\n'Amazing interpretations' - Tony Iommi"
+  },
+  {
+   "id": 178622,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178622",
+   "start_datetime": "2027-04-05 18:30:00",
+   "end_datetime": "2027-04-05 20:30:00",
+   "start_date": "Monday April 5, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954625/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178622",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954625/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 181105,
+   "name": "DU IZ TAK?  (Age 3+)",
+   "url": "https://www.riverhousebarn.co.uk/events/181105",
+   "start_datetime": "2027-04-11 14:00:00",
+   "end_datetime": "2027-04-11 14:30:00",
+   "start_date": "Sunday April 11, 2027",
+   "start_time": "2:00 PM",
+   "timezone": "Europe/London",
+   "description": "<p>\"A tiny tale told by tiny creatures about BIG ideas.''</p><p>Told entirely through the secret language of insects, <strong><em>Du Iz Tak?</em></strong> is a magical, miniature puppetry show for young children and families.</p><p>Adapted from the award-winning picture book by Carson Ellis, this enchanting production follows a delightful group of bug friends as they explore their ever-changing world, build secret hideaways, and watch the seasons unfold.</p><p>Featuring tiny puppets crafted from vintage remnants, exquisite props built inside a suitcase set, and a charming, music-box-filled aesthetic, <strong><em>Du Iz Tak?</em></strong> is a gloriously visual feast about growth, change, and the cycle of life.</p><p>A show for all the family  - recommended ages 3-9</p><p>Based on the beautiful book by Carson Ellis. </p><p><strong>Presented by:</strong> <a href=\"https://www.tiny-pickles.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"a\">Tiny Pickles</a><br><strong>Running Time:</strong> 30 minutes with no interval.</p><p>More show photos:</p><p><a href=\"https://www.instagram.com/thetinypickles/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"a\">https://www.instagram.com/thetinypickles/</a></p><p><a href=\"https://www.tiny-pickles.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"a\">https://www.tiny-pickles.com/</a></p>",
+   "tags": [
+    "Family",
+    "Theatre"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6195081/conversions/A9PHAUSrDDRTaCPA-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/181105",
+   "price_min": 0.0,
+   "price_max": 10.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Adult",
+     "price": 10.0
+    },
+    {
+     "name": "Disabled Adult",
+     "price": 10.0
+    },
+    {
+     "name": "Disabled Child under 12",
+     "price": 8.0
+    },
+    {
+     "name": "Child under 12",
+     "price": 8.0
+    },
+    {
+     "name": "Under 2 years old not taking a seat",
+     "price": 0.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6195081/conversions/A9PHAUSrDDRTaCPA-thumb.jpg",
+   "description_text": "\"A tiny tale told by tiny creatures about BIG ideas.''\nTold entirely through the secret language of insects, Du Iz Tak? is a magical, miniature puppetry show for young children and families.\nAdapted from the award-winning picture book by Carson Ellis, this enchanting production follows a delightful group of bug friends as they explore their ever-changing world, build secret hideaways, and watch the seasons unfold.\nFeaturing tiny puppets crafted from vintage remnants, exquisite props built inside a suitcase set, and a charming, music-box-filled aesthetic, Du Iz Tak? is a gloriously visual feast about growth, change, and the cycle of life.\nA show for all the family - recommended ages 3-9\nBased on the beautiful book by Carson Ellis.\nPresented by: Tiny Pickles\nRunning Time: 30 minutes with no interval.\nMore show photos:\nhttps://www.instagram.com/thetinypickles/\nhttps://www.tiny-pickles.com/"
+  },
+  {
+   "id": 178623,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178623",
+   "start_datetime": "2027-04-12 18:30:00",
+   "end_datetime": "2027-04-12 20:30:00",
+   "start_date": "Monday April 12, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954628/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178623",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954628/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 183949,
+   "name": "Lunchtime Concert -  Anthony Friend  (clarinet), Joseph Spooner (cello), Pavel Timofeyevsky (piano)",
+   "url": "https://www.riverhousebarn.co.uk/events/183949",
+   "start_datetime": "2027-04-14 13:00:00",
+   "end_datetime": "2027-04-14 14:00:00",
+   "start_date": "Wednesday April 14, 2027",
+   "start_time": "1:00 PM",
+   "timezone": "Europe/London",
+   "description": "<p>This concert brings together artists who have appeared previously at the Riverhouse Barn to present cornerstones of the clarinet trio repertoire by Beethoven and Brahms.</p><p>Pianist and composer <strong>Pavel Timofeyevsky</strong> is a distinctive musical voice praised for his &amp;quot;shimmering undertones&amp;quot; (Pulse UK). He has performed globally at major venues across the UK, Shanghai, Mumbai, and Los Angeles. An award-winning composer for film and orchestra, Pavel serves as Music Director of Devon Opera and Artistic Director of Notable. Since 2024, he has also been Artistic Director of F&ecirc;tes Musicales Sainte Maxime on the C&ocirc;te d&rsquo;Azur, and he teaches at Finchcocks Piano Courses.</p><p>Clarinettist <strong>Anthony Friend</strong> has been praised for his 'liquid tone' (Seen and Heard International) and the 'vision and intensity' of his playing (The Observer). He balances a diverse career in orchestral, solo, and chamber performance with his role as Artistic Director of the Wimbledon International Music Festival. His prominent chamber music collaborators include the Sacconi, Allegri, and Solem string quartets, cellist Laura van der Heijden, and pianist Leon McCawley.</p><p>Cellist <strong>Joseph Spooner</strong> (ARAM) has pursued a widespread career as a soloist and chamber musician across Europe, New York, Russia, and New Zealand. Praised by Gramophone for his 'expressive power', Joseph is celebrated for standard classics and his dedication to rediscovering unjustly neglected repertoire. His highly acclaimed recordings have been broadcast on BBC Radio 3. Joseph performs on a Nicolas Vuillaume cello from c.1865.</p><p><u>Programme:</u></p><p>Ludwig van BEETHOVEN (1770&ndash;1827)</p><p>Trio for Clarinet, Cello, and Piano in B-flat major, Op. 11</p><p>'Gassenhauer' (1797&ndash;1798)</p><p><em>&bull; I. Allegro con brio<br>&bull; II. Adagio<br>&bull; III. Tema con variazioni: Pria ch'io l'impegno (Allegretto)</em></p><p></p><p>Johannes BRAHMS (1833&ndash;1897)</p><p>Trio for Clarinet, Cello, and Piano in A minor, Op. 114 (1891)</p><p><em>&bull; I. Allegro<br>&bull; II. Adagio<br>&bull; III. Andantino grazioso<br>&bull; IV. Allegro</em></p><p></p><p></p>",
+   "tags": [
+    "Classical",
+    "Music"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6477122/conversions/pinyl4vYvoz5ruBC-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/183949",
+   "price_min": 16.0,
+   "price_max": 16.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6477122/conversions/pinyl4vYvoz5ruBC-thumb.jpg",
+   "description_text": "This concert brings together artists who have appeared previously at the Riverhouse Barn to present cornerstones of the clarinet trio repertoire by Beethoven and Brahms.\nPianist and composer Pavel Timofeyevsky is a distinctive musical voice praised for his &quot;shimmering undertones&quot; (Pulse UK). He has performed globally at major venues across the UK, Shanghai, Mumbai, and Los Angeles. An award-winning composer for film and orchestra, Pavel serves as Music Director of Devon Opera and Artistic Director of Notable. Since 2024, he has also been Artistic Director of Fêtes Musicales Sainte Maxime on the Côte d’Azur, and he teaches at Finchcocks Piano Courses.\nClarinettist Anthony Friend has been praised for his 'liquid tone' (Seen and Heard International) and the 'vision and intensity' of his playing (The Observer). He balances a diverse career in orchestral, solo, and chamber performance with his role as Artistic Director of the Wimbledon International Music Festival. His prominent chamber music collaborators include the Sacconi, Allegri, and Solem string quartets, cellist Laura van der Heijden, and pianist Leon McCawley.\nCellist Joseph Spooner (ARAM) has pursued a widespread career as a soloist and chamber musician across Europe, New York, Russia, and New Zealand. Praised by Gramophone for his 'expressive power', Joseph is celebrated for standard classics and his dedication to rediscovering unjustly neglected repertoire. His highly acclaimed recordings have been broadcast on BBC Radio 3. Joseph performs on a Nicolas Vuillaume cello from c.1865.\nProgramme:\nLudwig van BEETHOVEN (1770–1827)\nTrio for Clarinet, Cello, and Piano in B-flat major, Op. 11\n'Gassenhauer' (1797–1798)\n• I. Allegro con brio\n• II. Adagio\n• III. Tema con variazioni: Pria ch'io l'impegno (Allegretto)\nJohannes BRAHMS (1833–1897)\nTrio for Clarinet, Cello, and Piano in A minor, Op. 114 (1891)\n• I. Allegro\n• II. Adagio\n• III. Andantino grazioso\n• IV. Allegro"
+  },
+  {
+   "id": 153114,
+   "name": "Charlie Baker: Go Get It",
+   "url": "https://www.riverhousebarn.co.uk/events/153114",
+   "start_datetime": "2027-04-16 19:30:00",
+   "end_datetime": "2027-04-16 21:30:00",
+   "start_date": "Friday April 16, 2027",
+   "start_time": "7:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p>Award-winning radio host, stand-up powerhouse and entertainment machine <strong>Charlie Baker</strong> returns to the stage with his brand new show: GO GET IT.</p><p>You may know him from his roles in Eastenders and Dr Who, or indeed from The Last Leg, Parenting Hell and winning on House of Games. He&rsquo;s perhaps best known as a presenter on talkSPORT and Virgin Radio, but onstage Baker shifts into a different gear entirely. Expect a full-throttle entertainment experience, packed with sharp observations, infectious energy and a performance that barely pauses for breath.</p><p>You&rsquo;ve heard the voice. Now see the chaos.GO GET IT.</p><p><em>'In a world that sometimes feels like it&rsquo;s short on good-natured humour, Charlie Baker is a true master of his craft'</em> - &#9733;&#9733;&#9733;&#9733;&#9733; <strong>Reviews Hub</strong></p><p></p>",
+   "tags": [
+    "Comedy"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/4408233/conversions/kUJgSbXFpQ2ATa1e-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/153114",
+   "price_min": 17.0,
+   "price_max": 17.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 17.0
+    },
+    {
+     "name": "Disabled",
+     "price": 17.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/4408233/conversions/kUJgSbXFpQ2ATa1e-thumb.jpg",
+   "description_text": "Award-winning radio host, stand-up powerhouse and entertainment machine Charlie Baker returns to the stage with his brand new show: GO GET IT.\nYou may know him from his roles in Eastenders and Dr Who, or indeed from The Last Leg, Parenting Hell and winning on House of Games. He’s perhaps best known as a presenter on talkSPORT and Virgin Radio, but onstage Baker shifts into a different gear entirely. Expect a full-throttle entertainment experience, packed with sharp observations, infectious energy and a performance that barely pauses for breath.\nYou’ve heard the voice. Now see the chaos.GO GET IT.\n'In a world that sometimes feels like it’s short on good-natured humour, Charlie Baker is a true master of his craft' - ★★★★★ Reviews Hub"
+  },
+  {
+   "id": 178624,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178624",
+   "start_datetime": "2027-04-19 18:30:00",
+   "end_datetime": "2027-04-19 20:30:00",
+   "start_date": "Monday April 19, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954632/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178624",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954632/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 178625,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178625",
+   "start_datetime": "2027-04-26 18:30:00",
+   "end_datetime": "2027-04-26 20:30:00",
+   "start_date": "Monday April 26, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954635/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178625",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954635/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 181597,
+   "name": "Emily Saunders - INTERNATIONAL JAZZ DAY",
+   "url": "https://www.riverhousebarn.co.uk/events/181597",
+   "start_datetime": "2027-04-30 20:00:00",
+   "end_datetime": "2027-04-30 21:30:00",
+   "start_date": "Friday April 30, 2027",
+   "start_time": "8:00 PM",
+   "timezone": "Europe/London",
+   "description": "<p>EMILY SAUNDERS - INTERNATIONAL JAZZ DAY&nbsp;</p><p>&#9733;&#9733;&#9733;&#9733; The Guardian,</p><p>&#9733;&#9733;&#9733;&#9733; The Evening Standard,</p><p>&#9733;&#9733;&#9733;&#9733; The Independent,&nbsp;</p><p>&#9733;&#9733;&#9733;&#9733; The Arts Desk,</p><p>&#9733;&#9733;&#9733;&#9733; Jazzwise&nbsp;&nbsp;</p><p>Dubbed &ldquo;UK&rsquo;s queen of jazz-fusion&rdquo;, critically acclaimed vocalist, songwriter, and producer Emily Saunders&rsquo; returns to Riverhouse Barn, taking the stage by storm with her stellar band, presenting her most powerful work to date for International Jazz Day 2027.<br></p><p>&ldquo;Absolutely Brilliant&rdquo; BBC Radio 2&nbsp;</p><p>Expect Emily&rsquo;s jaw-dropping vocals of exceptional artistry, irresistible grooves and bold music production, as she launches her year of new songs with her sparkling new single &ldquo;Can I Land With You&rdquo;. Emily keeps you hooked from the first track - every note is a reminder to reach for the sunshine. Her music serves as an uplifting, resilient, and unmissably magnetic soundtrack to life.&nbsp;</p><p>Emily&rsquo;s rich, alluring voice wraps around melodies with effortless grace and virtuosity, set against beautiful immersive animated visuals. Jazz-fusion, soul, and pop with Brazilian grooves and broken beats. Emily is the composer, arranger, and producer of all her music, creating a cinematic and globally resonant signature sound.</p><p>Emily&rsquo;s music has hit the Top 10 on international Amazon and iTunes charts (UK, USA, Germany, France, Indonesia), with widespread global radio play on BBC Radio 1/2/3/4/6, Jazz FM, and national stations across the US, Japan, Australia, Europe, South America, South Korea, UAE, South Africa, and more.&nbsp;</p><p>Show run time: 2 x 45 mins - with 30min interval.</p><p></p><p>Reviews:</p><p>&ldquo;Fascinating artist on stage.&rdquo; &ndash; Jazz FM&nbsp;</p><p>&ldquo;Truly a UK sound. A future classic.&rdquo; &ndash; Jazz FM&nbsp;</p><p><br>&#9733;&#9733;&#9733;&#9733; &ldquo;Saunders is the real deal&rdquo; &ndash; The Guardian&nbsp;<br>&#9733;&#9733;&#9733;&#9733; &ldquo;Next big thing.&rdquo; &ndash; The Evening Standard&nbsp;<br>&#9733;&#9733;&#9733;&#9733; &ldquo;Utterly original.&rdquo; &ndash; Jazzwise&nbsp;<br>&#9733;&#9733;&#9733;&#9733; &ldquo;Highly impressive. <br></p><p>&ldquo;Intoxicating&rdquo; &ndash; The Arts Desk&nbsp;<br>&ldquo;She&rsquo;s the Queen of Jazz Fusion, a real powerhouse!&rdquo; &ndash; Simon Phillips, Jazz FM&nbsp;<br>&ldquo;A stunning tour de force.&rdquo; &ndash; Record Collector&nbsp;<br>&ldquo;Emily Saunders stands out as a beacon of musical breadth, quality and intensity.&rdquo; &ndash; Jazz Journal Magazine&nbsp;<br>&ldquo;She really is absolutely brilliant.&rdquo; &ndash; John Osborne, Jazz FM</p><div class=\"video-container\"><iframe ref=\"embedded-video\" src=\"https://www.youtube.com/embed/3OmRhNpzuTA\" frameborder=\"0\" allowfullscreen=\"true\" class=\"iframe__embed mx-auto\" width=\"100%\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"></iframe></div><div class=\"video-container\"><iframe ref=\"embedded-video\" src=\"https://www.youtube.com/embed/kEg9lD4H3L0\" frameborder=\"0\" allowfullscreen=\"true\" class=\"iframe__embed mx-auto\" width=\"100%\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"></iframe></div>",
+   "tags": [
+    "Jazz",
+    "Music"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6263884/conversions/WlCXYDBS0wdNMYAC-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/181597",
+   "price_min": 5.0,
+   "price_max": 18.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 18.0
+    },
+    {
+     "name": "Student / Under 25",
+     "price": 5.0
+    },
+    {
+     "name": "Disabled",
+     "price": 18.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6263884/conversions/WlCXYDBS0wdNMYAC-thumb.jpg",
+   "description_text": "EMILY SAUNDERS - INTERNATIONAL JAZZ DAY\n★★★★ The Guardian,\n★★★★ The Evening Standard,\n★★★★ The Independent,\n★★★★ The Arts Desk,\n★★★★ Jazzwise\nDubbed “UK’s queen of jazz-fusion”, critically acclaimed vocalist, songwriter, and producer Emily Saunders’ returns to Riverhouse Barn, taking the stage by storm with her stellar band, presenting her most powerful work to date for International Jazz Day 2027.\n“Absolutely Brilliant” BBC Radio 2\nExpect Emily’s jaw-dropping vocals of exceptional artistry, irresistible grooves and bold music production, as she launches her year of new songs with her sparkling new single “Can I Land With You”. Emily keeps you hooked from the first track - every note is a reminder to reach for the sunshine. Her music serves as an uplifting, resilient, and unmissably magnetic soundtrack to life.\nEmily’s rich, alluring voice wraps around melodies with effortless grace and virtuosity, set against beautiful immersive animated visuals. Jazz-fusion, soul, and pop with Brazilian grooves and broken beats. Emily is the composer, arranger, and producer of all her music, creating a cinematic and globally resonant signature sound.\nEmily’s music has hit the Top 10 on international Amazon and iTunes charts (UK, USA, Germany, France, Indonesia), with widespread global radio play on BBC Radio 1/2/3/4/6, Jazz FM, and national stations across the US, Japan, Australia, Europe, South America, South Korea, UAE, South Africa, and more.\nShow run time: 2 x 45 mins - with 30min interval.\nReviews:\n“Fascinating artist on stage.” – Jazz FM\n“Truly a UK sound. A future classic.” – Jazz FM\n★★★★ “Saunders is the real deal” – The Guardian\n★★★★ “Next big thing.” – The Evening Standard\n★★★★ “Utterly original.” – Jazzwise\n★★★★ “Highly impressive.\n“Intoxicating” – The Arts Desk\n“She’s the Queen of Jazz Fusion, a real powerhouse!” – Simon Phillips, Jazz FM\n“A stunning tour de force.” – Record Collector\n“Emily Saunders stands out as a beacon of musical breadth, quality and intensity.” – Jazz Journal Magazine\n“She really is absolutely brilliant.” – John Osborne, Jazz FM"
+  },
+  {
+   "id": 178626,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178626",
+   "start_datetime": "2027-05-03 18:30:00",
+   "end_datetime": "2027-05-03 20:30:00",
+   "start_date": "Monday May 3, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954639/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178626",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954639/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 182346,
+   "name": "DUO DESTINO -   Flamenco Fusion",
+   "url": "https://www.riverhousebarn.co.uk/events/182346",
+   "start_datetime": "2027-05-07 20:00:00",
+   "end_datetime": "2027-05-07 22:00:00",
+   "start_date": "Friday May 7, 2027",
+   "start_time": "8:00 PM",
+   "timezone": "Europe/London",
+   "description": "<p>DUO DESTINO &ndash; THE VIRTUOSO GUITAR DUO THAT ALWAYS LEAVES YOU WANTING MORE</p><p>Back at Riverhouse Barn by popular demand! And two shows this time!</p><p>Following a hugely successful previous appearance, Duo Destino return to Riverhouse Barn with their electrifying blend of flamenco, classical, Latin and contemporary music.</p><p>Following the release of their latest album,&nbsp;Classical Corner, and the ongoing success of their original composition&nbsp;Heartbeat, virtuoso guitarists Ben Bruant and Will Cashel bring an evening of passion, virtuosity and exhilarating musical storytelling to Walton-on-Thames.</p><p>Renowned for creating a sound far bigger than two guitars,&nbsp;the internationally acclaimed Duo Destino combine dazzling virtuosity, rhythmic flair and infectious stage chemistry. Their performances seamlessly weave together original compositions, fiery flamenco-inspired arrangements and fresh interpretations of beloved classics, taking audiences on a musical journey from Alb&eacute;niz and Piazzolla to contemporary favourites.</p><p>Having met at the Royal Academy of Music, Ben and Will have built a reputation for captivating audiences around the world. During the pandemic they performed more than 70 free concerts for NHS workers, and since then have appeared for distinguished audiences including the King of Spain and Prince William, as well as performing at venues and events including Glastonbury, the Liverpool Philharmonic and the Bahrain Grand Prix. Their music has also been featured on BBC Radio 2, Scala Radio and Sky News.</p><p>Whether you're discovering Duo Destino for the first time or welcoming them back to Riverhouse Barn, expect an unforgettable evening of virtuosity, passion and musical storytelling.</p><p>Expect passion. Expect virtuosity. Expect to be surprised.</p><p></p><p>Show duration: 2 hours, including a 20 mins interval</p><p>Two show dates: Friday 7 May 2027 &amp; <a href=\"%24%7Bevents,182347%7D\" rel=\"noopener noreferrer nofollow\" class=\"a\">Saturday 8 May 2027</a></p>",
+   "tags": [
+    "Music"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6350435/conversions/1rBr3XBCIDvaMdER-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/182346",
+   "price_min": 0.0,
+   "price_max": 19.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 19.0
+    },
+    {
+     "name": "Disabled",
+     "price": 19.0
+    },
+    {
+     "name": "Complimentary",
+     "price": 0.0
+    },
+    {
+     "name": "Under 25s",
+     "price": 15.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6350435/conversions/1rBr3XBCIDvaMdER-thumb.jpg",
+   "description_text": "DUO DESTINO – THE VIRTUOSO GUITAR DUO THAT ALWAYS LEAVES YOU WANTING MORE\nBack at Riverhouse Barn by popular demand! And two shows this time!\nFollowing a hugely successful previous appearance, Duo Destino return to Riverhouse Barn with their electrifying blend of flamenco, classical, Latin and contemporary music.\nFollowing the release of their latest album, Classical Corner, and the ongoing success of their original composition Heartbeat, virtuoso guitarists Ben Bruant and Will Cashel bring an evening of passion, virtuosity and exhilarating musical storytelling to Walton-on-Thames.\nRenowned for creating a sound far bigger than two guitars, the internationally acclaimed Duo Destino combine dazzling virtuosity, rhythmic flair and infectious stage chemistry. Their performances seamlessly weave together original compositions, fiery flamenco-inspired arrangements and fresh interpretations of beloved classics, taking audiences on a musical journey from Albéniz and Piazzolla to contemporary favourites.\nHaving met at the Royal Academy of Music, Ben and Will have built a reputation for captivating audiences around the world. During the pandemic they performed more than 70 free concerts for NHS workers, and since then have appeared for distinguished audiences including the King of Spain and Prince William, as well as performing at venues and events including Glastonbury, the Liverpool Philharmonic and the Bahrain Grand Prix. Their music has also been featured on BBC Radio 2, Scala Radio and Sky News.\nWhether you're discovering Duo Destino for the first time or welcoming them back to Riverhouse Barn, expect an unforgettable evening of virtuosity, passion and musical storytelling.\nExpect passion. Expect virtuosity. Expect to be surprised.\nShow duration: 2 hours, including a 20 mins interval\nTwo show dates: Friday 7 May 2027 & Saturday 8 May 2027"
+  },
+  {
+   "id": 182347,
+   "name": "DUO DESTINO - Flamenco Fusion",
+   "url": "https://www.riverhousebarn.co.uk/events/182347",
+   "start_datetime": "2027-05-08 20:00:00",
+   "end_datetime": "2027-05-08 22:00:00",
+   "start_date": "Saturday May 8, 2027",
+   "start_time": "8:00 PM",
+   "timezone": "Europe/London",
+   "description": "<p>DUO DESTINO &ndash; THE VIRTUOSO GUITAR DUO THAT ALWAYS LEAVES YOU WANTING MORE</p><p>Back at Riverhouse Barn by popular demand! And two show this time!</p><p>Following a hugely successful previous appearance, Duo Destino return to Riverhouse Barn with their electrifying blend of flamenco, classical, Latin and contemporary music.</p><p>Following the release of their latest album,&nbsp;Classical Corner, and the ongoing success of their original composition&nbsp;Heartbeat, virtuoso guitarists Ben Bruant and Will Cashel bring an evening of passion, virtuosity and exhilarating musical storytelling to Walton-on-Thames.</p><p>Renowned for creating a sound far bigger than two guitars,&nbsp;the internationally acclaimed Duo Destino combine dazzling virtuosity, rhythmic flair and infectious stage chemistry. Their performances seamlessly weave together original compositions, fiery flamenco-inspired arrangements and fresh interpretations of beloved classics, taking audiences on a musical journey from Alb&eacute;niz and Piazzolla to contemporary favourites.</p><p>Having met at the Royal Academy of Music, Ben and Will have built a reputation for captivating audiences around the world. During the pandemic they performed more than 70 free concerts for NHS workers, and since then have appeared for distinguished audiences including the King of Spain and Prince William, as well as performing at venues and events including Glastonbury, the Liverpool Philharmonic and the Bahrain Grand Prix. Their music has also been featured on BBC Radio 2, Scala Radio and Sky News.</p><p>Whether you're discovering Duo Destino for the first time or welcoming them back to Riverhouse Barn, expect an unforgettable evening of virtuosity, passion and musical storytelling.</p><p>Expect passion. Expect virtuosity. Expect to be surprised.</p><p></p><p>Show duration: 2 hours, including a 20 mins interval</p><p></p><p>Two show dates: <a href=\"%24%7Bevents,182346%7D\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"a\">Friday 7 May 2027</a> &amp; Saturday 8 May 2027</p>",
+   "tags": [
+    "Music"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6350548/conversions/q6sZO7NnIcmHTnBs-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/182347",
+   "price_min": 0.0,
+   "price_max": 19.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 19.0
+    },
+    {
+     "name": "Disabled",
+     "price": 19.0
+    },
+    {
+     "name": "Complimentary",
+     "price": 0.0
+    },
+    {
+     "name": "Under 25s",
+     "price": 15.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6350548/conversions/q6sZO7NnIcmHTnBs-thumb.jpg",
+   "description_text": "DUO DESTINO – THE VIRTUOSO GUITAR DUO THAT ALWAYS LEAVES YOU WANTING MORE\nBack at Riverhouse Barn by popular demand! And two show this time!\nFollowing a hugely successful previous appearance, Duo Destino return to Riverhouse Barn with their electrifying blend of flamenco, classical, Latin and contemporary music.\nFollowing the release of their latest album, Classical Corner, and the ongoing success of their original composition Heartbeat, virtuoso guitarists Ben Bruant and Will Cashel bring an evening of passion, virtuosity and exhilarating musical storytelling to Walton-on-Thames.\nRenowned for creating a sound far bigger than two guitars, the internationally acclaimed Duo Destino combine dazzling virtuosity, rhythmic flair and infectious stage chemistry. Their performances seamlessly weave together original compositions, fiery flamenco-inspired arrangements and fresh interpretations of beloved classics, taking audiences on a musical journey from Albéniz and Piazzolla to contemporary favourites.\nHaving met at the Royal Academy of Music, Ben and Will have built a reputation for captivating audiences around the world. During the pandemic they performed more than 70 free concerts for NHS workers, and since then have appeared for distinguished audiences including the King of Spain and Prince William, as well as performing at venues and events including Glastonbury, the Liverpool Philharmonic and the Bahrain Grand Prix. Their music has also been featured on BBC Radio 2, Scala Radio and Sky News.\nWhether you're discovering Duo Destino for the first time or welcoming them back to Riverhouse Barn, expect an unforgettable evening of virtuosity, passion and musical storytelling.\nExpect passion. Expect virtuosity. Expect to be surprised.\nShow duration: 2 hours, including a 20 mins interval\nTwo show dates: Friday 7 May 2027 & Saturday 8 May 2027"
+  },
+  {
+   "id": 181104,
+   "name": "The Brain Bending Science Illusion Show",
+   "url": "https://www.riverhousebarn.co.uk/events/181104",
+   "start_datetime": "2027-05-09 14:00:00",
+   "end_datetime": "2027-05-09 15:00:00",
+   "start_date": "Sunday May 9, 2027",
+   "start_time": "2:00 PM",
+   "timezone": "Europe/London",
+   "description": "<p>Join The Magical Mr West and his corvid companion Crowbert on a journey into the brain bending world of science illusions! </p><p>Prepare to be astounded by cognitive conundrums, mind melting mysteries and spectacular surreal psychology.</p><p>Alongside impossible optical illusions and baffling tricks you can try at home, discover the devious deceptions and wily wordplay used to sell us ideas. Can you believe your eyes? Can you trust your own brain? Can Crowbert use the tricks he learns to start a new career in advertising?</p><p>Following the success of &ldquo;Adventures in Science&rdquo; The Magical Mr West returns to Riverhouse with another spectacular science show for all the family.</p><p>Suitable for ages 6 and up. Young siblings under 2 years old not taking a seat go FREE.</p><p>Show Duration: 60 mins. No interval.</p><p></p><p></p><p><strong>Rob Tay</strong> (Performer/Writer) </p><p>Rob Tay grew up in North London and was a member of the The Bull Youth Theatre Group. He continued performing at university while studying Chemistry, and appeared in a number of plays as well as being a member of the renowned improv group Oxford Imps.</p><p>At university he discovered an interest in magic and in 2009 formed the time-travelling magic double act Morgan &amp; West, who went on to tour to theatres around the UK and across the world. He has appeared on Penn &amp; Teller: Fool Us (ITV1/CW Network), The Next Great Magician (ITV1), and The Slammer (CBBC). He has been a magic consultant for a number of venues including Bristol Old Vic, Wilton&rsquo;s Music Hall, and Stafford Gatehouse Theatre.</p><p>He now performs as The Magical Mr West as part of the theatre company Crafty Fools, and has combined his scientific interests with his love of the theatrical to create family friendly shows that have delighted audiences across the UK.<br>&ldquo;Entertaining and entrancing&rdquo; &ndash; The Stage<br> &ldquo;Pure magic comedy&rdquo; &ndash; Primary Times<br>&ldquo;Fun family entertainment with mind-boggling trickery&rdquo; British Comedy Guide</p>",
+   "tags": [
+    "Family",
+    "Theatre"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6194036/conversions/59GqPYnYKDHmd8bV-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/181104",
+   "price_min": 0.0,
+   "price_max": 14.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Adult",
+     "price": 14.0
+    },
+    {
+     "name": "Disabled Adult",
+     "price": 14.0
+    },
+    {
+     "name": "Disabled Child under 12",
+     "price": 10.0
+    },
+    {
+     "name": "Child under 12",
+     "price": 10.0
+    },
+    {
+     "name": "Under 2 years old not taking a seat",
+     "price": 0.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6194036/conversions/59GqPYnYKDHmd8bV-thumb.jpg",
+   "description_text": "Join The Magical Mr West and his corvid companion Crowbert on a journey into the brain bending world of science illusions!\nPrepare to be astounded by cognitive conundrums, mind melting mysteries and spectacular surreal psychology.\nAlongside impossible optical illusions and baffling tricks you can try at home, discover the devious deceptions and wily wordplay used to sell us ideas. Can you believe your eyes? Can you trust your own brain? Can Crowbert use the tricks he learns to start a new career in advertising?\nFollowing the success of “Adventures in Science” The Magical Mr West returns to Riverhouse with another spectacular science show for all the family.\nSuitable for ages 6 and up. Young siblings under 2 years old not taking a seat go FREE.\nShow Duration: 60 mins. No interval.\nRob Tay (Performer/Writer)\nRob Tay grew up in North London and was a member of the The Bull Youth Theatre Group. He continued performing at university while studying Chemistry, and appeared in a number of plays as well as being a member of the renowned improv group Oxford Imps.\nAt university he discovered an interest in magic and in 2009 formed the time-travelling magic double act Morgan & West, who went on to tour to theatres around the UK and across the world. He has appeared on Penn & Teller: Fool Us (ITV1/CW Network), The Next Great Magician (ITV1), and The Slammer (CBBC). He has been a magic consultant for a number of venues including Bristol Old Vic, Wilton’s Music Hall, and Stafford Gatehouse Theatre.\nHe now performs as The Magical Mr West as part of the theatre company Crafty Fools, and has combined his scientific interests with his love of the theatrical to create family friendly shows that have delighted audiences across the UK.\n“Entertaining and entrancing” – The Stage\n“Pure magic comedy” – Primary Times\n“Fun family entertainment with mind-boggling trickery” British Comedy Guide"
+  },
+  {
+   "id": 178627,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178627",
+   "start_datetime": "2027-05-10 18:30:00",
+   "end_datetime": "2027-05-10 20:30:00",
+   "start_date": "Monday May 10, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954642/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178627",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954642/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 181804,
+   "name": "Teatime Concert - Oliver Nelson (Violin), Vasilis Rakitzis (Piano)",
+   "url": "https://www.riverhousebarn.co.uk/events/181804",
+   "start_datetime": "2027-05-16 17:00:00",
+   "end_datetime": "2027-05-16 18:00:00",
+   "start_date": "Sunday May 16, 2027",
+   "start_time": "5:00 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Oliver Nelson (Violin), Vasilis Rakitzis (Piano)</strong></p><p>Programme to Include</p><p>Sonata for Violin and Piano in E flat, Op 18           Richard Strauss</p><p><em>Allegro ma non troppo<br>Improvisation: Andante cantabile</em></p><p><em>Finale: Andate - Allegro</em></p><p><strong>Oliver Nelson,</strong> born in Glasgow, began learning the violin at the age of six, later gaining scholarships to both Canford School and the Royal Academy of Music. At the latter, he studied the violin with Xue-Wei, winning the Academy concerto competition and appearing as soloist with its string orchestra. He later graduated with distinctions in both a master&rsquo;s degree and the Fellowship diploma, followed by a doctorate in music at City St George&rsquo;s, University of London. His performances have included recitals at St Martin-in-the-Fields, chamber music at Jamie Walton&rsquo;s North York Moors Chamber Music Festival and concertos ranging from those with the Dorset Chamber Orchestra and Rebecca Gilliver, to the Royal Oman Symphony Orchestra. He has long been a busy recitalist with some of Britain&rsquo;s finest pianists, including Nigel Hutchison, Julian Jacobson, and Vasilis Rakitzis. Oliver&rsquo;s violin playing appears in film, both in Francois Girard&rsquo;s The Song of Names collaborating with Howard Shore and Clive Owen, and Bruce Webb's award-winning Rare Books and Manuscripts.</p><p><strong>Vasilis Rakitzis</strong>, is a Doctor of Musical Arts from City University London, and a graduate of the Royal Academy of Music and the Conservatories of Athens and Amsterdam. A pupil of among others Martin Roscoe, Naum Grubert, and Caroline Palmer, he also participated in masterclasses with Paul Badura-Skoda, Boris Berman, and Leonidas Kavakos. Vasilis has performed as a soloist with the leading Greek orchestras, and he regularly appears in solo and chamber music concerts in Greece and England. He was a prizewinner in international competitions, and he was awarded the prestigious &lsquo;Eleni Tim. Mykoniou&rsquo; prize by the Academy of Athens. He currently resides in London and is a piano teacher at The Royal School and the Hindhead Music Centre in Haslemere (Surrey).</p><p>__________________________________________________</p>",
+   "tags": [
+    "Classical",
+    "Music"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6278173/conversions/T9VsRpoiGhXAtYGI-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/181804",
+   "price_min": 16.0,
+   "price_max": 16.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 16.0
+    },
+    {
+     "name": "Disabled",
+     "price": 16.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6278173/conversions/T9VsRpoiGhXAtYGI-thumb.jpg",
+   "description_text": "Oliver Nelson (Violin), Vasilis Rakitzis (Piano)\nProgramme to Include\nSonata for Violin and Piano in E flat, Op 18 Richard Strauss\nAllegro ma non troppo\nImprovisation: Andante cantabile\nFinale: Andate - Allegro\nOliver Nelson, born in Glasgow, began learning the violin at the age of six, later gaining scholarships to both Canford School and the Royal Academy of Music. At the latter, he studied the violin with Xue-Wei, winning the Academy concerto competition and appearing as soloist with its string orchestra. He later graduated with distinctions in both a master’s degree and the Fellowship diploma, followed by a doctorate in music at City St George’s, University of London. His performances have included recitals at St Martin-in-the-Fields, chamber music at Jamie Walton’s North York Moors Chamber Music Festival and concertos ranging from those with the Dorset Chamber Orchestra and Rebecca Gilliver, to the Royal Oman Symphony Orchestra. He has long been a busy recitalist with some of Britain’s finest pianists, including Nigel Hutchison, Julian Jacobson, and Vasilis Rakitzis. Oliver’s violin playing appears in film, both in Francois Girard’s The Song of Names collaborating with Howard Shore and Clive Owen, and Bruce Webb's award-winning Rare Books and Manuscripts.\nVasilis Rakitzis , is a Doctor of Musical Arts from City University London, and a graduate of the Royal Academy of Music and the Conservatories of Athens and Amsterdam. A pupil of among others Martin Roscoe, Naum Grubert, and Caroline Palmer, he also participated in masterclasses with Paul Badura-Skoda, Boris Berman, and Leonidas Kavakos. Vasilis has performed as a soloist with the leading Greek orchestras, and he regularly appears in solo and chamber music concerts in Greece and England. He was a prizewinner in international competitions, and he was awarded the prestigious ‘Eleni Tim. Mykoniou’ prize by the Academy of Athens. He currently resides in London and is a piano teacher at The Royal School and the Hindhead Music Centre in Haslemere (Surrey).\n__________________________________________________"
+  },
+  {
+   "id": 178628,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178628",
+   "start_datetime": "2027-05-17 18:30:00",
+   "end_datetime": "2027-05-17 20:30:00",
+   "start_date": "Monday May 17, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954645/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178628",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954645/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 184114,
+   "name": "Red Hot Strings - Back By Popular Demand!",
+   "url": "https://www.riverhousebarn.co.uk/events/184114",
+   "start_datetime": "2027-05-21 19:30:00",
+   "end_datetime": "2027-05-21 22:00:00",
+   "start_date": "Friday May 21, 2027",
+   "start_time": "7:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Three consecutive sell-out shows. One sensational violin duo. And now they're back!</strong></p><p>Following three years of sell-out performances at Riverhouse Barn, the sensational&nbsp;<strong>Red Hot Strings</strong>&nbsp;are back for another unforgettable evening of electrifying music and dazzling entertainment! <br>Blending the beauty and elegance of classical music with the energy of contemporary pop, rock and dance, this dynamic female duo perform on both classical violins and spectacular LED electric violins, delivering a thrilling musical and visual experience.<br>Fresh from their appearance on the hit TV series&nbsp;<em>The Real Housewives of London</em>, performances aboard Saga cruise ships and BBC Radio airplay, Red Hot Strings continue to captivate audiences with their unique sound, infectious energy and stunning musicianship.<br>Having performed alongside some of the biggest names in music, including Adele, Beyonc&eacute;, Madonna, Rod Stewart, George Michael and Andrea Bocelli, the duo bring an extraordinary wealth of experience to the stage. Expect a fabulous mix of classical favourites with a twist, iconic pop and rock anthems, uplifting dance beats and original tracks from their debut album&nbsp;<em>Crystal</em>.<br>The dynamic duo will be joined on stage by special guests, adding even more excitement and surprises to this much-loved show!<br>Described by BBC Radio as&nbsp;<strong>\"exciting, uplifting and beautiful\"</strong>, Red Hot Strings promise another sensational evening of musical magic, dazzling performances and unforgettable entertainment.<strong> </strong></p><p><strong>Early booking is strongly recommended. Don't miss their return!</strong></p><p></p>",
+   "tags": [
+    "Classical",
+    "Music"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6498729/conversions/DflXZ7RyuUiCBYAm-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/184114",
+   "price_min": 20.0,
+   "price_max": 20.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 20.0
+    },
+    {
+     "name": "Disabled",
+     "price": 20.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6498729/conversions/DflXZ7RyuUiCBYAm-thumb.jpg",
+   "description_text": "Three consecutive sell-out shows. One sensational violin duo. And now they're back!\nFollowing three years of sell-out performances at Riverhouse Barn, the sensational Red Hot Strings are back for another unforgettable evening of electrifying music and dazzling entertainment!\nBlending the beauty and elegance of classical music with the energy of contemporary pop, rock and dance, this dynamic female duo perform on both classical violins and spectacular LED electric violins, delivering a thrilling musical and visual experience.\nFresh from their appearance on the hit TV series The Real Housewives of London , performances aboard Saga cruise ships and BBC Radio airplay, Red Hot Strings continue to captivate audiences with their unique sound, infectious energy and stunning musicianship.\nHaving performed alongside some of the biggest names in music, including Adele, Beyoncé, Madonna, Rod Stewart, George Michael and Andrea Bocelli, the duo bring an extraordinary wealth of experience to the stage. Expect a fabulous mix of classical favourites with a twist, iconic pop and rock anthems, uplifting dance beats and original tracks from their debut album Crystal .\nThe dynamic duo will be joined on stage by special guests, adding even more excitement and surprises to this much-loved show!\nDescribed by BBC Radio as \"exciting, uplifting and beautiful\" , Red Hot Strings promise another sensational evening of musical magic, dazzling performances and unforgettable entertainment.\nEarly booking is strongly recommended. Don't miss their return!"
+  },
+  {
+   "id": 178629,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178629",
+   "start_datetime": "2027-05-24 18:30:00",
+   "end_datetime": "2027-05-24 20:30:00",
+   "start_date": "Monday May 24, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954648/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178629",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954648/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 178630,
+   "name": "Life Drawing Classes",
+   "url": "https://www.riverhousebarn.co.uk/events/178630",
+   "start_datetime": "2027-05-31 18:30:00",
+   "end_datetime": "2027-05-31 20:30:00",
+   "start_date": "Monday May 31, 2027",
+   "start_time": "6:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>Every Monday 6.30pm - 8.30pm</strong><br><br>Professional models posing each week supported by internationally trained artist Stephen Jones&nbsp;<a href=\"https://jonesstephenart.com/life-drawing\" rel=\"noopener noreferrer nofollow\" class=\"a\">Life Drawing (jonesstephenart.com)</a><br><br>Please book ahead by calling Stephen on 07565 908092 | &pound;25 each class or discounts for multiple bookings | Walk-ins subject to space<br><br><strong><em>Support, instruction and critique offered.</em></strong><br><br><u>YOU WILL NEED</u><br>1. Paper A1 size max.<br>2. Drawing board<br>3. Charcoal/chalk or any type of pencil or pen<br>4. Putty eraser or preferred. (No paint or liquid ink please)<br>5. Bring an easel (recommended)<br><br><strong><em>Open to all levels</em></strong></p>",
+   "tags": [
+    "Classes",
+    "Special Events"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954651/conversions/UvqArrjbP90L4aPp-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 9001,
+   "schedule_name": "Life Drawing Classes",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/178630",
+   "price_min": null,
+   "price_max": null,
+   "is_free": false,
+   "tickets": null,
+   "image": "https://assets.nuwebgroup.com/public/media/production/5954651/conversions/UvqArrjbP90L4aPp-thumb.jpg",
+   "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 180052,
+   "name": "Andy Parsons: Work In Progress",
+   "url": "https://www.riverhousebarn.co.uk/events/180052",
+   "start_datetime": "2027-07-01 19:30:00",
+   "end_datetime": "2027-07-01 21:30:00",
+   "start_date": "Thursday July 1, 2027",
+   "start_time": "7:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p>After his 100+ date sellout &amp; critical smash <strong><em>&lsquo;Please #@!$ Off To Mars&rsquo;</em></strong> Tour 2025/26 and his ITVX comedy special, Andy is back at Mock Tudor Comedy Club with a brand new work-in-progress show.&nbsp;&nbsp;&nbsp;</p><p><em>Time Out Comedy Award Winner / Winner Silver Dolphin Cannes / Montreal Just For Laughs Comedy Award Winner / New Zealand International Comedy Award Winner</em>&nbsp;As seen on Netflix, Amazon Prime, BBC iPlayer, Live At The Apollo, Mock The Week &amp; ITVX</p><p></p><p><strong>AGE GUIDANCE:<br>STRICTLY 14+ <br>Likely to be swearing and adult content. Children younger than this will not be admitted, even if accompanied by an adult</strong>.</p><p></p>",
+   "tags": [
+    "Comedy"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6113160/conversions/Ih3GHLQRN6x6praf-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/180052",
+   "price_min": 15.0,
+   "price_max": 15.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Disabled",
+     "price": 15.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6113160/conversions/Ih3GHLQRN6x6praf-thumb.jpg",
+   "description_text": "After his 100+ date sellout & critical smash ‘Please #@!$ Off To Mars’ Tour 2025/26 and his ITVX comedy special, Andy is back at Mock Tudor Comedy Club with a brand new work-in-progress show.\nTime Out Comedy Award Winner / Winner Silver Dolphin Cannes / Montreal Just For Laughs Comedy Award Winner / New Zealand International Comedy Award Winner As seen on Netflix, Amazon Prime, BBC iPlayer, Live At The Apollo, Mock The Week & ITVX\nAGE GUIDANCE:\nSTRICTLY 14+\nLikely to be swearing and adult content. Children younger than this will not be admitted, even if accompanied by an adult ."
+  },
+  {
+   "id": 182105,
+   "name": "Marcus Brigstocke: Work In Progress",
+   "url": "https://www.riverhousebarn.co.uk/events/182105",
+   "start_datetime": "2027-07-14 19:30:00",
+   "end_datetime": "2027-07-14 21:30:00",
+   "start_date": "Wednesday July 14, 2027",
+   "start_time": "7:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p><strong>MARCUS BRIGSTOCKE</strong> returns to Mock Tudor Comedy Club as he prepares for an upcoming UK tour in 2027. <br><br>One of Britain&rsquo;s most recognisable and versatile comedy talents, star of stage screen and radio,&nbsp;As seen on&nbsp;<em>The Graham Norton Show (BBC One)</em>, and host of <em>The Late Edition</em> and <em>I&rsquo;ve Never Seen Star Wars (BBC4)</em>.&nbsp;&nbsp;<em>Live at the Apollo (BBC One), Have I Got News for You (BBC One), Mock the Week (BBC Two), QI (BBC Two),</em> and regular on <em>I&rsquo;m sorry I haven't a Clue (Radio4)</em>&nbsp;&lsquo;... </p><p><em>'charming, hilarious and utterly refreshing&hellip;&rsquo;</em> - <em>The Sunday Mirror</em>&nbsp;<br><em>&lsquo;Sharpest one-liner merchant&rsquo; - The Sunday Times</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><em>&lsquo;If you haven&rsquo;t seen him live, then you haven&rsquo;t seen him at his very best&rsquo;</em> - <em>The Mirror</em></p><p></p>",
+   "tags": [
+    "Comedy"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6311292/conversions/feaUOeDrR2PAF7oA-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/182105",
+   "price_min": 15.0,
+   "price_max": 15.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 15.0
+    },
+    {
+     "name": "Disabled",
+     "price": 15.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6311292/conversions/feaUOeDrR2PAF7oA-thumb.jpg",
+   "description_text": "MARCUS BRIGSTOCKE returns to Mock Tudor Comedy Club as he prepares for an upcoming UK tour in 2027.\nOne of Britain’s most recognisable and versatile comedy talents, star of stage screen and radio, As seen on The Graham Norton Show (BBC One) , and host of The Late Edition and I’ve Never Seen Star Wars (BBC4) . Live at the Apollo (BBC One), Have I Got News for You (BBC One), Mock the Week (BBC Two), QI (BBC Two), and regular on I’m sorry I haven't a Clue (Radio4) ‘...\n'charming, hilarious and utterly refreshing…’ - The Sunday Mirror\n‘Sharpest one-liner merchant’ - The Sunday Times\n‘If you haven’t seen him live, then you haven’t seen him at his very best’ - The Mirror"
   }
  ]
 }
