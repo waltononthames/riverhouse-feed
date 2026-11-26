@@ -1,129 +1,38 @@
 {
- "generated_at": "2026-11-25T03:42:58+00:00",
+ "generated_at": "2026-11-26T03:31:02+00:00",
  "compared_with": "previous events-latest.json",
  "complete": true,
  "new": [
   {
-   "id": 178622,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-04-05 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 181105,
-   "name": "DU IZ TAK?  (Age 3+)",
-   "start_datetime": "2027-04-11 14:00:00",
-   "change": "new"
-  },
-  {
-   "id": 178623,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-04-12 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 183949,
-   "name": "Lunchtime Concert -  Anthony Friend  (clarinet), Joseph Spooner (cello), Pavel Timofeyevsky (piano)",
-   "start_datetime": "2027-04-14 13:00:00",
-   "change": "new"
-  },
-  {
-   "id": 153114,
-   "name": "Charlie Baker: Go Get It",
-   "start_datetime": "2027-04-16 19:30:00",
-   "change": "new"
-  },
-  {
-   "id": 178624,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-04-19 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 178625,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-04-26 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 181597,
-   "name": "Emily Saunders - INTERNATIONAL JAZZ DAY",
-   "start_datetime": "2027-04-30 20:00:00",
-   "change": "new"
-  },
-  {
-   "id": 178626,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-05-03 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 182346,
-   "name": "DUO DESTINO -   Flamenco Fusion",
-   "start_datetime": "2027-05-07 20:00:00",
-   "change": "new"
-  },
-  {
-   "id": 182347,
-   "name": "DUO DESTINO - Flamenco Fusion",
-   "start_datetime": "2027-05-08 20:00:00",
-   "change": "new"
-  },
-  {
-   "id": 181104,
-   "name": "The Brain Bending Science Illusion Show",
-   "start_datetime": "2027-05-09 14:00:00",
-   "change": "new"
-  },
-  {
-   "id": 178627,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-05-10 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 181804,
-   "name": "Teatime Concert - Oliver Nelson (Violin), Vasilis Rakitzis (Piano)",
-   "start_datetime": "2027-05-16 17:00:00",
-   "change": "new"
-  },
-  {
-   "id": 178628,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-05-17 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 184114,
-   "name": "Red Hot Strings - Back By Popular Demand!",
-   "start_datetime": "2027-05-21 19:30:00",
-   "change": "new"
-  },
-  {
-   "id": 178629,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-05-24 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 178630,
-   "name": "Life Drawing Classes",
-   "start_datetime": "2027-05-31 18:30:00",
-   "change": "new"
-  },
-  {
-   "id": 180052,
-   "name": "Andy Parsons: Work In Progress",
-   "start_datetime": "2027-07-01 19:30:00",
-   "change": "new"
-  },
-  {
-   "id": 182105,
-   "name": "Marcus Brigstocke: Work In Progress",
-   "start_datetime": "2027-07-14 19:30:00",
+   "id": 185423,
+   "name": "Riverhouse Poets - Extra Poetry Writing Workshop with Katie Griffiths",
+   "start_datetime": "2026-12-10 13:30:00",
    "change": "new"
   }
  ],
- "changed": [],
+ "changed": [
+  {
+   "id": 173654,
+   "name": "Riverhouse Poets - Extra Poetry Writing Workshop with Katie Griffiths",
+   "start_datetime": "2026-12-03 13:30:00",
+   "changes": {
+    "name": {
+     "from": "Riverhouse Poets - Poetry writing workshop with Katie Griffiths",
+     "to": "Riverhouse Poets - Extra Poetry Writing Workshop with Katie Griffiths"
+    }
+   }
+  },
+  {
+   "id": 185222,
+   "name": "Thursday Creative Stitch Spring term 2027",
+   "start_datetime": "2027-01-14 10:30:00",
+   "changes": {
+    "is_on_sale": {
+     "from": false,
+     "to": true
+    }
+   }
+  }
+ ],
  "removed": []
 }

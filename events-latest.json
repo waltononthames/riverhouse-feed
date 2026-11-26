@@ -1,135 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T03:42:58+00:00",
+ "generated_at": "2026-11-26T03:31:02+00:00",
  "source": "https://www.riverhousebarn.co.uk/browse",
  "complete": true,
  "pages_read": 9,
- "event_count": 104,
+ "event_count": 102,
  "events": [
-  {
-   "id": 175079,
-   "name": "Threads of Time, a textile exhibition",
-   "url": "https://www.riverhousebarn.co.uk/events/175079",
-   "start_datetime": "2026-11-25 10:00:00",
-   "end_datetime": "2026-12-06 16:00:00",
-   "start_date": "Wednesday November 25, 2026",
-   "start_time": "10:00 AM",
-   "timezone": "Europe/London",
-   "description": "<p><strong>Thames Valley Contemporary Textiles</strong> is a group of interesting and diverse members, who combined - have an immense range of experience and talents from traditional crafts to contemporary textiles. Our mission as a group is to learn from each other, be progressive and forward thinking but most importantly keeping the traditional crafts alive and passing these amazing skills and techniques onto the next generation.</p><p>&lsquo;Threads of Time&rsquo; is an intimate exhibition of mixed media and textile work inspired by the personal, symbolic and cultural connections to an artefact resulting in a modern interpretation. Artefacts can be powerful non-verbal storytellers, to educate and express personal experiences to a place, a time and society thus inspiring a diverse range of ideas and outcomes.</p><p>Open daily, 10am - 4pm</p><p>Free admission</p><p></p>",
-   "tags": [
-    "Gallery"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5698324/conversions/iOnmylxLPgmN0kVh-thumb.jpg"
-   },
-   "venue": {
-    "id": 13135,
-    "name": "Robert Phillips Gallery",
-    "address_full": "Robert Phillips Gallery, Riverhouse Arts Centre, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.38957500",
-    "longitude": "-0.42205000"
-   },
-   "status": "Published",
-   "is_on_sale": true,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": null,
-   "schedule_name": null,
-   "booking_url": "https://www.riverhousebarn.co.uk/events/175079",
-   "price_min": null,
-   "price_max": null,
-   "is_free": false,
-   "tickets": null,
-   "image": "https://assets.nuwebgroup.com/public/media/production/5698324/conversions/iOnmylxLPgmN0kVh-thumb.jpg",
-   "description_text": "Thames Valley Contemporary Textiles is a group of interesting and diverse members, who combined - have an immense range of experience and talents from traditional crafts to contemporary textiles. Our mission as a group is to learn from each other, be progressive and forward thinking but most importantly keeping the traditional crafts alive and passing these amazing skills and techniques onto the next generation.\n‘Threads of Time’ is an intimate exhibition of mixed media and textile work inspired by the personal, symbolic and cultural connections to an artefact resulting in a modern interpretation. Artefacts can be powerful non-verbal storytellers, to educate and express personal experiences to a place, a time and society thus inspiring a diverse range of ideas and outcomes.\nOpen daily, 10am - 4pm\nFree admission"
-  },
-  {
-   "id": 169327,
-   "name": "Creative Stitch afternoon class Autumn term 2026",
-   "url": "https://www.riverhousebarn.co.uk/events/169327",
-   "start_datetime": "2026-11-25 12:30:00",
-   "end_datetime": "2026-11-25 14:30:00",
-   "start_date": "Wednesday November 25, 2026",
-   "start_time": "12:30 PM",
-   "timezone": "Europe/London",
-   "description": "<p>This is a relaxed and friendly course. It offers a combination of techniques such as batik, felting and machine sewing along with more traditional hand embroidery.&nbsp;<br><br>On the first day students will only need a pen or pencil to make notes. Janet will have a printed copy of the project to hand out, as the first class is normally a lot of discussion about ways to approach the project.<br>Riverhouse doesn&rsquo;t supply materials for the class but Janet can always bring something for people who don&rsquo;t have relevant bits and bobs at home.<br><br><strong>Tutor</strong>: Janet McDonagh<br><strong>Cost</strong>: &pound;115 (ten weeks)<br><br><strong><em>Educational Course Refund Policy</em></strong><br><em>We will process refund&nbsp;requests as follows:</em></p><ul><li><p><em>If the request is&nbsp;made more than eight weeks before the course starts, a full refund will be&nbsp;returned, net of online booking charges, if any.</em></p></li><li><p><em>If the request is&nbsp;made less than eight weeks and more than one week before the course starts, a&nbsp;full refund, net of online booking charges, if any and minus a &pound;25 administration fee will be returned.</em></p></li><li><p><em>No refunds will be&nbsp;made if you withdraw from a course less&nbsp;than seven days before the commencement date of the course.</em></p></li><li><p><em>Once a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse.</em></p></li></ul>",
-   "tags": [
-    "Classes"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6615601/conversions/WU0R6E65KoB2Ju1s-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": false,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": null,
-   "schedule_name": null,
-   "booking_url": "https://www.riverhousebarn.co.uk/events/169327",
-   "price_min": null,
-   "price_max": null,
-   "is_free": false,
-   "tickets": null,
-   "image": "https://assets.nuwebgroup.com/public/media/production/6615601/conversions/WU0R6E65KoB2Ju1s-thumb.jpg",
-   "description_text": "This is a relaxed and friendly course. It offers a combination of techniques such as batik, felting and machine sewing along with more traditional hand embroidery.\nOn the first day students will only need a pen or pencil to make notes. Janet will have a printed copy of the project to hand out, as the first class is normally a lot of discussion about ways to approach the project.\nRiverhouse doesn’t supply materials for the class but Janet can always bring something for people who don’t have relevant bits and bobs at home.\nTutor : Janet McDonagh\nCost : £115 (ten weeks)\nEducational Course Refund Policy\nWe will process refund requests as follows:\nIf the request is made more than eight weeks before the course starts, a full refund will be returned, net of online booking charges, if any.\nIf the request is made less than eight weeks and more than one week before the course starts, a full refund, net of online booking charges, if any and minus a £25 administration fee will be returned.\nNo refunds will be made if you withdraw from a course less than seven days before the commencement date of the course.\nOnce a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse."
-  },
-  {
-   "id": 183261,
-   "name": "Live Poetry At Riverhouse - November",
-   "url": "https://www.riverhousebarn.co.uk/events/183261",
-   "start_datetime": "2026-11-25 19:30:00",
-   "end_datetime": "2026-11-25 21:30:00",
-   "start_date": "Wednesday November 25, 2026",
-   "start_time": "7:30 PM",
-   "timezone": "Europe/London",
-   "description": "<p><strong>Live Poetry at Riverhouse,&nbsp;</strong>our monthly series bringing the spoken word to the warm, intimate setting of the Barn stage, returns with more guest poets of national standing who&rsquo;ll read and discuss their work, plus the ever popular Open Mic spots, where you have the chance to read your own work to a friendly, appreciative audience! The evenings are once again hosted by&nbsp;<strong>Riverhouse Poets</strong>&nbsp;tutor&nbsp;<strong><em>Katie Griffiths.</em></strong></p><p>In this month&rsquo;s event, Katie will be in conversation with headliners&nbsp;<strong><em>Jacqueline Saphra&nbsp;</em></strong><em>and&nbsp;</em><strong><em>John McCullough</em>, both prize-winning poets whose work fearlessly embraces vital modern themes.</strong></p><p><strong><em>Jacqueline Saphra</em></strong>&nbsp;is a poet, playwright, librettist and activist. She is the author of nine plays, five chapbooks and five poetry collections. Her second collection,&nbsp;<em>All My Mad Mothers&nbsp;</em>(Nine Arches Press) was shortlisted for the TS Eliot Prize. Her&nbsp;fifth,&nbsp;<em>Velvel&rsquo;s Violin</em>, a Poetry Book Society Recommendation and Radio 4 Poetry Book of the month, was published by Nine Arches Press in July 2023 and her sixth collection will be out in 2027.&nbsp;She teaches for The Poetry School and is a founder member of Poets for The Planet.&nbsp;</p><p><strong><em>John McCullough&nbsp;</em></strong>lives in Hove. His book of poems,&nbsp;<em>Reckless Paper Birds</em>&nbsp;(Penned in the Margins) won the 2020 Hawthornden Prize for Literature as well as being shortlisted for the Costa Poetry Award. John&rsquo;s collections have been Books of the Year for publications including The Guardian, The Times, The Independent and The Telegraph and he also won the Polari First Book Prize. The poem &lsquo;Flower of Sulphur&rsquo;, from his fourth collection&nbsp;<em>Panic Response</em>&nbsp;(Penned in the Margins), was shortlisted for the 2021 Forward Prize for Best Single Poem. His fifth collection,&nbsp;<em>Crowd Voltage</em>, was published in March 2026 by Bloodaxe.&nbsp;</p><p><strong><em>Katie Griffiths</em></strong>&nbsp;is author of&nbsp;<em>The Attitudes</em>&nbsp;and&nbsp;<em>Mindset Mindrise</em>&nbsp;(Nine Arches Press) and the prize-winning<em>&nbsp;My Shrink is Pregnant&nbsp;(Live Canon).</em>&nbsp;She came second in 2018&rsquo;s National Poetry Competition, and in 2024 won the Gregory O&rsquo;Donoghue International Poetry Prize.&nbsp;&nbsp;She regularly mentors, and leads poetry workshops including here at Riverhouse.&nbsp;&nbsp;</p><p></p>",
-   "tags": [
-    "Poetry & Prose",
-    "Poetry"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6404641/conversions/UNI5TGRgqjOkG1qs-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": true,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": null,
-   "schedule_name": null,
-   "booking_url": "https://www.riverhousebarn.co.uk/events/183261",
-   "price_min": 5.0,
-   "price_max": 5.0,
-   "is_free": false,
-   "tickets": [
-    {
-     "name": "Standard",
-     "price": 5.0
-    },
-    {
-     "name": "Disabled",
-     "price": 5.0
-    }
-   ],
-   "image": "https://assets.nuwebgroup.com/public/media/production/6404641/conversions/UNI5TGRgqjOkG1qs-thumb.jpg",
-   "description_text": "Live Poetry at Riverhouse, our monthly series bringing the spoken word to the warm, intimate setting of the Barn stage, returns with more guest poets of national standing who’ll read and discuss their work, plus the ever popular Open Mic spots, where you have the chance to read your own work to a friendly, appreciative audience! The evenings are once again hosted by Riverhouse Poets tutor Katie Griffiths.\nIn this month’s event, Katie will be in conversation with headliners Jacqueline Saphra and John McCullough , both prize-winning poets whose work fearlessly embraces vital modern themes.\nJacqueline Saphra is a poet, playwright, librettist and activist. She is the author of nine plays, five chapbooks and five poetry collections. Her second collection, All My Mad Mothers (Nine Arches Press) was shortlisted for the TS Eliot Prize. Her fifth, Velvel’s Violin , a Poetry Book Society Recommendation and Radio 4 Poetry Book of the month, was published by Nine Arches Press in July 2023 and her sixth collection will be out in 2027. She teaches for The Poetry School and is a founder member of Poets for The Planet.\nJohn McCullough lives in Hove. His book of poems, Reckless Paper Birds (Penned in the Margins) won the 2020 Hawthornden Prize for Literature as well as being shortlisted for the Costa Poetry Award. John’s collections have been Books of the Year for publications including The Guardian, The Times, The Independent and The Telegraph and he also won the Polari First Book Prize. The poem ‘Flower of Sulphur’, from his fourth collection Panic Response (Penned in the Margins), was shortlisted for the 2021 Forward Prize for Best Single Poem. His fifth collection, Crowd Voltage , was published in March 2026 by Bloodaxe.\nKatie Griffiths is author of The Attitudes and Mindset Mindrise (Nine Arches Press) and the prize-winning My Shrink is Pregnant (Live Canon). She came second in 2018’s National Poetry Competition, and in 2024 won the Gregory O’Donoghue International Poetry Prize. She regularly mentors, and leads poetry workshops including here at Riverhouse."
-  },
   {
    "id": 169337,
    "name": "Thursday Creative Stitch Autumn term 2026",
@@ -828,14 +704,14 @@
   },
   {
    "id": 173654,
-   "name": "Riverhouse Poets - Poetry writing workshop with Katie Griffiths",
+   "name": "Riverhouse Poets - Extra Poetry Writing Workshop with Katie Griffiths",
    "url": "https://www.riverhousebarn.co.uk/events/173654",
    "start_datetime": "2026-12-03 13:30:00",
    "end_datetime": "2026-12-03 15:45:00",
    "start_date": "Thursday December 3, 2026",
    "start_time": "1:30 PM",
    "timezone": "Europe/London",
-   "description": "<p>Whether you&rsquo;ve got experience in writing poems, or you&rsquo;re simply curious to see what will happen when your pen meets paper, this workshop with its lively prompts, stimulating suggestions and fun exercises will help you unleash your inner poet. Although this is part of a series of six workshops (the last one will be a feedback session), each one is also stand-alone.&nbsp;Sessions are led by prize-winning poet Katie Griffiths, whose passion is the mischief and magic of words.</p><p></p><p>New dates are</p><p>Thursday 24 September</p><p>Thursday 8 October</p><p>Thursday 22 October</p><p>Thursday 5 November</p><p>Thursday 19 November</p><p>Thursday 3 December (feedback session)</p><p></p><p>&pound;50 for the term/</p><p>Drop in: &pound;10 per session. Booking recommended.</p><p></p>",
+   "description": "<p>In this one-off workshop, led as ever by prize-winning poet Katie Griffiths, we'll be thinking of poetry as craft. Like a sculptor removing unnecessary clay, we'll experiment with ideas and tips that will help you hone and shape poems.<br><br>Drop in: &pound;10 per session. Booking recommended.</p><p></p>",
    "tags": [
     "Classes",
     "Poetry & Prose",
@@ -873,7 +749,7 @@
     }
    ],
    "image": "https://assets.nuwebgroup.com/public/media/production/5611610/conversions/joZwEc4otCQujYNj-thumb.jpg",
-   "description_text": "Whether you’ve got experience in writing poems, or you’re simply curious to see what will happen when your pen meets paper, this workshop with its lively prompts, stimulating suggestions and fun exercises will help you unleash your inner poet. Although this is part of a series of six workshops (the last one will be a feedback session), each one is also stand-alone. Sessions are led by prize-winning poet Katie Griffiths, whose passion is the mischief and magic of words.\nNew dates are\nThursday 24 September\nThursday 8 October\nThursday 22 October\nThursday 5 November\nThursday 19 November\nThursday 3 December (feedback session)\n£50 for the term/\nDrop in: £10 per session. Booking recommended."
+   "description_text": "In this one-off workshop, led as ever by prize-winning poet Katie Griffiths, we'll be thinking of poetry as craft. Like a sculptor removing unnecessary clay, we'll experiment with ideas and tips that will help you hone and shape poems.\nDrop in: £10 per session. Booking recommended."
   },
   {
    "id": 172246,
@@ -1422,6 +1298,55 @@
    "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6156850/conversions/qwRhzu8SoY06BESk-thumb.jpg",
    "description_text": "Enamel skills for beginners & improvers\nEnamelling is heating powder or liquid glass onto copper metal shapes to create jewellery, keyring or pictures and much more. 3 week courses covering introductory and improvers enamelling skills. New students will learn the initial basics of enamelling. Returning students can improve their skills or explore a new technique.\nTo enrol or ask questions contact learn.enamel@gmail.com\nThursday 1pm to 4pm\nCost: 3 sessions x 3hrs £88 6 sessions x 3hrs £170 9 sessions x 3hrs £255 12 sessions x 3 hours £340 (works out under £10 per hour). Loyalty discount also available to people attending all terms.\nContact learn.enamel@gmail.co.uk for details and availability\nCost includes RHB facilities, teaching, kiln & tool usage. Copper metal and enamel material are paid for separately in class. Typical pendant cost £5 to £10 depending on materials used.Beginners skills cover: scraffito, masking, screens, sifting, brushing, colour layering & design, finishing skills for creating smooth surface finish + bubbling or cracking issue resolution.Improvers skills covers: transparent/opaque colour layering and effects, wet process, 3 dimensional thin copper shim, wire work & cloisonné, small bowls and much more. You must be 18 or over and be prepared to adhere to safety procedures. No previous experience is needed."
+  },
+  {
+   "id": 185423,
+   "name": "Riverhouse Poets - Extra Poetry Writing Workshop with Katie Griffiths",
+   "url": "https://www.riverhousebarn.co.uk/events/185423",
+   "start_datetime": "2026-12-10 13:30:00",
+   "end_datetime": "2026-12-10 15:45:00",
+   "start_date": "Thursday December 10, 2026",
+   "start_time": "1:30 PM",
+   "timezone": "Europe/London",
+   "description": "<p>In this one-off workshop, led as ever by prize-winning poet Katie Griffiths, we'll be thinking of poetry as craft. Like a sculptor removing unnecessary clay, we'll experiment with ideas and tips that will help you hone and shape poems.<br><br>Drop in: &pound;10 per session. Booking recommended.</p><p></p>",
+   "tags": [
+    "Classes",
+    "Poetry & Prose",
+    "Poetry"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6637879/conversions/joZwEc4otCQujYNj-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": 8940,
+   "schedule_name": "Riverhouse Poets - Spring Term",
+   "booking_url": "https://www.riverhousebarn.co.uk/events/185423",
+   "price_min": 10.0,
+   "price_max": 10.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 10.0
+    },
+    {
+     "name": "Disabled",
+     "price": 10.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6637879/conversions/joZwEc4otCQujYNj-thumb.jpg",
+   "description_text": "In this one-off workshop, led as ever by prize-winning poet Katie Griffiths, we'll be thinking of poetry as craft. Like a sculptor removing unnecessary clay, we'll experiment with ideas and tips that will help you hone and shape poems.\nDrop in: £10 per session. Booking recommended."
   },
   {
    "id": 172247,
@@ -2428,7 +2353,7 @@
     "longitude": "-0.42147590"
    },
    "status": "Published",
-   "is_on_sale": false,
+   "is_on_sale": true,
    "is_out_of_stock": false,
    "is_cancelled": false,
    "schedule_id": null,
