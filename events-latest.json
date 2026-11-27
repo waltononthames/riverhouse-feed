@@ -1,169 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T03:31:02+00:00",
+ "generated_at": "2026-11-27T03:34:30+00:00",
  "source": "https://www.riverhousebarn.co.uk/browse",
  "complete": true,
  "pages_read": 9,
- "event_count": 102,
+ "event_count": 99,
  "events": [
-  {
-   "id": 169337,
-   "name": "Thursday Creative Stitch Autumn term 2026",
-   "url": "https://www.riverhousebarn.co.uk/events/169337",
-   "start_datetime": "2026-11-26 10:30:00",
-   "end_datetime": "2026-11-26 12:30:00",
-   "start_date": "Thursday November 26, 2026",
-   "start_time": "10:30 AM",
-   "timezone": "Europe/London",
-   "description": "<p>A stitch and textile class run by Janet McDonagh who is a qualified embroiderer. Janet's forte is creating backgrounds to stitch on and she will be exploring a wide range of stichwork techniques both by hand and machine.</p><p>Classes start on Thursday 24 September 10.30am to 12.30pm and run for 10 weeks with 1 week half term.</p>",
-   "tags": [
-    "Classes"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5283037/conversions/OLKRUlK8uY4lOP7J-thumb.jpg"
-   },
-   "venue": {
-    "id": 14231,
-    "name": "Toshiba Craft Studio",
-    "address_full": "Toshiba Craft Studio, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014210",
-    "longitude": "-0.42147590"
-   },
-   "status": "Published",
-   "is_on_sale": false,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": null,
-   "schedule_name": null,
-   "booking_url": "https://www.riverhousebarn.co.uk/events/169337",
-   "price_min": null,
-   "price_max": null,
-   "is_free": false,
-   "tickets": null,
-   "image": "https://assets.nuwebgroup.com/public/media/production/5283037/conversions/OLKRUlK8uY4lOP7J-thumb.jpg",
-   "description_text": "A stitch and textile class run by Janet McDonagh who is a qualified embroiderer. Janet's forte is creating backgrounds to stitch on and she will be exploring a wide range of stichwork techniques both by hand and machine.\nClasses start on Thursday 24 September 10.30am to 12.30pm and run for 10 weeks with 1 week half term."
-  },
-  {
-   "id": 180843,
-   "name": "Xmas Special - Enamelling Beginners and Improvers Workshops",
-   "url": "https://www.riverhousebarn.co.uk/events/180843",
-   "start_datetime": "2026-11-26 13:00:00",
-   "end_datetime": "2026-11-26 16:00:00",
-   "start_date": "Thursday November 26, 2026",
-   "start_time": "1:00 PM",
-   "timezone": "Europe/London",
-   "description": "<p><strong>Enamel skills for beginners &amp; improvers - Christmas Decorations workshops</strong></p><p>Enamelling is heating powder or liquid glass onto copper metal shapes to create jewellery, keyring or pictures and much more. 3 week courses covering introductory and improvers enamelling skills. New students will learn the initial basics of enamelling. Returning students can improve their skills or explore a new technique.</p><p>To enrol or ask questions contact&nbsp;<a href=\"mailto:learn.enamel@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"a\">learn.enamel@gmail.com</a></p><p><strong>Thursday 1pm to 4pm</strong></p><p><strong>Cost: </strong>3 sessions x 3hrs &pound;88 6 sessions x 3hrs &pound;170 9 sessions x 3hrs &pound;255 12 sessions x 3 hours &pound;340 (works out under &pound;10 per hour). Loyalty discount also available to people attending all terms.</p><p>Cost includes RHB facilities, teaching, kiln &amp; tool usage. Copper metal and enamel material are paid for separately in class. Typical pendant cost &pound;5 to &pound;10 depending on materials used.Beginners skills cover: scraffito, masking, screens, sifting, brushing, colour layering &amp; design, finishing skills for creating smooth surface finish + bubbling or cracking issue resolution.Improvers skills covers: transparent/opaque colour layering and effects, wet process, 3 dimensional thin copper shim, wire work &amp; cloisonn&eacute;, small bowls and much more. &nbsp;&nbsp;You must be 18 or over and be prepared to adhere to safety procedures.&nbsp;No previous experience is needed.&nbsp;</p>",
-   "tags": [
-    "Classes"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6155923/conversions/qwRhzu8SoY06BESk-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": true,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": 10053,
-   "schedule_name": "Xmas Special - Enamelling Beginners and Improvers Workshops",
-   "booking_url": "https://www.riverhousebarn.co.uk/events/180843",
-   "price_min": null,
-   "price_max": null,
-   "is_free": false,
-   "tickets": null,
-   "image": "https://assets.nuwebgroup.com/public/media/production/6155923/conversions/qwRhzu8SoY06BESk-thumb.jpg",
-   "description_text": "Enamel skills for beginners & improvers - Christmas Decorations workshops\nEnamelling is heating powder or liquid glass onto copper metal shapes to create jewellery, keyring or pictures and much more. 3 week courses covering introductory and improvers enamelling skills. New students will learn the initial basics of enamelling. Returning students can improve their skills or explore a new technique.\nTo enrol or ask questions contact learn.enamel@gmail.com\nThursday 1pm to 4pm\nCost: 3 sessions x 3hrs £88 6 sessions x 3hrs £170 9 sessions x 3hrs £255 12 sessions x 3 hours £340 (works out under £10 per hour). Loyalty discount also available to people attending all terms.\nCost includes RHB facilities, teaching, kiln & tool usage. Copper metal and enamel material are paid for separately in class. Typical pendant cost £5 to £10 depending on materials used.Beginners skills cover: scraffito, masking, screens, sifting, brushing, colour layering & design, finishing skills for creating smooth surface finish + bubbling or cracking issue resolution.Improvers skills covers: transparent/opaque colour layering and effects, wet process, 3 dimensional thin copper shim, wire work & cloisonné, small bowls and much more. You must be 18 or over and be prepared to adhere to safety procedures. No previous experience is needed."
-  },
-  {
-   "id": 172245,
-   "name": "Our ArtClub (Years 1-6)",
-   "url": "https://www.riverhousebarn.co.uk/events/172245",
-   "start_datetime": "2026-11-26 16:45:00",
-   "end_datetime": "2026-11-26 17:45:00",
-   "start_date": "Thursday November 26, 2026",
-   "start_time": "4:45 PM",
-   "timezone": "Europe/London",
-   "description": "<p>Limited spaces but lots and lots of fun.<br><strong>Weekly on Thursdays<br><em>Book your place: ourartclub4fun@gmail.com</em></strong><br><br>'Our ArtClub' looks to develop and build on the basic understanding that the arts are all around us.<br>Students will work with a variety of techniques, experimenting with different formats, whilst building a personal portfolio of work for each child and capturing an invaluable record of their creativity!</p><p><strong>AUTUMN TERM 2026&nbsp;at the&nbsp;Riverhouse&nbsp;Barn</strong></p><p><strong>Part 1THURSDAYS 4.45pm - 5.45pm&nbsp;&nbsp;(YEARS 1 - 6)</strong></p><p>DATES:&nbsp;17 SEP /&nbsp;24 SEP&nbsp;/&nbsp;01 OCT&nbsp;/ 08 OCT / 15 OCT&nbsp;<strong>Price: &pound;75 for 5 sessions</strong><br><br>Our ArtClub is run by design professional Margarita Ligda Campbell.</p>",
-   "tags": [
-    "Classes",
-    "Kids"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5487850/conversions/iOHIkJZIUjT1ESOY-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": true,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": 9547,
-   "schedule_name": "Our ArtClub (Years 1-6)",
-   "booking_url": "https://www.riverhousebarn.co.uk/events/172245",
-   "price_min": null,
-   "price_max": null,
-   "is_free": false,
-   "tickets": null,
-   "image": "https://assets.nuwebgroup.com/public/media/production/5487850/conversions/iOHIkJZIUjT1ESOY-thumb.jpg",
-   "description_text": "Limited spaces but lots and lots of fun.\nWeekly on Thursdays\nBook your place: ourartclub4fun@gmail.com\n'Our ArtClub' looks to develop and build on the basic understanding that the arts are all around us.\nStudents will work with a variety of techniques, experimenting with different formats, whilst building a personal portfolio of work for each child and capturing an invaluable record of their creativity!\nAUTUMN TERM 2026 at the Riverhouse Barn\nPart 1THURSDAYS 4.45pm - 5.45pm (YEARS 1 - 6)\nDATES: 17 SEP / 24 SEP / 01 OCT / 08 OCT / 15 OCT Price: £75 for 5 sessions\nOur ArtClub is run by design professional Margarita Ligda Campbell."
-  },
-  {
-   "id": 178585,
-   "name": "Art for Beginners and Continuers Autumn term 2026",
-   "url": "https://www.riverhousebarn.co.uk/events/178585",
-   "start_datetime": "2026-11-26 18:15:00",
-   "end_datetime": "2026-11-26 19:45:00",
-   "start_date": "Thursday November 26, 2026",
-   "start_time": "6:15 PM",
-   "timezone": "Europe/London",
-   "description": "<p>Our creative ten week drawing course for adults is open to all levels of experience and will encourage you to release your creative energy.&nbsp;<br><br><strong>Tutor</strong>:&nbsp;Janet McDonagh <a href=\"http://www.janetmcdonagh.co.uk/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"a\">www.janetmcdonagh.co.uk</a>&nbsp;<br><strong>Cost (10 week course):</strong> &pound;120*<br>During the course we will look at working in different mediums, watercolour, pastels, acrylics as well as pencil and charcoal drawings. Some of the work will be observational and some will be looking at other artists' styles. <br><br><strong>*basic materials only provided</strong><br>There are a few materials that can be used from the cupboards in the art room: pencils, charcoal, scissors, sharpeners and rubbers. Janet will bring a selection of paints for you try before you buy for yourself. She will also bring relevant paper for people to purchase if they don&rsquo;t have any.<br><br><strong><em>Educational Course Refund Policy</em></strong><br><em>We will process refund&nbsp;requests as follows:</em></p><ul><li><p><em>If the request is&nbsp;made more than eight weeks before the course starts, a full refund will be&nbsp;returned, net of online booking charges, if any.</em></p></li><li><p><em>If the request is&nbsp;made less than eight weeks and more than one week before the course starts, a&nbsp;full refund, net of online booking charges, if any and minus a &pound;25 administration fee will be returned.</em></p></li><li><p><em>No refunds will be&nbsp;made if you withdraw from a course less&nbsp;than seven days before the commencement date of the course.</em></p></li><li><p><em>Once a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse.</em></p></li></ul>",
-   "tags": [
-    "Classes"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954443/conversions/JxRqOEzjaAiTRIox-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": false,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": 9925,
-   "schedule_name": "Art for Beginners and Continuers Autumn term 2026",
-   "booking_url": "https://www.riverhousebarn.co.uk/events/178585",
-   "price_min": 120.0,
-   "price_max": 120.0,
-   "is_free": false,
-   "tickets": [
-    {
-     "name": "10 Week Course",
-     "price": 120.0
-    }
-   ],
-   "image": "https://assets.nuwebgroup.com/public/media/production/5954443/conversions/JxRqOEzjaAiTRIox-thumb.jpg",
-   "description_text": "Our creative ten week drawing course for adults is open to all levels of experience and will encourage you to release your creative energy.\nTutor : Janet McDonagh www.janetmcdonagh.co.uk\nCost (10 week course): £120*\nDuring the course we will look at working in different mediums, watercolour, pastels, acrylics as well as pencil and charcoal drawings. Some of the work will be observational and some will be looking at other artists' styles.\n*basic materials only provided\nThere are a few materials that can be used from the cupboards in the art room: pencils, charcoal, scissors, sharpeners and rubbers. Janet will bring a selection of paints for you try before you buy for yourself. She will also bring relevant paper for people to purchase if they don’t have any.\nEducational Course Refund Policy\nWe will process refund requests as follows:\nIf the request is made more than eight weeks before the course starts, a full refund will be returned, net of online booking charges, if any.\nIf the request is made less than eight weeks and more than one week before the course starts, a full refund, net of online booking charges, if any and minus a £25 administration fee will be returned.\nNo refunds will be made if you withdraw from a course less than seven days before the commencement date of the course.\nOnce a course has begun, we will only consider granting refund requests in exceptional circumstances and any such refunds will be at the discretion of Riverhouse."
-  },
   {
    "id": 178597,
    "name": "NEW Mixed Media Art Class - 10 week course",
@@ -2396,7 +2238,7 @@
     "longitude": "-0.42155900"
    },
    "status": "Published",
-   "is_on_sale": false,
+   "is_on_sale": true,
    "is_out_of_stock": false,
    "is_cancelled": false,
    "schedule_id": null,
@@ -2439,7 +2281,7 @@
     "longitude": "-0.42155900"
    },
    "status": "Published",
-   "is_on_sale": false,
+   "is_on_sale": true,
    "is_out_of_stock": false,
    "is_cancelled": false,
    "schedule_id": null,
@@ -2809,6 +2651,54 @@
    "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/5954601/conversions/UvqArrjbP90L4aPp-thumb.jpg",
    "description_text": "Every Monday 6.30pm - 8.30pm\nProfessional models posing each week supported by internationally trained artist Stephen Jones Life Drawing (jonesstephenart.com)\nPlease book ahead by calling Stephen on 07565 908092 | £25 each class or discounts for multiple bookings | Walk-ins subject to space\nSupport, instruction and critique offered.\nYOU WILL NEED\n1. Paper A1 size max.\n2. Drawing board\n3. Charcoal/chalk or any type of pencil or pen\n4. Putty eraser or preferred. (No paint or liquid ink please)\n5. Bring an easel (recommended)\nOpen to all levels"
+  },
+  {
+   "id": 185553,
+   "name": "Tim's History Talk - Caligula: Tyranny and Debauchery in Ancient Rome",
+   "url": "https://www.riverhousebarn.co.uk/events/185553",
+   "start_datetime": "2027-02-12 19:00:00",
+   "end_datetime": "2027-02-12 21:00:00",
+   "start_date": "Friday February 12, 2027",
+   "start_time": "7:00 PM",
+   "timezone": "Europe/London",
+   "description": "<p>Tim's History Talk - <strong><em>Caligula: Tyranny and Debauchery in Ancient Rome</em></strong></p><p><em>&ldquo;If only all Rome had but one neck&rdquo;</em></p><p>Madman or misunderstood? The name of the famously insane emperor Caligula has become a synonym for tyrant. But what can we say for sure about Romes most erratic ruler? Was he truly the sadistic autocrat that he has been remembered as? Did he really make his horse a consul? Was he truly nothing more than a mad tyrant? Or is there more to this emperor than meets the eye?</p><p></p>",
+   "tags": [
+    "Special Events",
+    "Talks"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6646939/conversions/PMq4gqvyljuwnT2V-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/185553",
+   "price_min": 10.0,
+   "price_max": 10.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 10.0
+    },
+    {
+     "name": "Disabled",
+     "price": 10.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6646939/conversions/PMq4gqvyljuwnT2V-thumb.jpg",
+   "description_text": "Tim's History Talk - Caligula: Tyranny and Debauchery in Ancient Rome\n“If only all Rome had but one neck”\nMadman or misunderstood? The name of the famously insane emperor Caligula has become a synonym for tyrant. But what can we say for sure about Romes most erratic ruler? Was he truly the sadistic autocrat that he has been remembered as? Did he really make his horse a consul? Was he truly nothing more than a mad tyrant? Or is there more to this emperor than meets the eye?"
   },
   {
    "id": 184586,
@@ -4265,7 +4155,7 @@
     "Music"
    ],
    "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6498729/conversions/DflXZ7RyuUiCBYAm-thumb.jpg"
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6652484/conversions/1vh21hycf7EG1onv-thumb.jpg"
    },
    "venue": {
     "id": 13134,
@@ -4295,7 +4185,7 @@
      "price": 20.0
     }
    ],
-   "image": "https://assets.nuwebgroup.com/public/media/production/6498729/conversions/DflXZ7RyuUiCBYAm-thumb.jpg",
+   "image": "https://assets.nuwebgroup.com/public/media/production/6652484/conversions/1vh21hycf7EG1onv-thumb.jpg",
    "description_text": "Three consecutive sell-out shows. One sensational violin duo. And now they're back!\nFollowing three years of sell-out performances at Riverhouse Barn, the sensational Red Hot Strings are back for another unforgettable evening of electrifying music and dazzling entertainment!\nBlending the beauty and elegance of classical music with the energy of contemporary pop, rock and dance, this dynamic female duo perform on both classical violins and spectacular LED electric violins, delivering a thrilling musical and visual experience.\nFresh from their appearance on the hit TV series The Real Housewives of London , performances aboard Saga cruise ships and BBC Radio airplay, Red Hot Strings continue to captivate audiences with their unique sound, infectious energy and stunning musicianship.\nHaving performed alongside some of the biggest names in music, including Adele, Beyoncé, Madonna, Rod Stewart, George Michael and Andrea Bocelli, the duo bring an extraordinary wealth of experience to the stage. Expect a fabulous mix of classical favourites with a twist, iconic pop and rock anthems, uplifting dance beats and original tracks from their debut album Crystal .\nThe dynamic duo will be joined on stage by special guests, adding even more excitement and surprises to this much-loved show!\nDescribed by BBC Radio as \"exciting, uplifting and beautiful\" , Red Hot Strings promise another sensational evening of musical magic, dazzling performances and unforgettable entertainment.\nEarly booking is strongly recommended. Don't miss their return!"
   },
   {
