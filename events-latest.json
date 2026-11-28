@@ -1,106 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T03:34:30+00:00",
+ "generated_at": "2026-11-28T03:30:06+00:00",
  "source": "https://www.riverhousebarn.co.uk/browse",
  "complete": true,
  "pages_read": 9,
- "event_count": 99,
+ "event_count": 98,
  "events": [
-  {
-   "id": 178597,
-   "name": "NEW Mixed Media Art Class - 10 week course",
-   "url": "https://www.riverhousebarn.co.uk/events/178597",
-   "start_datetime": "2026-11-27 13:00:00",
-   "end_datetime": "2026-11-27 15:00:00",
-   "start_date": "Friday November 27, 2026",
-   "start_time": "1:00 PM",
-   "timezone": "Europe/London",
-   "description": "<p>A 10 week course starting in September 2026 with Janet McDonagh. Term starts on Friday 25 September 2026 and runs for ten weeks with one week off at half term. 1pm to 3pm</p><p><strong>Let&rsquo;s release that inner creative energy!</strong></p><p>Our mixed media art class is open to all levels of experience and will encourage you to experiment with various art techniques and mediums. A relaxed and friendly course that focus&rsquo;s on working in different mediums, watercolour, pastels, acrylics, alcohol inks, oils, as well as pencil and charcoal drawings. Some work will be observational and some will be looking at other artists&rsquo; styles.</p><p>Course plan provided at the beginning of each term.</p><p>Basic materials only provided. Janet will bring a selection of paints for you to try before you buy for yourself. She will also bring relevant paper for people to purchase if they don&rsquo;t have any.</p><p><a href=\"http://www.janetmcdonagh.co.uk/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"a\">www.janetmcdonagh.co.uk</a>&nbsp;</p><p></p>",
-   "tags": [
-    "Classes"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5954476/conversions/Q3iAWSRwp2AYEqCI-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": false,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": 9926,
-   "schedule_name": "NEW Mixed Media Art Class - 10 week course",
-   "booking_url": "https://www.riverhousebarn.co.uk/events/178597",
-   "price_min": 120.0,
-   "price_max": 120.0,
-   "is_free": false,
-   "tickets": [
-    {
-     "name": "Mixed Media 10 week course",
-     "price": 120.0
-    }
-   ],
-   "image": "https://assets.nuwebgroup.com/public/media/production/5954476/conversions/Q3iAWSRwp2AYEqCI-thumb.jpg",
-   "description_text": "A 10 week course starting in September 2026 with Janet McDonagh. Term starts on Friday 25 September 2026 and runs for ten weeks with one week off at half term. 1pm to 3pm\nLet’s release that inner creative energy!\nOur mixed media art class is open to all levels of experience and will encourage you to experiment with various art techniques and mediums. A relaxed and friendly course that focus’s on working in different mediums, watercolour, pastels, acrylics, alcohol inks, oils, as well as pencil and charcoal drawings. Some work will be observational and some will be looking at other artists’ styles.\nCourse plan provided at the beginning of each term.\nBasic materials only provided. Janet will bring a selection of paints for you to try before you buy for yourself. She will also bring relevant paper for people to purchase if they don’t have any.\nwww.janetmcdonagh.co.uk"
-  },
-  {
-   "id": 175165,
-   "name": "The Red Stripe Band",
-   "url": "https://www.riverhousebarn.co.uk/events/175165",
-   "start_datetime": "2026-11-27 20:00:00",
-   "end_datetime": "2026-11-27 22:00:00",
-   "start_date": "Friday November 27, 2026",
-   "start_time": "8:00 PM",
-   "timezone": "Europe/London",
-   "description": "<p>Formed way back in 1994 by (in the words of NME) <em>&ldquo;Eccentric raconteur and Boogie Woogie front man Red Stripe&rdquo;  </em>(aka Neil Drinkwater!), The Red Stripe Band return to the Barn stage for their annual shindig!<br>Expect a high energy and entertaining mix of classic Rock n roll, swing, jazz and boogie woogie alongside their own compositions selected from their four studio albums...<br><br><em>&ldquo;Imagine a smaller version of the Jools Holland Orchestra without the annoying front man&rdquo; - </em><strong><em>Time Out</em></strong></p><p></p>",
-   "tags": [
-    "Jazz",
-    "Music"
-   ],
-   "images": {
-    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/5715243/conversions/TkzxTFxgVQQN86Br-thumb.jpg"
-   },
-   "venue": {
-    "id": 13134,
-    "name": "Riverhouse Barn",
-    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
-    "postcode": "KT12 2PF",
-    "latitude": "51.39014400",
-    "longitude": "-0.42155900"
-   },
-   "status": "Published",
-   "is_on_sale": true,
-   "is_out_of_stock": false,
-   "is_cancelled": false,
-   "schedule_id": null,
-   "schedule_name": null,
-   "booking_url": "https://www.riverhousebarn.co.uk/events/175165",
-   "price_min": 22.0,
-   "price_max": 24.0,
-   "is_free": false,
-   "tickets": [
-    {
-     "name": "Standard",
-     "price": 24.0
-    },
-    {
-     "name": "Concessions",
-     "price": 22.0
-    },
-    {
-     "name": "Disabled",
-     "price": 24.0
-    }
-   ],
-   "image": "https://assets.nuwebgroup.com/public/media/production/5715243/conversions/TkzxTFxgVQQN86Br-thumb.jpg",
-   "description_text": "Formed way back in 1994 by (in the words of NME) “Eccentric raconteur and Boogie Woogie front man Red Stripe” (aka Neil Drinkwater!), The Red Stripe Band return to the Barn stage for their annual shindig!\nExpect a high energy and entertaining mix of classic Rock n roll, swing, jazz and boogie woogie alongside their own compositions selected from their four studio albums...\n“Imagine a smaller version of the Jools Holland Orchestra without the annoying front man” - Time Out"
-  },
   {
    "id": 162802,
    "name": "GreenMatthews: Midwinter Revels",
@@ -2426,6 +2331,54 @@
    "tickets": null,
    "image": "https://assets.nuwebgroup.com/public/media/production/6143031/conversions/9zwq57dxAAMryKSO-thumb.jpg",
    "description_text": "This is an exhibition by two artists Suzanne and Constantine, wife and husband. They each looks at the female figure through two very different mediums.\nLife Drawing and Art Nude Photography.\nThe exhibition can be taken at face value and can be appreciated or rejected at its aesthetic level or competence of skill.\nIts true purpose however is to offer a challenge, which the visitor may wish to consider and it is this,\nIs one objectifying and the other celebrating?\nIs one emancipation and the other servitude?\nIs one the result of observation and the other of voyeurism?\nAm I appreciating or am I consuming?\nThe answers are with the viewer. You are invited to consider, contemplate and debate.\nOpen daily 10am - 4pm\nFree admission\n16+ at parental discretion"
+  },
+  {
+   "id": 185742,
+   "name": "Jazz & Beer - Sarah Spencer's Transatlantic Band",
+   "url": "https://www.riverhousebarn.co.uk/events/185742",
+   "start_datetime": "2027-01-24 12:15:00",
+   "end_datetime": "2027-01-24 14:15:00",
+   "start_date": "Sunday January 24, 2027",
+   "start_time": "12:15 PM",
+   "timezone": "Europe/London",
+   "description": "<p>We're thrilled to welcome Sarah Spencer and her Transatlantic Band back to the Riverhouse jazz stage for their annual visit!<br>Formed in 1997 by Sarah when she was living in the USA, the Transatlantic Band plays New Orleans music, from the dance halls of New Orleans in the 1920&rsquo;s, through the New Orleans Revival, to the legendary New Orleans Rhythm and Blues/Rock and Roll performers like Fats Domino and Little Richard....</p>",
+   "tags": [
+    "Jazz",
+    "Music"
+   ],
+   "images": {
+    "card_thumbnail": "https://assets.nuwebgroup.com/public/media/production/6661560/conversions/6DnKQPcpUhXgPsmE-thumb.jpg"
+   },
+   "venue": {
+    "id": 13134,
+    "name": "Riverhouse Barn",
+    "address_full": "Riverhouse Barn, Manor Road, Surrey, KT12 2PF",
+    "postcode": "KT12 2PF",
+    "latitude": "51.39014400",
+    "longitude": "-0.42155900"
+   },
+   "status": "Published",
+   "is_on_sale": true,
+   "is_out_of_stock": false,
+   "is_cancelled": false,
+   "schedule_id": null,
+   "schedule_name": null,
+   "booking_url": "https://www.riverhousebarn.co.uk/events/185742",
+   "price_min": 15.0,
+   "price_max": 15.0,
+   "is_free": false,
+   "tickets": [
+    {
+     "name": "Standard",
+     "price": 15.0
+    },
+    {
+     "name": "Disabled",
+     "price": 15.0
+    }
+   ],
+   "image": "https://assets.nuwebgroup.com/public/media/production/6661560/conversions/6DnKQPcpUhXgPsmE-thumb.jpg",
+   "description_text": "We're thrilled to welcome Sarah Spencer and her Transatlantic Band back to the Riverhouse jazz stage for their annual visit!\nFormed in 1997 by Sarah when she was living in the USA, the Transatlantic Band plays New Orleans music, from the dance halls of New Orleans in the 1920’s, through the New Orleans Revival, to the legendary New Orleans Rhythm and Blues/Rock and Roll performers like Fats Domino and Little Richard...."
   },
   {
    "id": 178612,

@@ -1,38 +1,15 @@
 {
- "generated_at": "2026-11-27T03:34:30+00:00",
+ "generated_at": "2026-11-28T03:30:06+00:00",
  "compared_with": "previous events-latest.json",
  "complete": true,
  "new": [
   {
-   "id": 185553,
-   "name": "Tim's History Talk - Caligula: Tyranny and Debauchery in Ancient Rome",
-   "start_datetime": "2027-02-12 19:00:00",
+   "id": 185742,
+   "name": "Jazz & Beer - Sarah Spencer's Transatlantic Band",
+   "start_datetime": "2027-01-24 12:15:00",
    "change": "new"
   }
  ],
- "changed": [
-  {
-   "id": 185224,
-   "name": "Art for Beginners and Continuers Spring term 2027",
-   "start_datetime": "2027-01-14 18:15:00",
-   "changes": {
-    "is_on_sale": {
-     "from": false,
-     "to": true
-    }
-   }
-  },
-  {
-   "id": 185225,
-   "name": "Mixed Media Art Class - 10 week course Spring term 2027",
-   "start_datetime": "2027-01-15 13:00:00",
-   "changes": {
-    "is_on_sale": {
-     "from": false,
-     "to": true
-    }
-   }
-  }
- ],
+ "changed": [],
  "removed": []
 }
